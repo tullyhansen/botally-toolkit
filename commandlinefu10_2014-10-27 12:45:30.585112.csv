@@ -1,0 +1,678 @@
+id,created_at,text
+522718677809238017,2014-10-16 12:00:19,http://t.co/DjHtlQESxZ - synchronicity (flux) #date #fun
+522195778731642880,2014-10-15 01:22:30,http://t.co/CNpujkQDPA - exclude a column with awk (zlemini) #cut
+521385401617899520,2014-10-12 19:42:21,http://t.co/Zjzf7SzKY3 - Kill all Zombie processes (Guaranteed!) (khashmeshab) #csh #kill #process #freebsd #zombie
+507309879170592768,2014-09-03 23:31:15,http://t.co/d8ojRUbBps. - This is how you should push a string in a command's stdin. (claudelepoisson) #bash #stdin
+489946714338381824,2014-07-18 01:36:14,http://t.co/3s3nQxvCsv - Simple multi-user encrypted chat server for 5 users (snipertyler) #encryption #server #chat
+489222278379356160,2014-07-16 01:37:35,http://t.co/z7TVZ9uGbw - Exclude grep from your grepped output of ps (alias included in description) (abcde)
+486620308078481409,2014-07-08 21:18:17,http://t.co/C86fsSKXyh - check the status of 'dd' in progress (OS X) (unixmonkey44467) #dd #progress
+480347117194444800,2014-06-21 13:50:51,http://t.co/ja8N2Q791G - currently mounted filesystems in nice layout (unixmonkey5049) #filesystem #mount #column
+477082083722924032,2014-06-12 13:36:47,http://t.co/dzhHqpP1fc - Find ulimit values of currently running process (dmmst19)
+476018192406441986,2014-06-09 15:09:15,http://t.co/A5jQAKSXTw - Salvage a borked terminal (CharlieInCO)
+474884808909156352,2014-06-06 12:05:36,http://t.co/9jMXyHLVzo - Open Remote Desktop (RDP) from command line and connect local resources (tomer) #windows #rdesktop
+471497949365960704,2014-05-28 03:47:25,http://t.co/J5uIvWtZ2t - 'Fix' a typescript file created by the 'script' program to remove control characters (unixmonkey3987)
+470903293959344130,2014-05-26 12:24:28,http://t.co/mRpvPabFyt - Generate QR code for a WiFi hotspot (thedod) #qr #qrencode #wifi
+463981375540850689,2014-05-07 09:59:14,http://t.co/uTeweqw4hc - analyze traffic remotely over ssh w/ wireshark (abb) #ssh #wireshark #capture #sniff
+463122200300498944,2014-05-05 01:05:11,http://t.co/wpNwrG5PJL - Move items from subdirectories to current directory (and3k) #find #mv #mass-moving
+459425695915991040,2014-04-24 20:16:36,http://t.co/bErOVc65xG - RTFM function (seattlegaucho) #man #info #google
+458947126068641792,2014-04-23 12:34:56,http://t.co/udIK3eJwEg - Generate a random password 30 characters long (atoponce) #gpg #password #random #entropy
+447375395252215810,2014-03-22 14:13:00,http://t.co/V4giRUgiRC - Processes by CPU usage (fbparis)
+444868139847663616,2014-03-15 16:10:04,http://t.co/KZpDeCVRrH - Optimize PDF documents (alamati)
+442262661414133760,2014-03-08 11:36:49,http://t.co/POpVdIEzMT - Better way to use notify-send with at or cron (aurium) #notify-send
+441412265028231169,2014-03-06 03:17:39,http://t.co/d9qilafI8j - Unix alias for date command that lets you create timestamps in ISO 8601 format (olifante)
+441223324757004290,2014-03-05 14:46:52,http://t.co/35AdLqKFc1 - Google verbatim search on your terminal (michelsberg) #google
+438360302644523010,2014-02-25 17:10:15,http://t.co/R64m7Zp4ZF - Check if your ISP is intercepting DNS queries (dinorox) #dig #dns
+430611722244595712,2014-02-04 08:00:09,http://t.co/HAbmUqewCn - When was your OS installed? (MrMerry)
+429742980765724674,2014-02-01 22:28:05,http://t.co/26IH3lZ3Tz - Serve current directory tree at http://$HOSTNAME:8080/ (rugina)
+428414360080248832,2014-01-29 06:28:37,http://t.co/u0YH7tFaX4 - Download all mp3's listed in an html page (egeoffray) #wget
+427425248846159873,2014-01-26 12:58:15,http://t.co/TnLDUf2vnF - quick copy (thebillywayne) #cp
+425184309436096512,2014-01-20 08:33:33,http://t.co/5Nt4ELRTjk - List your largest installed packages (on Debian/Ubuntu) (xrm0) #debian #sort #perl #dpkg
+421406911905284096,2014-01-09 22:23:31,http://t.co/BIdqyvDdSU - List installed deb packages by size (raspi)
+420233110530179073,2014-01-06 16:39:15,http://t.co/pKvX9NKo3F - Fetch the current human population of Earth (mfr) #curl
+417642811110879232,2013-12-30 13:06:20,http://t.co/ZCduhAl2mC - view hex mode in vim (light13) #vim
+411134193855262721,2013-12-12 14:03:24,http://t.co/aztR550E5Q - Google text-to-speech in mp3 format (snipertyler) #google #google-api #speech #text-to-speech #text-to-speech
+411134038217195521,2013-12-12 14:02:47,http://t.co/frPFh74jIb - Sending a file over icmp with hping (hadace)
+408175001490042880,2013-12-04 10:04:38,http://t.co/6ENUICvwyg - Using mplayer to play the audio only but suppress the video (foremire) #mplayer
+405321371384700928,2013-11-26 13:05:20,http://t.co/ty7RPlQyBQ. - Validate and pretty-print JSON expressions. (azeey) #python #json
+405057575009275904,2013-11-25 19:37:06,http://t.co/Q1RoVPRo5N - Parallel file downloading with wget (syssyphus)
+400610575534673920,2013-11-13 13:06:18,http://t.co/KYTvtDcnrO - Find out the starting directory of a script (mhs) #process-management #parameter-expansion #special-parameters
+400260872448139264,2013-11-12 13:56:43,http://t.co/bHewOB3SR6 - One command line web server on port 80 using nc (netcat) (ztank1013) #bash #linux #netcat #nc #web-server
+399880474895474688,2013-11-11 12:45:09,"http://t.co/SQMVadjJCh - Tells which group you DON'T belong to (opposite of command ""groups"") --- uses sed (gniourf_gniourf)"
+399404265526919169,2013-11-10 05:12:52,http://t.co/00r2Hxchgm - Measures download speed on eth0 (stuntdawg) #bash #linux #ifconfig
+399324167524188160,2013-11-09 23:54:35,http://t.co/3gRjxS8eFY - intercept stdout/stderr of another process (systemj) #output #stdout #strace #stderr
+394087734823759872,2013-10-26 13:06:52,http://t.co/cJxxHL2hyz - Make vim open in tabs by default (save to .profile) (tommed) #vim #vi #tab
+392798764844322816,2013-10-22 23:44:58,http://t.co/I9IRUfU4um - Upgrade all perl modules via CPAN (sputnick)
+392724639861858304,2013-10-22 18:50:25,http://t.co/HZOmQbNL9Y - Delete DOS Characters via VIM (^M) (Matejunkie) #vim #-m
+255726429965262850,2012-10-09 17:48:26,http://t.co/MTs5VsWq - Generate a Random MAC address (putnamhill) #sed #xxd #openssl
+248797011355242497,2012-09-20 14:53:24,http://t.co/9YbZByGD - Numeric zero padding file rename (eightmillion) #perl #rename #zeropad
+245438153123581953,2012-09-11 08:26:30,http://t.co/AV4rxE48 - Backup files incremental with rsync to a NTFS-Partition (0x2142) #backup #rsync
+243458086289944576,2012-09-05 21:18:25,http://t.co/BPRpmbYo - Empty a file (pipping)
+241195103887192064,2012-08-30 15:26:08,http://t.co/NcP1ScAh. - sort the contents of a text file in place. (jambino) #sorting #text
+238381353954054144,2012-08-22 21:05:18,http://t.co/ZXHe2nd4 - Show permissions of current directory and all directories upwards to / (bazzargh)
+235989185884979200,2012-08-16 06:39:41,http://t.co/npusjxtI - repeat a command every one second (mesuutt)
+231267160050245633,2012-08-03 05:56:02,http://t.co/5Or0zRd5 - dmesg with colored human-readable dates (jlaunay)
+228101026639642625,2012-07-25 12:14:57,http://t.co/ZNXGmMgS. - hard disk information - Model/serial no. (rockon)
+225377523620524032,2012-07-17 23:52:43,"http://t.co/vKDPiRF8 - Check command history, but print command instead of execute it (mesuutt)"
+217742872680738816,2012-06-26 22:15:20,http://t.co/A5ClLDcJ - HourGlass (AskApache) #while #sleep #for #tput #askapache
+215486125463187456,2012-06-20 16:47:50,http://t.co/8PWOU0Eo - Search back through previous commands (tarkasteve) #bash-tricks
+215442867152359424,2012-06-20 13:55:56,"http://t.co/Rs10aRfz - Rapidly invoke an editor to write a long, complex, or tricky command (pkufranky) #readline"
+212609094308212736,2012-06-12 18:15:32,http://t.co/GNTtY5Ou - Delete all files found in directory A from directory B (jamiebullock) #delete #rm
+209326173455527936,2012-06-03 16:50:23,http://t.co/9tWIaneg - Gets the english pronunciation of a phrase (daa) #mplayer #google #say #text-to-speech
+207465473573519362,2012-05-29 13:36:38,http://t.co/1728kloi - convert single digit to double digits (Bonster)
+207400884001447936,2012-05-29 09:19:58,http://t.co/AOZWxUMT - List all bash shortcuts (ricardofunke) #bash #shortcut #bind
+205991466651230208,2012-05-25 11:59:27,http://t.co/hEA3t2ES - List bash functions defined in .bash_profile or .bashrc (patrick2000) #bash #function
+205557133780074497,2012-05-24 07:13:34,http://t.co/lhGqzGG1 - find all active IP addresses in a network (gavinmc) #find #list #ip-address
+174263999280582656,2012-02-27 22:45:49,http://t.co/YeQQftOP - Annotate tail -f with timestamps (yoyoyojomo)
+172982898197143552,2012-02-24 09:55:11,http://t.co/1yMY3nHp - Stripping ^M at end of each line for files (log0)
+172637612346060801,2012-02-23 11:03:08,"http://t.co/tRTxInPf - find the biggest files recursively, no matter how many (fsilveira) #sort #find #ls"
+172043889518194689,2012-02-21 19:43:54,http://t.co/q5gPA6Kn - ping as traceroute (fossilet) #bash #ping #traceroute
+169698861667975168,2012-02-15 08:25:36,http://t.co/oLUGt3vV - Remove a range of lines from a file (Zulu) #bash #sed
+167973892189728768,2012-02-10 14:11:11,http://t.co/q9ouliXO - pretend to be busy in office to enjoy a cup of coffee (houghi)
+167066721700691968,2012-02-08 02:06:25,http://t.co/VDhpbOVF - Hide the name of a process listed in the `ps` output (mhs) #exec #ps #process-table
+165582223850995712,2012-02-03 23:47:33,http://t.co/gEcSyXH9 - Remove a line from a file using sed (useful for updating known SSH server keys when they change) (bunam)
+165343778696204289,2012-02-03 08:00:03,http://t.co/LcrdwmFO - List your MACs address (barto)
+165037129381068801,2012-02-02 11:41:32,http://t.co/Pz8HzIJ3 - Transfer a file to multiple hosts over ssh (zlemini)
+163266021573144576,2012-01-28 14:23:47,http://t.co/JAfRk7FK - Quick access to ASCII code of a key (totti) #ascii #quick #access
+162690147656278016,2012-01-27 00:15:28,http://t.co/2l7weq6x - command line calculator (twfcc)
+162670841262383105,2012-01-26 22:58:45,http://t.co/gg0toD7Q - Find the process you are looking for minus the grepped one (dstahlke)
+161485569128534016,2012-01-23 16:28:54,http://t.co/kOW5sYag - Daemonize nc - Transmit a file like a http server (Zulu)
+160229060096696320,2012-01-20 05:15:59,http://t.co/9nHSwxGH. - List your largest installed packages. (udim) #debian #wajig
+159938224352002049,2012-01-19 10:00:18,http://t.co/PpjmNlNE - Extract audio from Flash video (*.flv) as mp3 file (odoepner)
+156815264099479552,2012-01-10 19:10:47,http://t.co/VfVPqFXc - Show bandwidth use oneliner (point_to_null) #awk #sh
+156813776044302338,2012-01-10 19:04:52,http://t.co/8wGkAuO4 - du with colored bar graph (kevinquinnyo)
+156779620736307200,2012-01-10 16:49:09,http://t.co/8wxYWezZ - Duplicate installed packages from one machine to the other (RPM-based systems) (TuxOtaku)
+156178251948097537,2012-01-09 00:59:31,http://t.co/Xj8LD32X - Down for everyone or just me? (vando)
+156006082244907008,2012-01-08 13:35:23,http://t.co/IXs8UxWY - Follow tail by name (fix for rolling logs with tail -f) (recursiverse) #tail #logs
+155790433618903040,2012-01-07 23:18:28,http://t.co/3oYm902m. - Stamp a text line on top of the pdf pages. (svg) #pdf #watermark #pdftk #stamp
+155416610365120513,2012-01-06 22:33:02,http://t.co/JD1hXCb3 - Show what PID is listening on port 80 on Linux (pykler) #check #port #server #port-80 #listen
+154971666517213184,2012-01-05 17:04:59,"http://t.co/3pJnsCW2 - Create strong, but easy to remember password (bugmenot) #password #md5 #base64 #passphrase"
+154563159607353344,2012-01-04 14:01:43,http://t.co/wsHcJFYX - Quick HTML image gallery from folder contents (Schneckentreiber) #image #browser #html #folder #image-gallery
+153656970228928513,2012-01-02 02:00:51,http://t.co/r7JarTzj - convert from hexidecimal or octal to decimal (Mozai) #bash #hex #numbers
+153557387893145601,2012-01-01 19:25:08,http://t.co/9tnvnXXR - Create a local compressed tarball from remote host directory (__) #ssh #tar #gzip
+153190442891100163,2011-12-31 19:07:02,http://t.co/iKw8uzzp - disable history for current shell session (syssyphus)
+151977591950155779,2011-12-28 10:47:36,http://t.co/mu6OioWc - Emptying a text file in one shot (Vilemirth) #vim #vi
+150506477122101248,2011-12-24 09:21:55,http://t.co/ggUVDKaV - Display last exit status of a command (servermanaged)
+150495385259999233,2011-12-24 08:37:50,http://t.co/zvvEqnwT - Ping scanning without nmap (SuperJediWombat) #ping
+149662171507331073,2011-12-22 01:26:56,http://t.co/xVuOc6Cm - vim easter egg (alvinx)
+149461197035536385,2011-12-21 12:08:20,http://t.co/03XteUIq - Start a HTTP server which serves Python docs (haivu) #python #help
+149461016412041216,2011-12-21 12:07:37,http://t.co/GH1tSP07 - An easter egg built into python to give you the Zen of Python (cofi)
+148418845382680578,2011-12-18 15:06:24,http://t.co/3RstmZ9B - tail a log over ssh (zlemini)
+147828738137141249,2011-12-17 00:01:32,http://t.co/Cn0ehNf1 - Create an animated gif from a Youtube video (zed) #mplayer #youtube #gif
+146983948512276480,2011-12-14 16:04:38,http://t.co/zgX1Hae5 - Get video information with ffmpeg (topher1kenobe) #ffmpeg
+146314800287326208,2011-12-12 19:45:41,"http://t.co/9NykX12x - Get the canonical, absolute path given a relative and/or noncanonical path (rbs)"
+144920885080489987,2011-12-08 23:26:46,http://t.co/GStM6fnH - kill process by name (SuperJediWombat)
+144504299106476033,2011-12-07 19:51:24,http://t.co/snoBRKZI. - Draw kernel module dependancy graph. (point_to_null) #imagemagick #awk #lsmod #dot
+144363921711710208,2011-12-07 10:33:35,http://t.co/ggsNiLZJ - Redirect  tar extract to another directory (Dhinesh) #tar-gz
+144118444034494464,2011-12-06 18:18:09,http://t.co/Ux87pj8T - Print diagram of user/groups (point_to_null) #imagemagick #awk #dot
+143229393463021568,2011-12-04 07:25:23,http://t.co/aLle6dxR - Change/Modify timestamp interactively (frans) #touch #zenity #timestamp #interactive
+141060185253871616,2011-11-28 07:45:43,http://t.co/b45jCIWs. - Draw kernel module dependancy graph. (bandie91) #perl #lsmod #dot #modules
+140887324434239489,2011-11-27 20:18:50,http://t.co/Y0G53HRW - Send email with curl and gmail (mitry) #curl #smtp #gmail #smtps
+140572587095896064,2011-11-26 23:28:11,http://t.co/2sOY7gmK - save man-page as pdf (unixmonkey21861) #ps2pdf
+140532316035493889,2011-11-26 20:48:09,http://t.co/p4Lcc1ep - Limit the cpu usage of a process (Dhinesh) #cpu
+138320556880691200,2011-11-20 18:19:25,"http://t.co/SVEfDUlW - Start COMMAND, and kill it if still running after 5 seconds (unixmonkey21861) #timeout"
+138184903626989569,2011-11-20 09:20:23,http://t.co/TQ0g7MFO - Convert Youtube videos to MP3 (menachem) #youtube #mp3
+137144702754488320,2011-11-17 12:26:59,http://t.co/Mav48bDD - Create a Multi-Part Archive Without Proprietary Junkware (asmoore82)
+136093954130198529,2011-11-14 14:51:41,http://t.co/coxGH49N - Target a specific column for pattern substitution (zlemini)
+133196722523475968,2011-11-06 14:59:07,http://t.co/dLiJ9Mn7 - Temporarily ignore known SSH hosts (oernii2) #ssh
+132575107037134850,2011-11-04 21:49:03,http://t.co/QLVOYDM8 - Resize an image to at least a specific resolution (aguslr) #imagemagick
+132247515583086593,2011-11-04 00:07:19,http://t.co/zOqKrFEO - Verify/edit bash history command before executing it (b_t) #history #bash
+130946489022300160,2011-10-31 09:57:30,"http://t.co/OJfh584v - Create a file server, listening in port 7000 (anhpht)"
+130104198984499200,2011-10-29 02:10:32,http://t.co/R0qwEjIm - Files extension change (haithamg)
+129496361342214144,2011-10-27 09:55:13,http://t.co/d89yJLjl - Exclude multiple columns using AWK (zlemini)
+129364927763841024,2011-10-27 01:12:56,http://t.co/puxGnLC7 - Prints total line count contribution per user for an SVN repository (askedrelic) #svn #count
+129342576699523074,2011-10-26 23:44:08,http://t.co/XRI8UOrn - Enable ** to expand files recursively (&gt;=bash-4.0) (Alanceil) #bash #globstar #expand
+127978831951826944,2011-10-23 05:25:05,http://t.co/ot1c6ZAy - Convert seconds into minutes and seconds (mathias)
+127371588982149120,2011-10-21 13:12:07,http://t.co/l9QNLUtS - Convert seconds into minutes and seconds (unixmonkey3280)
+126376358967377920,2011-10-18 19:17:26,http://t.co/CuttW8QG - Convert camelCase to underscores (camel_case) (atoponce)
+125981055785238529,2011-10-17 17:06:38,http://t.co/Jxdkk5fX - Create .pdf from .doc (anhpht)
+125980881172168704,2011-10-17 17:05:57,http://t.co/YhPrjFum - Discovering all open files/dirs underneath a directory (ztank1013) #lsof #umount
+125362836795965440,2011-10-16 00:10:04,http://t.co/kI5lW7sx - urldecoding (mohan43u) #bash #sed #xa #urldecod
+125181894026469376,2011-10-15 12:11:03,http://t.co/SG7OHn7O - What is my ip? (timothybeeler)
+124994808564547584,2011-10-14 23:47:39,http://t.co/K2O7ujxj... - Print without executing the last command that starts with... (acirulli) #bash
+124979302147170304,2011-10-14 22:46:02,http://t.co/EKPqdtfG - Generate a list of installed packages on Debian-based systems (cammarin) #debian #ubuntu #dpkg
+124416973005275136,2011-10-13 09:31:32,http://t.co/LuJ9IuC0 - Get all links of a website (putnamhill) #awk #lynx
+124401263881371648,2011-10-13 08:29:07,http://t.co/YioU3KBh - Query well known ports list (unixmonkey4200)
+124175826508976128,2011-10-12 17:33:18,http://t.co/W8rw67Hd - Continue a current job in the background (lucafaus) #bash #terminal #shell #zsh
+121590228979957760,2011-10-05 14:19:04,http://t.co/nCwDgZvH - Generate Random Passwords (Blackbit)
+118792672344420352,2011-09-27 21:02:34,http://t.co/A9CBjnVy - Save a file you edited in vim without the needed permissions (no echo) (idemal) #vim #sudo #tee
+118429628460306433,2011-09-26 20:59:58,"http://t.co/lXDvWRG5 - make, or run a script, everytime a file in a directory is modified (fain182) #linux #make #inotify"
+118166016797835264,2011-09-26 03:32:28,http://t.co/3HfpbX1b - Find running binary executables that were not installed using dpkg (kamathln) #debian #find #dpkg
+116779272122798080,2011-09-22 07:42:02,http://t.co/kBgyxbgz - using `!#$' to referance backward-word (unixmonkey21861) #-
+116078428532391936,2011-09-20 09:17:08,http://t.co/zDPdwSgd - Substrings a variable (totti) #variable #substring
+115107701926801409,2011-09-17 16:59:49,http://t.co/vgcMsLby - Capitalize first letter of each word in a string (RanyAlbeg) #sed #tr #capitalize
+114026113101070336,2011-09-14 17:21:58,http://t.co/tQwO6mE - See your current RAM frequency (unixhome)
+113190999098003456,2011-09-12 10:03:31,http://t.co/TxAacnC - Share your terminal session real-time (realist) #terminal #script #share #mkfifo
+111540840509358080,2011-09-07 20:46:23,http://t.co/lTi7vwW. - List by size all of the directories in a given tree. (moogmusic) #size #directory #directory-size-du
+111427991829102592,2011-09-07 13:17:58,http://t.co/DdLTUmD - Convert all Flac in a directory to Mp3 using maximum quality variable bitrate (irae) #music #mp3 #flac #convert
+111330739664068608,2011-09-07 06:51:31,http://t.co/ofrFR2V - run command on a group of nodes in parallel (gutoyr) #ssh #tee #echo #parallel
+110808023953453056,2011-09-05 20:14:26,http://t.co/UDfJ1eU - Print just line 4 from a textfile (infinull) #text-processing
+109614572259909632,2011-09-02 13:12:05,http://t.co/7LhFvFx - format txt as table not joining empty columns (bashrc) #column
+109377844378992640,2011-09-01 21:31:24,http://t.co/iqNEoMu - cat a bunch of small files with file indication (theist) #cat #grep
+108870679373422592,2011-08-31 11:56:07,http://t.co/F7lr2OF - Synchronize date and time with a server over ssh (splante) #ssh #-ntp #-date
+108117546464587776,2011-08-29 10:03:26,"http://t.co/sgYrGCw - Fast, built-in pipe-based data sink (h3xx) #pipe #redirecting-output #built-in #data-sink"
+107049298071527425,2011-08-26 11:18:36,http://t.co/OWtgALq - Find out how much data is waiting to be written to disk (h3xx) #filesystem #grep #proc #buffer
+106391100180283393,2011-08-24 15:43:09,http://t.co/uebpfD8 - execute a shell with netcat without -e (gerard)
+106321829802684416,2011-08-24 11:07:54,http://t.co/ZV6h4vY - What is the use of this switch ? (dbh) #grep #switch
+106308303608479744,2011-08-24 10:14:09,http://t.co/7dMt8qt - save command output to image (unixmonkey21861) #imagemagick
+106275211879530496,2011-08-24 08:02:39,http://t.co/IlX5n1O - List files accessed by a command (unixmonkey8046) #file #monitoring #strace
+106134584265162753,2011-08-23 22:43:51,http://t.co/XMW0L5h - Get My Public IP Address (dpoblador) #network #curl
+105176584721399808,2011-08-21 07:17:06,http://t.co/o5wSeyB - ssh to machine behind shared NAT (mweed)
+104865693073293313,2011-08-20 10:41:44,http://t.co/7peTonO - Record microphone input and output to date stamped mp3 file (oracular) #mp3 #lame #arecord #mic #microphone
+104472659550670848,2011-08-19 08:39:57,http://t.co/84e9LzO - Find the most recently changed files (recursively) (sammcj) #sort #find #recently-changed
+103788110588026880,2011-08-17 11:19:48,http://t.co/GHk1JSY - mkdir & cd into it as single command (kzh) #bash #cd #mkdir #bash-tricks
+103344644066254848,2011-08-16 05:57:37,http://t.co/Dog4dOJ. - Short and elegant way to backup a single file before you change it. (ideivid) #backup #cp
+100955475838910464,2011-08-09 15:43:55,http://www.commandlinefu.com/commands/view/8830/rdp-through-ssh-tunnel - RDP through SSH tunnel (johnquail)
+96633625809911808,2011-07-28 17:30:26,http://www.commandlinefu.com/commands/view/8879/all-ip-connected-to-my-host - All IP connected to  my host (bitbasher)
+96525049846177792,2011-07-28 10:18:59,http://www.commandlinefu.com/commands/view/3009/add-prefix-onto-filenames - Add prefix onto filenames (lingo) #debian #rename #prefix
+95513614680727553,2011-07-25 15:19:54,"http://www.commandlinefu.com/commands/view/8875/ask-for-a-password-the-passwd-style - Ask for a password, the passwd-style (h3nr1x) #read"
+95005319930986496,2011-07-24 05:40:08,http://www.commandlinefu.com/commands/view/8654/all-out - all out (SuperFly) #awk #grep #who
+95001089140736000,2011-07-24 05:23:19,http://www.commandlinefu.com/commands/view/8258/remote-screenshot - Remote screenshot (splante)
+90077848659955712,2011-07-10 15:20:07,http://www.commandlinefu.com/commands/view/4471/rename-.jpg-to-.jpg-recursively - Rename .JPG to .jpg recursively (renich) #find #rename
+85712878363086848,2011-06-28 14:15:17,http://www.commandlinefu.com/commands/view/6142/runs-a-x-session-within-your-x-session - runs a X session within your X session (cp)
+85417596735848448,2011-06-27 18:41:56,http://www.commandlinefu.com/commands/view/8721/find-files-in-a-date-range - find files in a date range (flatcap) #find #dates
+84660361550241793,2011-06-25 16:32:57,http://www.commandlinefu.com/commands/view/3877/grep-v-with-multiple-patterns. - grep -v with multiple patterns. (zlemini)
+84456150300508161,2011-06-25 03:01:30,http://www.commandlinefu.com/commands/view/4946/copy-with-progress - Copy with progress (fletch) #copy-progress #progress
+83308676080865280,2011-06-21 23:01:50,http://www.commandlinefu.com/commands/view/8657/monitor-memory-usage - monitor memory usage (0disse0) #vmstat #watch
+82569714156576768,2011-06-19 22:05:28,http://www.commandlinefu.com/commands/view/8665/control-ssh-connection - Control ssh connection (xeor) #ssh
+79626172257943552,2011-06-11 19:08:53,http://www.commandlinefu.com/commands/view/8615/content-search. - Content search. (RanyAlbeg)
+58975360523579392,2011-04-15 19:29:56,http://www.commandlinefu.com/commands/view/8275/grub2-set-super-mario-as-startup-tune - GRUB2: set Super Mario as startup tune (stanix)
+58745622626451457,2011-04-15 04:17:02,http://www.commandlinefu.com/commands/view/954/find-broken-symlinks - Find broken symlinks (Shango1980)
+57984674353512448,2011-04-13 01:53:18,http://www.commandlinefu.com/commands/view/8268/df-without-line-wrap-on-long-fs-name - df without line wrap on long FS name (fossilet)
+57275125992665088,2011-04-11 02:53:48,http://www.commandlinefu.com/commands/view/8260/find-broken-symlinks - Find broken symlinks (depesz) #find #symlinks
+50685208336408577,2011-03-23 22:27:50,http://www.commandlinefu.com/commands/view/8125/list-your-macs-address - List your MACs address (vando)
+48340628228157440,2011-03-17 11:11:18,http://www.commandlinefu.com/commands/view/1792/rot13-using-the-tr-command - Rot13 using the tr command (penpen) #linux #unix
+46629622691012609,2011-03-12 17:52:23,News: Confoo 2011 presentation
+42162587080720384,2011-02-28 10:01:58,http://www.commandlinefu.com/commands/view/7938/countdown-clock - Countdown Clock (flatcap) #date #sleep #timer #for #printf #counter
+38711057505722369,2011-02-18 21:26:49,http://www.commandlinefu.com/commands/view/7841/rsync-instead-of-scp - rsync instead of scp (ruslan) #rsync #scp #port #bandwidth #ipv4
+36149889540825088,2011-02-11 19:49:39,http://www.commandlinefu.com/commands/view/5134/remote-backups-with-tar-over-ssh - Remote backups with tar over ssh (mack) #ssh #tar
+35463367858593792,2011-02-09 22:21:40,http://www.commandlinefu.com/commands/view/7808/figure-out-what-shell-youre-running - Figure out what shell you're running (chmurli)
+35055403058339840,2011-02-08 19:20:34,http://www.commandlinefu.com/commands/view/6177/dd-with-progress-bar-and-statistics - dd with progress bar and statistics (BruceLEET)
+30562180906618881,2011-01-27 09:46:06,http://www.commandlinefu.com/commands/view/7718/download-youtube-video-with-wget - Download Youtube video with wget! (Eno)
+29215773473902592,2011-01-23 16:35:57,http://www.commandlinefu.com/commands/view/7687/shell-recorder-with-replay - Shell recorder with replay (olorin)
+29120056357036032,2011-01-23 10:15:37,http://www.commandlinefu.com/commands/view/7681/bash-logger - Bash logger (linuts)
+27937226922921985,2011-01-20 03:55:28,http://www.commandlinefu.com/commands/view/5791/print-info-about-your-real-user. - Print info about your real user. (unixmonkey6894)
+23075850417078273,2011-01-06 17:58:06,http://www.commandlinefu.com/commands/view/7518/stderr-in-color - stderr in color (IgorKonforti) #color #stderr
+22700080179974144,2011-01-05 17:04:55,http://www.commandlinefu.com/commands/view/7581/rtfm-function - RTFM function (hunterm) #man #google
+22432403632951299,2011-01-04 23:21:16,News: Moderation now required for new commands
+22123248816750592,2011-01-04 02:52:48,http://www.commandlinefu.com/commands/view/1485/merge-.pdf-files - Merge *.pdf files (oops66)
+20302544873979904,2010-12-30 02:17:58,http://www.commandlinefu.com/commands/view/7445/compare-copies-of-a-file-with-md5 - Compare copies of a file with md5 (remil)
+20202169386926081,2010-12-29 19:39:07,http://www.commandlinefu.com/commands/view/7450/send-a-circular - send a circular (ioggstream)
+19694260156637184,2010-12-28 10:00:52,http://www.commandlinefu.com/commands/view/7416/find-usb-device - Find usb device (Juluan)
+19525718819999744,2010-12-27 22:51:08,http://www.commandlinefu.com/commands/view/7390/create-a-new-file - Create a new file (Juev)
+19491024946597888,2010-12-27 20:33:17,News: Apologies for not banning the trolls sooner
+19422128793190400,2010-12-27 15:59:31,http://www.commandlinefu.com/commands/view/7411/send-a-circular - send a circular (winky)
+19064736469487616,2010-12-26 16:19:22,http://www.commandlinefu.com/commands/view/7384/bind-a-key-with-a-command - Bind a key with a command (unixmonkey15634)
+15919709996191744,2010-12-18 00:02:09,http://www.commandlinefu.com/commands/view/7335/backup-delicious-bookmarks - backup delicious bookmarks (nco)
+15347280433385473,2010-12-16 10:07:31,http://www.commandlinefu.com/commands/view/6437/translates-acronyms-for-you - translates acronyms for you (potatoface)
+14649368749539329,2010-12-14 11:54:16,http://www.commandlinefu.com/commands/view/7278/the-same-as-esc-in-vim - the same as [Esc] in vim (light13) #vim
+13449802469609472,2010-12-11 04:27:37,http://www.commandlinefu.com/commands/view/7269/visit-wikileaks.com - Visit wikileaks.com (schmiddim)
+12005278153187328,2010-12-07 04:47:36,http://www.commandlinefu.com/commands/view/2755/pick-a-random-line-from-a-file - Pick a random line from a file (sklm)
+9737749225537537,2010-11-30 22:37:14,http://www.commandlinefu.com/commands/view/7144/generate-md5-hash-for-a-string - Generate MD5 hash for a string (unefunge) #bash #md5sum
+8260456145756162,2010-11-26 20:47:00,http://www.commandlinefu.com/commands/view/1654/fibonacci-numbers-with-awk - Fibonacci numbers with awk (kaan) #awk #seq
+7331861793611776,2010-11-24 07:17:06,http://www.commandlinefu.com/commands/view/7128/ask-user-to-confirm - Ask user to confirm (frans) #read
+7086628141015040,2010-11-23 15:02:38,http://www.commandlinefu.com/commands/view/7107/bind-a-key-with-a-command - Bind a key with a command (strzel_a)
+4305719096516608,2010-11-15 22:52:18,http://www.commandlinefu.com/commands/view/6984/find-all-file-larger-than-500m - find all file larger than 500M (flxndn) #size #find
+3596802959876096,2010-11-13 23:55:19,http://www.commandlinefu.com/commands/view/6970/kill-all-process-that-belongs-to-you - kill all process that belongs to you (cogsmos)
+2692778769252352,2010-11-11 12:03:03,http://www.commandlinefu.com/commands/view/6988/random-unsigned-integer - Random unsigned integer (putnamhill) #openssl #random
+2649391286456320,2010-11-11 09:10:38,http://www.commandlinefu.com/commands/view/6358/remove-thumbs.db-files-from-folders - Remove Thumbs.db files from folders (John_W)
+29348116202,2010-11-01 06:17:03,http://www.commandlinefu.com/commands/view/6913/take-screenshot-through-ssh - Take screenshot through SSH (depesz)
+29217494840,2010-10-30 21:05:50,http://www.commandlinefu.com/commands/view/6915/blink-led-port-of-nic-card - Blink LED Port of NIC Card (shadyabhi) #ethtool
+28401975611,2010-10-22 13:00:59,http://www.commandlinefu.com/commands/view/6867/exclude-a-column-with-cut - exclude a column with cut (alperyilmaz) #cut
+28069484566,2010-10-21 23:09:43,http://www.commandlinefu.com/commands/view/6856/diff-remote-webpages-using-wget - Diff remote webpages using wget (barwin)
+25903280725,2010-09-29 17:37:04,http://www.commandlinefu.com/commands/view/3722/more-precise-bash-debugging - More precise BASH debugging (oernii2) #bash #debug #oernii
+25664620422,2010-09-27 06:51:44,http://www.commandlinefu.com/commands/view/6652/remove-all-but-one-specific-file - Remove all but one specific file (RanyAlbeg)
+25437652654,2010-09-24 20:50:04,News: OAuth and pagination problems fixed
+22193559671,2010-08-26 16:55:38,http://bit.ly/agW9lr - create a temporary file in a command line call (cb0) #bash
+22188966728,2010-08-26 15:56:10,http://bit.ly/lq5Oz - Replace spaces in filenames with underscorees (fsilveira) #rename
+22132109626,2010-08-26 00:16:03,http://bit.ly/96Cyh - Convert .wma files to .ogg with ffmpeg (muadib) #ffmpeg #wma #ogg
+21931288247,2010-08-23 17:48:12,http://www.commandlinefu.com/commands/view/6371/recover-a-deleted-file - Recover a deleted file (olalonde) #recovery #delete #grep
+21924210744,2010-08-23 15:57:55,http://www.commandlinefu.com/commands/view/6408/the-bofh-excuse-server - The BOFH Excuse Server (o0110o)
+21860259801,2010-08-22 21:37:24,"http://bit.ly/37tkWs - Remove executable bit from all files in the current directory recursively, excluding other directories (CodSpirit)"
+21858858044,2010-08-22 21:14:29,http://bit.ly/asGiHJ - Press ctrl r in a bash shell and type a few letters of a previous command (abcde)
+21673373901,2010-08-20 15:33:58,http://bit.ly/blzGgB - List files with quotes around each filename (stubby)
+21312743750,2010-08-16 12:59:04,http://bit.ly/bUwHEg - Use tee to process a pipe with two or more processes (axelabs) #tee #echo #pipe #tr #pipes #rev
+20984963043,2010-08-12 15:44:04,"http://bit.ly/wMbFx - Show directories in the PATH, one per line (crk) #bash #echo #tr #path"
+20825447767,2010-08-10 21:06:50,http://www.commandlinefu.com/commands/view/3482/testing-hard-disk-reading-speed - Testing hard disk reading speed (bassel) #hard-disk
+20550932496,2010-08-07 13:21:09,http://bit.ly/c383jS - Random Number Between 1 And X (goodevilgenius) #random #number #integer
+20387090255,2010-08-05 13:18:44,http://bit.ly/1aB6b1 - find and replace tabs for spaces within files recursively (sfusion)
+20220023291,2010-08-03 13:05:08,http://www.commandlinefu.com/commands/view/6213/what-is-my-public-ip-address - What is my public IP-address? (CodSpirit) #ip-address
+20214949144,2010-08-03 11:37:03,http://www.commandlinefu.com/commands/view/6191/ls-not-pattern - ls not pattern (c0t0d0) #ls-glob
+19845615292,2010-07-29 18:22:13,http://www.commandlinefu.com/commands/view/1884/look-up-the-definition-of-a-word - Look up the definition of a word (HorsePunchKid) #curl
+19711513478,2010-07-28 03:53:52,http://bit.ly/c86qbg - I finally found out how to use notify-send with at or cron (claudelepoisson) #notify-send
+18904196948,2010-07-19 09:40:50,http://bit.ly/blaBwo - List open files that have no links to them on the filesystem (dopeman) #linux
+18700927420,2010-07-16 16:59:21,http://www.commandlinefu.com/commands/view/5911/display-bios-information - Display BIOS Information (naesk) #dmidecode #bios
+18685511757,2010-07-16 13:29:57,http://www.commandlinefu.com/commands/view/5979/display-bios-information - Display BIOS Information (new_user) #bios
+18540189029,2010-07-14 18:40:07,http://bit.ly/dkSGGU - Find all active ip's in a subnet (sata) #windows #find #scan #ip-address
+18472737423,2010-07-13 22:59:56,http://bit.ly/cW9TA0 - Print just line 4 from a textfile (kniht) #text-processing #sed
+18370371001,2010-07-12 17:35:49,http://bit.ly/9A7rxU - Remove a line in a text file. Useful to fix (bunam) #sed
+18286057688,2010-07-11 17:28:30,"http://bit.ly/bMwM7U - Remove a line in a text file. Useful to fix ""ssh host key change"" warnings (prayer) #sed"
+17752304799,2010-07-05 00:01:02,http://www.commandlinefu.com/commands/view/5836/disassemble-some-shell-code - Disassemble some shell code (dsearle)
+17585231303,2010-07-02 16:42:58,http://bit.ly/9lzX5L - open path with your default program (on Linux/*BSD) (infinull) #kde #gnome
+17574469637,2010-07-02 14:07:44,http://bit.ly/ai24mo - Browse system RAM in a human readable form (nesquick) #cat #ram #strings
+17460862033,2010-07-01 02:37:34,http://bit.ly/c3XMle - Copy an element from the previous command (dbbolton) #history #bash #zsh
+17407411911,2010-06-30 11:27:36,http://www.commandlinefu.com/commands/view/5930/see-udev-at-work - See udev at work (leovailati) #udev #udevadm
+17239989466,2010-06-28 09:39:44,http://bit.ly/bBfAzg - Choose from a nice graphical menu which DI.FM radio station to play (polaco) #mplayer #music #radio #zenity #menu
+16868184857,2010-06-23 18:29:16,http://www.commandlinefu.com/commands/view/5888/edit-a-google-doc-with-vim - Edit a google doc with vim (spiffwalker) #google
+16767955523,2010-06-22 12:23:34,http://bit.ly/c57vAb - Show numerical values for each of the 256 colors in bash (scribe) #bash #color #colors
+16565521622,2010-06-19 19:00:09,http://bit.ly/dywItn - Copy a file using pv and watch its progress (edo) #pv
+16454252733,2010-06-18 07:52:59,http://bit.ly/9xG6xm - Recursively compare two directories and output their differences on a readable format (climatewarrior)
+16336785515,2010-06-16 21:34:33,http://www.commandlinefu.com/commands/view/5845/list-of-commands-you-use-most-often - List of commands you use most often (sthrs)
+16031050363,2010-06-12 21:37:10,http://bit.ly/9bvFbC - Lists all listening ports together with the PID of the associated process (atoponce) #netstat #lsof
+16026435295,2010-06-12 20:00:27,http://www.commandlinefu.com/commands/view/5822/view-user-activity-per-directory. - View user activity per directory. (zlemini)
+16019010731,2010-06-12 17:55:35,http://bit.ly/adk3cd - List alive hosts in specific subnet (sdadh01) #network #ping #loop #ip-address #hosts
+15858049896,2010-06-10 15:31:20,http://bit.ly/11lmqb - bash: hotkey to put current commandline to text-editor (alvinx)
+15689669516,2010-06-08 07:10:27,http://www.commandlinefu.com/commands/view/5045/makes-you-look-busy - Makes you look busy (busybee) #bash #vim #sort #awk #find #wc
+15610293325,2010-06-07 06:01:09,"http://bit.ly/9TMVZg - run complex remote shell cmds over ssh, without escaping quotes (recursiverse)"
+15424310636,2010-06-04 15:42:30,http://www.commandlinefu.com/commands/view/5710/intersection-between-two-files - intersection between two files (zarathud) #posix
+15419086968,2010-06-04 14:26:40,http://bit.ly/bWO5Wg - Limit bandwidth usage by apt-get (alemani) #debian #ubuntu #apt #apt-get #bandwidth #package #limit
+14939389808,2010-05-28 23:36:35,http://bit.ly/cgyuoL - use the previous commands params in the current command (raj77_in)
+14579317773,2010-05-23 21:17:53,http://bit.ly/bZRDEO - notify yourself when a long-running command which has ALREADY STARTED is finished (recursiverse)
+14576010072,2010-05-23 20:02:55,http://www.commandlinefu.com/commands/view/3185/move-a-lot-of-files-over-ssh - move a lot of files over ssh (peshay) #ssh #file #move
+14556482572,2010-05-23 13:29:54,http://bit.ly/94ogWq - Mirror a directory structure from websites with an Apache-generated file indexes (tamasrepus)
+14537406628,2010-05-23 04:50:04,"http://bit.ly/8gQne. - for all flv files in a dir, grab the first frame and make a jpg. (topher1kenobe) #ffmpeg #jpg #flv"
+14131862951,2010-05-17 01:19:18,http://bit.ly/axVhKu - Fix Ubuntu's Broken Sound Server (hank) #ubuntu #firefox #pulseaudio #sound #fix
+14087385231,2010-05-16 08:28:35,http://bit.ly/9AmGIs - Insert the last command without the last argument (bash) (new_user) #bash #edit
+14033751905,2010-05-15 12:09:44,http://bit.ly/8CsgSp - Insert  the  last  argument  of  the previous command (new_user) #bash #bash-tricks
+13422055100,2010-05-05 11:59:15,http://www.commandlinefu.com/commands/view/5480/processes-per-user-counter - processes per user counter (buzzy) #sort #uniq #ps #processes
+13139940285,2010-04-30 17:06:25,http://bit.ly/dscsaf - Opens vi/vim at pattern in file (punkwalrus) #vim #edit #vi
+13114101522,2010-04-30 06:07:44,http://www.commandlinefu.com/commands/view/3177/move-a-lot-of-files-over-ssh - move a lot of files over ssh (esplinter) #ssh #file #move
+12763837414,2010-04-24 13:58:30,http://www.commandlinefu.com/commands/view/4853/grep-a-pdf-file. - GREP a PDF file. (drewk) #pipe #grep #pdf
+12637032911,2010-04-22 12:55:13,http://bit.ly/a5QAQU - Find distro name and/or version/release (sudopeople) #distribution #distro #version #release
+12621810064,2010-04-22 05:18:57,http://bit.ly/a45u1U - Get your external IP address (aajjk) #network #curl #ip-address
+12573707555,2010-04-21 12:35:17,http://bit.ly/bQ4Juw - intercept stdout/stderr of another process (oernii2) #output #stdout #strace #stderr
+12516273140,2010-04-20 13:32:32,http://www.commandlinefu.com/commands/view/795/resume-aborted-scp-file-transfers - Resume aborted scp file transfers (episodeiv)
+12450511773,2010-04-19 11:26:56,"http://bit.ly/9eLyK6 - copy from host1 to host2, through your host (peshay)"
+12439100618,2010-04-19 04:57:14,http://www.commandlinefu.com/commands/view/4881/remote-screenshot - Remote screenshot (walterl) #linux #remote #display #screenshot #import
+12191055792,2010-04-14 23:43:20,http://bit.ly/cYts1P - Delete all files in a folder that don't match a certain file extension (hutch)
+12163640750,2010-04-14 13:41:04,http://www.commandlinefu.com/commands/view/1948/terminal-redirection - Terminal redirection (carlosfajardo)
+12152229637,2010-04-14 08:11:36,http://bit.ly/aw0jzG. - Grep by paragraph instead of by line. (eightmillion) #perl #grep #function
+12119576804,2010-04-13 19:13:03,http://bit.ly/bXC4J9 - Print a row of characters across the terminal (kamathln) #tr #tput #printf
+12043595043,2010-04-12 12:31:08,http://bit.ly/3Sw1AQ - find all active IP addresses in a network (dotanmazor) #find #nmap #list #ip-address
+12042792268,2010-04-12 12:11:10,http://bit.ly/4d5lmj - find all active IP addresses in a network (ktilcu) #find #list #ip-address
+12020689836,2010-04-12 01:21:11,"http://bit.ly/4FDJYM - find and delete empty dirs, start in current working dir (wincus) #find #delete #directory"
+11985353320,2010-04-11 10:36:08,http://bit.ly/aJPMli - Remove all subversion files from a project recursively (RonaldConco)
+11979349039,2010-04-11 06:54:31,http://bit.ly/bgcluF - Makes the permissions of file2 the same as file1 (rpavlick) #chmod #chown #chgrp
+11962584196,2010-04-11 00:05:00,http://bit.ly/buuSYG - Alias HEAD for automatic smart output (AskApache) #bash #alias #head #output #tput #askapache #ps1 #sigwinch #lines
+11870578237,2010-04-09 08:25:45,http://www.commandlinefu.com/commands/view/5253/get-your-outgoing-ip-address - Get your outgoing IP address (dooblem) #dig #dns #ip-address
+11600561316,2010-04-04 18:46:08,http://www.commandlinefu.com/commands/view/4554/change-pidgin-status - Change pidgin status (unixApe) #pidgin #dbus #dbus-send
+11591880108,2010-04-04 15:14:32,http://www.commandlinefu.com/commands/view/2420/colored-svn-diff - Colored SVN diff (caiosba) #svn #vim #diff #color
+11545499075,2010-04-03 17:44:24,http://bit.ly/2q6JAa - Get your external IP address (ktoso) #network #sed #curl #ip-address
+11474721901,2010-04-02 10:44:36,http://www.commandlinefu.com/commands/view/5240/april-fools-day-prank - April Fools' Day Prank (hotdog003) #bash
+11313425393,2010-03-30 15:27:36,http://bit.ly/9JyNjh - easily find megabyte eating files or directories (funky) #bash #disk-usage #sort #du #grep
+11292225022,2010-03-30 05:03:01,http://bit.ly/aZILQE - Create colorized html file from Vim or Vimdiff (bartonski)
+11235494659,2010-03-29 06:01:28,http://bit.ly/b9WS6q - Change prompt to MS-DOS one (joke) (stick) #prompt #dos #joke
+11138455890,2010-03-27 10:38:30,http://www.commandlinefu.com/commands/view/1597/create-a-favicon - Create a favicon (medina) #imagemagick
+11065853222,2010-03-26 01:50:05,http://bit.ly/b6ArrR - Delete all empty lines from a file with vim (acumon) #vim
+11065826071,2010-03-26 01:49:29,http://bit.ly/bvDpRx - Recursively remove all empty directories (jmcantrell) #directories #gnu-linux #rm
+11034713377,2010-03-25 13:49:51,http://bit.ly/nxNf9 - Show Directories in the PATH Which does NOT Exist (haivu) #bash #path
+10914681964,2010-03-23 07:23:50,"http://bit.ly/aPzTNj - Monitor open connections for httpd including listen, count and sort it per IP (ik_5) #monitoring #httpd #port-80"
+10782810759,2010-03-20 17:47:37,http://bit.ly/atxKOB - View network activity of any application or user in realtime (zlemini)
+10642432120,2010-03-17 22:45:22,http://www.commandlinefu.com/commands/view/5068/eavesdrop-on-your-system - Eavesdrop on your system (zlemini)
+10332141716,2010-03-11 17:39:42,http://bit.ly/NtNfH - Identify differences between directories (possibly on different servers) (arcege) #ssh #diff #sort #find #md5sum
+10327367734,2010-03-11 15:43:17,http://www.commandlinefu.com/commands/view/4943/convert-text-to-picture - Convert text to picture (glaudiston)
+10190852917,2010-03-08 22:25:20,http://www.commandlinefu.com/commands/view/5034/google-translate - Google Translate (matthewbauer) #google #translate
+10157075917,2010-03-08 05:12:23,http://bit.ly/ccpAkq - Number of open connections per ip. (tiagofischer) #sort #awk #uniq #netstat #cut
+10030657317,2010-03-05 16:14:51,http://bit.ly/PMRsQ - Play music from youtube without download (torrid)
+9921794991,2010-03-03 12:25:54,News: Commandlinefu @ SXSW 2010
+9895411593,2010-03-02 22:53:37,http://bit.ly/dc9XhA - download and unpack tarball without leaving it sitting on your hard drive (TuxOtaku)
+9511592023,2010-02-23 04:38:00,http://bit.ly/9LKDih - Restrict the bandwidth for the SCP command (0disse0) #ssh #scp #bandwidth
+9346843196,2010-02-19 18:27:56,http://bit.ly/12VKNQ - pipe output of a command to your clipboard (linuxrawkstar) #clipboard #xsel
+8728728867,2010-02-06 17:07:21,http://www.commandlinefu.com/commands/view/4788/your-terminal-sings - your terminal sings (op4)
+8693917899,2010-02-05 21:21:37,http://www.commandlinefu.com/commands/view/4768/make-iso-image-of-a-folder - Make ISO image of a folder (alamati)
+8675713959,2010-02-05 12:55:03,http://bit.ly/6rtslU - Colored diff ( via vim ) on 2 remotes files on your local computer. (sputnick) #vim #remote #scp
+8591385694,2010-02-03 15:23:58,http://bit.ly/6wwJf7 - Insert  the  last  argument  of  the previous command (wincus) #bash #bash-tricks
+8503305966,2010-02-01 15:55:55,http://bit.ly/NEgeX - Pretty Print a simple csv in the command line (pykler)
+8436859465,2010-01-31 03:16:06,http://bit.ly/8XYay5 - a shell function to print a ruler the width of the terminal window. (bartonski)
+8421198548,2010-01-30 18:56:38,http://bit.ly/d8chxp - View facebook friend list [hidden or not hidden] (vlan7) #privacy #facebook
+8400268176,2010-01-30 05:05:33,http://bit.ly/cMdG2B - Define words and phrases with google. (eightmillion) #bash #perl #curl #function #google #nl
+8316613378,2010-01-28 09:25:53,http://bit.ly/9grY7y - add all files not under version control to repository (xsawyerx)
+8291609654,2010-01-27 19:49:00,http://bit.ly/5ogmvE - Show File System Hierarchy (haivu) #filesystem #man #directories
+8149014997,2010-01-24 13:12:14,"http://bit.ly/8EBs58 - Exclude .svn, .git and other VCS junk for a pristine tarball (hendry)"
+7849893252,2010-01-17 03:09:31,http://bit.ly/2dLC6 - Create a directory and change into it at the same time (drewk) #bash #cd #function #mkdir #bash-tricks
+7841374576,2010-01-16 22:23:37,http://www.commandlinefu.com/commands/view/4480/track-flights-from-the-command-line - track flights from the command line (suhasgupta)
+7832916792,2010-01-16 17:31:43,http://bit.ly/6LdzV5 - Print a list of standard error codes and descriptions. (unixmonkey6331)
+7776249970,2010-01-15 04:49:21,http://www.commandlinefu.com/commands/view/4583/simulate-typing - Simulate typing (dennisw) #movie #on-screen #typing
+7768071261,2010-01-15 00:36:33,http://bit.ly/5QuOAg - analyze traffic remotely over ssh w/ wireshark (markdrago) #ssh #wireshark #tshark #capture #sniff
+7630302115,2010-01-11 14:06:41,http://bit.ly/5NxKfh - Vim: Switch from Horizontal split to Vertical split (pyrho)
+7458100419,2010-01-06 23:31:22,http://www.commandlinefu.com/commands/view/2825/get-all-ips-via-ifconfig - Get all IPs via ifconfig (sneaker) #network #perl #ifconfig #ip
+7445296964,2010-01-06 16:16:25,http://www.commandlinefu.com/commands/view/4479/colorful-man - Colorful man (aurium)
+7282311867,2010-01-01 23:30:33,http://www.commandlinefu.com/commands/view/3341/send-data-securly-over-the-net. - Send data securly over the net. (flip387)
+7186652567,2009-12-30 05:43:30,http://bit.ly/7USXvo - live network throughput test over ssh (opertinicy) #ssh #yes #pv
+7183422517,2009-12-30 03:49:40,http://bit.ly/Eti9z - Mount the first NTFS partition inside a VDI file (VirtualBox Disk Image) (Cowboy)
+7164689550,2009-12-29 17:03:42,http://www.commandlinefu.com/commands/view/4359/numbers-guessing-game - Numbers guessing game (rodolfoap) #game
+7151562805,2009-12-29 06:50:00,http://www.commandlinefu.com/commands/view/619/ping-a-range-of-ip-addresses - ping a range of IP addresses (wwest4)
+7140058944,2009-12-29 00:12:17,http://www.commandlinefu.com/commands/view/302/just-run-it- - Just run it ;) (grissiom)
+6962468833,2009-12-23 12:11:56,http://bit.ly/6mFYBs - Find duplicate entries in a file without sorting. (din7)
+6907389640,2009-12-21 22:25:22,http://www.commandlinefu.com/commands/view/1325/delete-the-specified-line - Delete the specified line (prayer)
+6891746029,2009-12-21 12:23:12,http://bit.ly/578eOU - Convert all MySQL tables and fields to UTF8 (root) #mysql
+6884130307,2009-12-21 05:14:12,http://bit.ly/4Ses7b - Remove security limitations from PDF documents using ghostscript (deijmaster) #security #linux #pdf #osx
+6760055398,2009-12-17 10:00:38,http://bit.ly/67LwWE - Tune your guitar from the command line. (eightmillion) #sox #tune #guitar #play
+6741620297,2009-12-16 20:50:02,"http://www.commandlinefu.com/commands/view/4350/harder-faster-stronger-ssh-clients - Harder, Faster, Stronger SSH clients (vxbinaca) #ssh"
+6690441351,2009-12-15 08:16:26,http://bit.ly/8JWQOh - Duplicate several drives concurrently (nerd65536) #bash #tee #dd #pipe #root
+6669284128,2009-12-14 18:30:49,http://www.commandlinefu.com/commands/view/2244/find-files-containing-text - find files containing text (decept) #find-text
+6621350602,2009-12-13 05:34:04,http://bit.ly/lYbEa - generate a unique and secure password for every website that you login to (syssyphus) #security
+6540124426,2009-12-10 18:54:24,http://www.commandlinefu.com/commands/view/4273/prints-line-numbers - prints line numbers (solarislackware)
+6440111586,2009-12-07 19:59:55,http://www.commandlinefu.com/commands/view/2872/update-twitter-via-curl - Update twitter via curl (matthewbauer)
+6351078744,2009-12-04 22:18:00,http://bit.ly/4PGE3d - A function to output a man page as a pdf file (vargasmas)
+6324825391,2009-12-04 02:58:08,http://bit.ly/4BscxO - perl one-liner to get the current week number (putnamhill) #date #week
+6299597855,2009-12-03 10:15:31,http://www.commandlinefu.com/commands/view/1502/add-calendar-to-desktop-wallpaper - Add calendar to desktop wallpaper (dasmna) #imagemagick
+6273109111,2009-12-02 16:06:19,http://bit.ly/6kgHe6 - quickest (i blv) way to get the current program name minus the path (BASH) (jimmie)
+6273049403,2009-12-02 16:04:10,"http://bit.ly/6dtGAv - Pipe stdout and stderr, etc., to separate commands (tylerl) #bash #pipe #redirecting-output"
+6260434657,2009-12-02 05:02:32,http://www.commandlinefu.com/commands/view/4160/a-trash-function-for-bash - a trash function for bash (thebillywayne) #trash
+6167792984,2009-11-29 11:27:42,http://www.commandlinefu.com/commands/view/2170/get-your-public-ip-using-dyndns - Get your public ip using dyndns (lv4tech)
+6163875887,2009-11-29 06:48:05,http://www.commandlinefu.com/commands/view/869/list-of-commands-you-use-most-often - List of commands you use most often (mikeda)
+6150711979,2009-11-28 21:00:18,http://bit.ly/8VZ0PS. - View the newest xkcd comic. (eightmillion) #bash #curl #function #xkcd #comic #webcomic
+6110111916,2009-11-27 12:02:44,http://bit.ly/6TsUO - Search for a &lt;pattern&gt; string inside all files in the current directory (birnam) #bash #grep
+6086607660,2009-11-26 17:07:32,http://bit.ly/5PGLkF. - Make sure a script is run in a terminal. (cfajohnson) #shell #script
+6016809652,2009-11-24 19:32:22,http://bit.ly/QZhF3 - Create an audio test CD of sine waves from 1 to 99 Hz (hackerb9) #audio #bash #sox #cdrdao #cdda #speaker-test
+6006898878,2009-11-24 12:50:47,"http://www.commandlinefu.com/commands/view/4127/a-robust-modular-log-coloriser - A robust, modular log coloriser (tiagofischer)"
+6001463466,2009-11-24 06:43:29,http://www.commandlinefu.com/commands/view/1909/view-the-system-console-remotely - view the system console remotely (animoid)
+5974352027,2009-11-23 11:51:51,http://bit.ly/4Mtb2y - Echo the latest commands from commandlinefu on the console (root)
+5830022425,2009-11-18 16:17:51,http://bit.ly/21EIzN - Split a tarball into multiple parts (dinomite) #tar #split #tarball #archive
+5763808321,2009-11-16 12:37:33,http://bit.ly/45gVpC - Clean your broken terminal (darkpand) #terminal #reset
+5650411072,2009-11-12 14:43:31,http://bit.ly/3Dm7xI - geoip information (getkaizer) #sed #curl
+5533923062,2009-11-08 15:41:20,http://bit.ly/EM3HZ - Press Any Key to Continue (kalaxy)
+5442019668,2009-11-05 04:58:42,http://bit.ly/kD7Z1 - Terminate a frozen SSH-session (n30)
+5432931977,2009-11-04 22:51:51,http://bit.ly/4A6maX - Binary Clock (matthewbauer) #binary #clock #binary-clock
+5232599280,2009-10-28 15:22:26,http://bit.ly/4vv8Bx - Monitor bandwidth by pid (vgagliardi)
+5027595427,2009-10-20 21:16:31,http://bit.ly/11Shn1 - To print a specific line from a file (Waldirio)
+4977668645,2009-10-18 23:50:27,http://bit.ly/16rLag - Save current layout of top (hfs)
+4857806845,2009-10-14 08:41:36,List only the directories (brianmuckian) http://bit.ly/27vOHz
+4807790861,2009-10-12 12:51:24,Purge configuration files of removed packages on  debian based systems (kelevra) http://bit.ly/2fmatp #debian #aptitude
+4792899101,2009-10-11 21:21:21,"Schedule a script or command in x num hours, silently run in the background even if logged out (sitaram) http://bit.ly/8aazl #schedule # ..."
+4789833579,2009-10-11 18:52:46,Start screen in detached mode (cammarin) http://bit.ly/XIZXa #screen
+4769095718,2009-10-10 21:17:56,backup all your commandlinefu.com favourites to a plaintext file (suhasgupta) http://bit.ly/34Kfq #wget #commandlinefu
+4747591154,2009-10-09 23:19:25,"Find recursively, from current directory down, files and directories whose names contain single or multiple whitespaces and replace each ..."
+4715814950,2009-10-08 20:12:15,Run a long job and notify me when it's finished (root) http://bit.ly/YB2c3 #notify-send
+4655592185,2009-10-06 14:05:14,Show apps that use internet connection at the moment. (edo) http://bit.ly/3X3rma. #bash #grep #lsof #internet
+4543186267,2009-10-02 02:52:48,Backup all MySQL Databases to individual files (syssyphus) http://bit.ly/1IaYbu
+4543184079,2009-10-02 02:52:42,"Find Duplicate Files (based on size first, then MD5 hash) (syssyphus) http://bit.ly/5h5pW"
+4503163569,2009-09-30 18:06:09,"Change user, assume environment, stay in current dir (matthewdavis) http://bit.ly/z9wEc #bash #root #su"
+4494528815,2009-09-30 10:58:09,Clean up poorly named TV shows. (Karakh) http://bit.ly/1v7aaC. #ubuntu #avi #rename #tv
+4492400405,2009-09-30 07:45:41,Remove blank lines from a file using grep and save output to new file (alvinx) http://bit.ly/aj9IO
+4472211380,2009-09-29 15:21:58,Matrix Style (dennisw) http://bit.ly/tpQOI #color
+4377644992,2009-09-25 20:43:13,Cut out a piece of film from a file. Choose an arbitrary length and starting time. (ako) http://bit.ly/4Gj57h. #video #ffmpeg #video-edi ...
+4371382659,2009-09-25 16:00:27,git remove files which have been deleted (technicalpickles) http://bit.ly/dU58W #git
+4364400760,2009-09-25 09:00:28,Colorized grep in less (dinomite) http://bit.ly/144vYB #color #grep #gnu-linux
+4364385808,2009-09-25 08:59:18,get all pdf and zips from a website using wget (linuxswords) http://bit.ly/JdG0r
+4340646977,2009-09-24 12:40:31,Execute a command with a timeout (syssyphus) http://bit.ly/SQoKG #fg #bg #kill #timeout
+4318356605,2009-09-23 15:57:50,Cleanup firefox's database. (syssyphus) http://bit.ly/2PeSpC. #unix #firefox #optimize #sqlite
+4314081788,2009-09-23 12:25:55,"How fast is the connexion to a URL, some stats from curl (adminix) http://bit.ly/GgJ6d"
+4169209945,2009-09-22 10:22:21,Show apps that use internet connection at the moment. (Multi-Language) (Escher) http://bit.ly/JRxKO #bash #grep #netstat #internet #ss
+4144142521,2009-09-21 11:06:07,Show apps that use internet connection at the moment. (Multi-Language) (OJM) http://bit.ly/29rcPV #bash #grep #netstat #internet
+4117453744,2009-09-20 04:08:20,redirect stdout and stderr each to separate files and print both to the screen (danielfalk) http://bit.ly/B982y
+4076492827,2009-09-18 11:09:13,Extract audio from a video (ryrys) http://bit.ly/qf9mq
+4066747198,2009-09-18 00:11:50,Use all the cores or CPUs when compiling (kovan) http://bit.ly/kcjmi
+4053888656,2009-09-17 13:31:19,Identify long lines in a file (unixmonkey1878) http://bit.ly/RQp5F #awk
+4043086063,2009-09-17 00:58:42,send echo to socket network (mobidyc) http://bit.ly/4CRpIL #network #udp #tcp #icmp #protocol #socket
+4039515304,2009-09-16 22:05:30,"Show directories in the PATH, one per line (camspiers) http://bit.ly/9X4Pm #bash #path"
+3942428756,2009-09-12 22:15:24,News: Email updates now available
+3911707067,2009-09-11 14:17:01,Find Duplicate Files (based on MD5 hash) (infinull) http://bit.ly/u40em
+3862874299,2009-09-09 13:22:47,"View a terminal session remotely (helpdesks etc, like vncviewer but for terminals!) (Escher) http://bit.ly/3QVIjX"
+3861704105,2009-09-09 12:00:37,check open ports (evenme) http://bit.ly/fwd55
+3846179234,2009-09-08 19:10:01,"VIM: Replace a string with an incrementing number between marks 'a and 'b (eg, convert string ZZZZ to 1, 2, 3, ...) (res0nat0r) http://b ..."
+3837776720,2009-09-08 10:29:45,"Check your unread Gmail from the command line (sitaram) http://bit.ly/PMM5A
+ #linux #perl #curl #rss #gmail"
+3835557656,2009-09-08 06:35:47,"Check your unread Gmail from the command line (postrational) http://bit.ly/2Jnag5
+ #linux #perl #sed #awk #macosx #curl #rss #gmail"
+3805400964,2009-09-06 21:22:42,"Get your external IP address (kulor) http://bit.ly/4mB0Mg
+ #network #sed #curl"
+3777644439,2009-09-05 12:02:19,"Cleanup firefox's database. (kamathln) http://bit.ly/11QNoL
+. #unix #firefox #optimize #sqlite"
+3759983035,2009-09-04 16:26:51,"use vim to get colorful diff output (freestyler) http://bit.ly/18g96U
+ #svn #vim #diff"
+3755530648,2009-09-04 12:15:07,Find files that were modified by a given command (matthewdavis) http://bit.ly/3MXapt
+3739325977,2009-09-03 18:44:04,cycle through a 256 colour palette (pixelbeat) http://bit.ly/rNQs9
+3670843764,2009-08-31 18:30:47,directly ssh to host B that is only accessible through host A (0x89) http://bit.ly/2ncORT
+3670190464,2009-08-31 17:55:10,"Terminal - Show directories in the PATH, one per line with sed and bash3.X `here string' (foob4r) http://bit.ly/3Un50p"
+3605206972,2009-08-28 15:58:46,convert unixtime to human-readable (elzapp) http://bit.ly/x162Q
+3497382856,2009-08-23 19:52:14,"Get all IPs via ifconfig (xsawyerx) http://bit.ly/W9zbo
+ #linux #perl #ifconfig"
+3490253879,2009-08-23 11:08:37,"Search commandlinefu.com from the command line using the API (knoopx) http://bit.ly/UKBPo
+ #search- #commandlinefu #api"
+3467504968,2009-08-22 06:05:18,"Analyze awk fields (recursiverse) http://bit.ly/11Whf8
+ #awk"
+3430629000,2009-08-20 16:52:50,ssh tunnel with auto reconnect ability (jianingy) http://bit.ly/qopah
+3366819572,2009-08-17 19:08:53,Show current working directory of a process (sharfah) http://bit.ly/dDTuX
+3306164169,2009-08-14 11:53:45,"Go to parent directory of filename edited in last command (lingo) http://bit.ly/Ld3e6
+ #bash #bash-tricks"
+3304081423,2009-08-14 08:01:03,return external ip (s4_david) http://bit.ly/b5JKh
+3294775412,2009-08-13 21:56:54,Find the process you are looking for minus the grepped one (olorin) http://bit.ly/g74V5
+3274871151,2009-08-12 22:53:25,find process associated with a port (wwest4) http://bit.ly/VGz5Z
+3263488324,2009-08-12 11:04:33,Resume scp of a big file (dr_gogeta86) http://bit.ly/TP6UP
+3262101170,2009-08-12 08:18:56,Release memory used by the Linux kernel on caches (ricardoarguello) http://bit.ly/7PspK
+3243695686,2009-08-11 11:10:24,Backup all MySQL Databases to individual files (lingo) http://bit.ly/ZcH3x
+3225775303,2009-08-10 14:35:48,"32 bits or 64 bits? (caiosba) http://bit.ly/RHDNi
+ #getconf #32 #64"
+3167908770,2009-08-06 19:05:30,Triple monitoring in screen (Patola) http://bit.ly/PScl7
+3167903580,2009-08-06 19:05:02,"find and delete empty dirs, start in current working dir (jsiei97) http://bit.ly/Ql3Mi"
+3146628925,2009-08-05 15:09:05,"Quickly (soft-)reboot skipping hardware checks (olorin) http://bit.ly/ip9JY
+ #linux #boot"
+3142966873,2009-08-05 10:06:58,"Move all images in a directory into a directory hierarchy based on year, month and day based on exif information (karel1980) http://bit. ..."
+3123555079,2009-08-04 12:48:56,"Get all these commands in a text file with description. (satyavvd) http://bit.ly/1Fmklt
+."
+3123432603,2009-08-04 12:38:26,Have an ssh session open forever (ricardoarguello) http://bit.ly/PfCgb
+3076290430,2009-08-01 21:43:35,"Rsync remote data as root using sudo (Alioth) http://bit.ly/3ZrIH
+ #rsync"
+3060931531,2009-07-31 23:54:19,"Query Wikipedia via console over DNS (drizzt) http://bit.ly/3blo17
+ #dig #txt-record #wikipedia #dns"
+2935759681,2009-07-30 19:05:31,Show me a histogram of the busiest minutes in a log file: (knassery) http://bit.ly/Ru8IT
+2909386014,2009-07-29 13:30:00,Port Knocking! (din7) http://bit.ly/2Cg7bv
+2820690508,2009-07-24 15:58:53,"Attach screen over ssh (recursiverse) http://bit.ly/skAFv
+ #ssh #screen"
+2776053345,2009-07-22 11:00:21,Grep colorized (P17) http://bit.ly/dmwaq
+2771319768,2009-07-22 03:32:22,Diff on two variables (olorin) http://bit.ly/1adNvF
+2663949498,2009-07-16 04:04:55,I hate `echo X | Y` (stu) http://bit.ly/25JfkZ
+2589179046,2009-07-11 21:32:42,News: API and javascript blog widget now available
+2569473689,2009-07-10 15:27:29,"Draw a Sierpinski triangle (dstahlke) http://bit.ly/gobbp
+ #imagemagick #perl"
+2556540738,2009-07-09 20:53:55,"Run any GUI program remotely (prayer) http://bit.ly/11q3Dx
+ #ssh"
+2548151143,2009-07-09 09:55:04,"Show a 4-way scrollable process tree with full details. (ToyKeeper) http://bit.ly/O4tlV
+."
+2515062433,2009-07-07 15:01:56,Cracking a password protected .rar file (ksaver) http://bit.ly/3kF9GC
+2515038245,2009-07-07 15:00:19,"Remove all files previously extracted from a tar(.gz) file. (prayer) http://bit.ly/7fVQC
+. #tar"
+2501399817,2009-07-06 19:07:50,List programs with open ports and connections (unixmonkey4503) http://bit.ly/QbIMX
+2501386645,2009-07-06 19:06:54,"Print a great grey scale demo ! (frans0023) http://bit.ly/3gvH9O
+ #color #shell #demo"
+2481371736,2009-07-05 11:31:38,Given process ID print its environment variables (unixmonkey3402) http://bit.ly/qsx9G
+2481371632,2009-07-05 11:31:37,Another Curl your IP command (vaporub) http://bit.ly/Nf9b2
+2481345549,2009-07-05 11:27:07,"recursive search and replace old with new string, inside files (netfortius) http://bit.ly/1832rl
+ #perl #sed"
+2481212497,2009-07-05 11:03:38,How to run X without any graphics hardware (Spaz) http://bit.ly/2krYk2
+2481160739,2009-07-05 10:54:26,"beep when a server goes offline (sudopeople) http://bit.ly/rgfsX
+ #echo #ping #exec #bell #ring #speaker #system-bell #beep"
+2480405130,2009-07-05 08:40:19,count IPv4 connections per IP (dt) http://bit.ly/4ss01
+2480397782,2009-07-05 08:39:03,Quick glance at who's been using your system recently (hkyeakley) http://bit.ly/VbWt9
+2480252504,2009-07-05 08:14:29,"Convert ""man page"" to text file (vigo) http://bit.ly/gOSeR
+ #man #macosx #terminal #col"
+2474560017,2009-07-04 21:54:23,"throttle bandwidth with cstream (wires) http://bit.ly/TjaRw
+ #pipes #cstream #throttle"
+2450148052,2009-07-03 06:07:38,"Twitter update from terminal    (pok3's snipts ?) (m33600) http://bit.ly/3wAsJi
+ #twitter"
+2434367688,2009-07-02 08:30:58,Get list of servers with a specific port open (bendavis78) http://bit.ly/18begl
+2418035957,2009-07-01 09:45:50,"Matrix Style (allinurl) http://bit.ly/wkfnh
+ #color"
+2417044406,2009-07-01 07:18:32,Smiley Face Bash Prompt (digitalsushi) http://bit.ly/MbHIc
+2403797768,2009-06-30 14:03:33,scping files with streamlines compression (tar gzip) (xsawyerx) http://bit.ly/37zkOh
+2401402662,2009-06-30 09:20:48,"replace spaces in filenames with underscores (signal9) http://bit.ly/1EXMjI
+ #file-rename"
+2388615721,2009-06-29 15:18:23,"Define a quick calculator function (fizz) http://bit.ly/m6Uoe
+ #bash #bc #function #calc #bc-l"
+2380097637,2009-06-29 01:30:36,"Pipe STDOUT to vim (root) http://bit.ly/dQjJ4
+ #text-processing #vim"
+2330362136,2009-06-25 18:53:17,Create a system overview dashboard on F12 key (Neo23x0) http://bit.ly/D1tZE
+2323328012,2009-06-25 07:23:51,Multiple SSH Tunnels (starchox) http://bit.ly/vP5u5
+2309962385,2009-06-24 13:05:19,"Set your profile so that you resume or start a screen session on login (sud0er) http://bit.ly/12ArfL
+ #screen"
+2292393112,2009-06-23 09:11:53,Reuse all parameter of the previous command line (Neo23x0) http://bit.ly/YLHfe
+2272902514,2009-06-22 01:49:17,"Display a cool clock on your terminal (dennisw) http://bit.ly/JsBN8
+ #linux #terminal #unix #shell #date #time #figlet #watch"
+2220923599,2009-06-18 11:17:58,convert uppercase files to lowercase files (dakira) http://www.commandlinefu.com/commands/view/1159/convert-uppercase-files-to-lowercase ...
+2212332973,2009-06-17 20:58:02,Schedule a download at a later time (Vlad003) http://www.commandlinefu.com/commands/view/1570/schedule-a-download-at-a-later-time #linux ...
+2186343576,2009-06-16 01:42:16,"Inserts the results of an autocompletion in the command line (Josay) http://bit.ly/QdKkq
+ #completion #esc"
+2113645309,2009-06-11 05:25:17,"Download all Delicious bookmarks (avi4now) http://bit.ly/2lubOx
+ #backup #curl #delicious #bookmarks"
+2113633931,2009-06-11 05:23:55,Download schedule (kayowas) http://bit.ly/YIxYm
+2104530836,2009-06-10 15:40:36,"Open Finder from the current Terminal location (vigo) http://bit.ly/zRMPD
+ #macosx #terminal #finder"
+2103983647,2009-06-10 14:54:22,"Efficiently print a line deep in a huge log file (root) http://bit.ly/M04q6
+ #text-processing"
+2098377591,2009-06-10 02:50:18,DELETE all those duplicate files but one based on md5 hash comparision in the current directory tree (masterofdisaster) http://bit.ly/YFIWV
+2098343796,2009-06-10 02:47:22,"Save an HTML page, and covert it to a .pdf file (darth10) http://bit.ly/AvEcr
+ #pdf #www #html"
+2083328754,2009-06-09 00:22:36,"Record a screencast and convert it to an mpeg (dcabanis) http://bit.ly/14F0Bs
+ #video #x11 #ffmpeg"
+2074694307,2009-06-08 10:19:07,Show git branches by date - useful for showing active branches (brunost) http://www.commandlinefu.com/commands/view/2345/show-git-branch ...
+2063917911,2009-06-07 11:34:41,"Find if the command has an alias (marssi) http://bit.ly/SbTyI
+ #alias"
+2063875439,2009-06-07 11:25:08,Create a nifty overview of the hardware in your computer (flart) http://bit.ly/m4jPn
+2049733094,2009-06-06 00:24:09,coloured tail (tuxifier) http://bit.ly/Bp3F6
+2043265145,2009-06-05 14:37:38,"ls -hog --&gt; a more compact ls -l (unixmonkey1878) http://bit.ly/11Sypy
+ #shell"
+2043252954,2009-06-05 14:36:30,Ctrl S Ctrl Q terminal output lock and unlock (elementa13) http://bit.ly/a50aA
+2005561642,2009-06-02 16:52:22,"Get all the keyboard shortcuts in screen (raphink) http://bit.ly/wRxtY
+ #screen"
+2005396148,2009-06-02 16:38:10,quickly change all .html extensions on files in folder to .htm (scubacuda) http://bit.ly/AEzOS
+1989121736,2009-06-01 07:25:00,"create an emergency swapfile when the existing swap space is getting tight (dcabanis) http://bit.ly/UJl2P
+ #filesystem #dd #swapoff #swapon"
+1987125246,2009-06-01 02:49:05,"Shutdown a Windows machine from Linux (LrdShaper) http://bit.ly/12Xp2A
+ #linux #windows"
+1934035383,2009-05-27 08:52:47,"Compare two directory trees. (mbirk) http://bit.ly/FK8wT
+. #bash #diff #find"
+1930063532,2009-05-27 00:38:25,Add your public SSH key to a server in one command (bendavis78) http://bit.ly/UwxVQ
+1928840945,2009-05-26 22:30:39,"Transfer SSH public key to another machine in one step (bwoodacre) http://bit.ly/GAfgF
+ #openssh"
+1928838407,2009-05-26 22:30:24,"Diff files on two remote hosts. (funollet) http://bit.ly/UyBB7
+. #ssh #diff #remote"
+1926616741,2009-05-26 18:52:39,Recursively remove .svn directories from the current location (blue64) http://bit.ly/28qw3
+1916328677,2009-05-25 21:05:08,Share a 'screen'-session (GeckoDH) http://bit.ly/BntfO
+1914896722,2009-05-25 18:34:12,"Relocate a file or directory, but keep it accessible on the old location throug a simlink. (svg) http://bit.ly/Fzuy7
+."
+1873391589,2009-05-21 17:48:39,Find last reboot time (sharfah) http://bit.ly/GOci8
+1868823487,2009-05-21 07:18:51,"Manually Pause/Unpause Firefox Process with POSIX-Signals (Schneckentreiber) http://bit.ly/uJjFH
+ #process-management #firefox #icewease ..."
+1845464988,2009-05-19 08:44:21,"wrap long lines of a text (vincentp) http://bit.ly/oqE7W
+ #text-processing #wrap #fold #text #longlines #newline"
+1827482928,2009-05-17 17:48:21,News: Added duplicate suggestions to the new command form
+1827456283,2009-05-17 17:44:59,News: Now using Gravatars for comments
+1821816426,2009-05-17 01:07:58,Add timestamp to history (fritz_monroe) http://bit.ly/BU4yU
+1805333146,2009-05-15 12:14:28,Search for commands from the command line (aurium) http://bit.ly/n7Scs
+1801088425,2009-05-15 00:56:33,"Switch 2 characters on a command line. (betsubetsu) http://bit.ly/MDN9n
+."
+1757281980,2009-05-10 21:03:06,"Send keypresses to an X application (Alanceil) http://bit.ly/yIRYG
+ #x #xvkbd #sendkeys #xsendevent #automation #script #keypress"
+1745008681,2009-05-09 08:27:58,Monitor TCP opened connections (klipz) http://bit.ly/xB6Hl
+1744937359,2009-05-09 08:08:00,Display current bandwidth statistics (vgagliardi) http://bit.ly/IwDCF
+1731354408,2009-05-07 21:49:14,"Search recursively to find a word or phrase in certain file types, such as C code (bunedoggle) http://bit.ly/19h9Vm
+ #find #grep"
+1727452282,2009-05-07 14:25:06,"exit without saving history (stu) http://bit.ly/EricG
+ #history #exit"
+1725170308,2009-05-07 07:11:36,"Quickly graph a list of numbers (penthief) http://bit.ly/17fCq3
+ #graph #redirection #gnuplot"
+1724461405,2009-05-07 05:01:00,"Add Password Protection to a file your editing in vim. (denzuko) http://bit.ly/4Tefx
+. #vim #edit #encryption #files #secure #password # ..."
+1698988507,2009-05-04 20:10:48,Make anything more awesome (isaacs) http://tinyurl.com/c5poto #figlet #awesome
+1676192250,2009-05-02 04:20:37,Show all detected mountable Drives/Partitions/BlockDevices (Schneckentreiber) http://tinyurl.com/dyl8v9 #mount #partition #harddisk #har ...
+1671056964,2009-05-01 17:31:41,delete a line from your shell history (sud0er) http://tinyurl.com/ccchj3 #bash
+1669664858,2009-05-01 14:54:19,Send pop-up notifications on Gnome (cammarin) http://tinyurl.com/ddg6bx #debian #ubuntu #gnome #notify-send
+1663300612,2009-04-30 22:01:00,Backup your hard drive with dd (bandit36) http://tinyurl.com/bbnxey #backup #dd
+1650901289,2009-04-29 17:45:03,(Debian/Ubuntu) Discover what package a file belongs to (bwoodacre) http://tinyurl.com/dh3c8e #debian #ubuntu #dpkg #wc
+1642205361,2009-04-28 20:10:29,Start a new command in a new screen window (jonty) http://tinyurl.com/b4mlbf
+1640695692,2009-04-28 17:17:10,Graph # of connections for each hosts. (knassery) http://tinyurl.com/dlwajc.
+1635722338,2009-04-28 03:22:26,Watch Network Service Activity in Real-time (hank) http://tinyurl.com/dk3p2c #network #ubuntu #linux
+1630394996,2009-04-27 16:50:27,"Recursively change permissions on files, leave directories alone. (ethanmiller) http://www.commandlinefu.com/commands/view/1981/recursiv ..."
+1622917273,2009-04-26 20:11:17,List all files opened by a particular command (d4n3sh) http://www.commandlinefu.com/commands/view/1932/list-all-files-opened-by-a-partic ...
+1607380755,2009-04-24 20:59:13,Pause Current Thread (mallegonian) http://www.commandlinefu.com/commands/view/1503/pause-current-thread #bash #hotkey
+1606307351,2009-04-24 18:52:45,a short counter (flux) http://www.commandlinefu.com/commands/view/1976/a-short-counter
+1589190140,2009-04-22 23:15:07,restoring some data from a corrupted text file (flux) http://tinyurl.com/c97d7j
+1577703987,2009-04-21 19:26:17,"When feeling down, this command helps (Svish) http://tinyurl.com/chgeu4 #fun"
+1577264118,2009-04-21 18:32:24,Copy a MySQL Database to a new Server via SSH with one command (Tscherno) http://tinyurl.com/bu4wjc
+1543969328,2009-04-17 17:47:25,which program is this port belongs to ? (ar_levi) http://tinyurl.com/dd5h4y
+1533601657,2009-04-16 13:40:50,Close shell keeping all subprocess running (prayer) http://tinyurl.com/deyow5 #bash
+1528519240,2009-04-15 21:28:34,Convert seconds to human-readable format (kFiddle) http://tinyurl.com/cucreq #date
+1528221660,2009-04-15 20:47:19,List recorded formular fields of Firefox (klipz) http://tinyurl.com/czvrb2
+1526742468,2009-04-15 17:17:12,Grep for word in directory (recursive) (tobiasboon) http://tinyurl.com/b95paw
+1500632384,2009-04-12 02:14:35,Nicely display permissions in octal format with filename (vgagliardi) http://tinyurl.com/d32sjo
+1488303852,2009-04-10 03:48:48,Redirect STDIN (atoponce) http://tinyurl.com/cfahh7
+1484346738,2009-04-09 16:10:57,Bring the word under the cursor on the :ex line in Vim (pyrho) http://tinyurl.com/czckwb #vim
+1479940481,2009-04-08 23:22:21,Copy your ssh public key to a server from a machine that doesn't have ssh-copy-id (DEinspanjer) http://tinyurl.com/d2zxqe
+1459215672,2009-04-05 22:10:51,"Append stdout and stderr to a file, and print stderr to the screen [bash] (operon) http://www.commandlinefu.com/commands/view/1352/appen ..."
+1440619067,2009-04-02 20:11:11,Perform a branching conditional (clockworkavian) http://www.commandlinefu.com/commands/view/1827/perform-a-branching-conditional
+1440281746,2009-04-02 19:13:55,Install a Firefox add-on/theme to all users (cammarin) http://www.commandlinefu.com/commands/view/1760/install-a-firefox-add-ontheme-to- ...
+1425218961,2009-03-31 16:12:01,Quick access to the ascii table. (ntheother) http://tinyurl.com/chqbfd.
+1411069753,2009-03-29 06:14:50,Display a block of text with AWK (atoponce) http://tinyurl.com/dcjo9y
+1400106522,2009-03-27 10:12:14,Share a terminal screen with others (totoro) http://tinyurl.com/crz6ov #screen #terminal #share
+1399950355,2009-03-27 09:11:12,Watch Star Wars via telnet (Alioth) http://tinyurl.com/cv4q5w #telnet
+1392915118,2009-03-26 06:00:33,find the process that is using a certain port e.g. port 3000 (thisduck) http://tinyurl.com/c624fv
+1392252926,2009-03-26 03:10:51,Base conversions with bc (polar) http://tinyurl.com/dc22af #bc
+1388143800,2009-03-25 14:24:09,Check Ram Speed and Type in Linux (unixmonkey2236) http://tinyurl.com/clhk84
+1381347758,2009-03-24 12:11:15,Gets a random Futurama quote from /. (icco) http://tinyurl.com/cl6cf4. #egrep #futurama #curl
+1376138787,2009-03-23 15:49:47,Monitor the queries being run by MySQL (root) http://tinyurl.com/amgmhl #mysql
+1376137188,2009-03-23 15:49:29,Backup all MySQL Databases to individual files (ruedu) http://tinyurl.com/cacuvd
+1375906499,2009-03-23 15:06:56,Create a quick back-up copy of a file (root) http://tinyurl.com/c9kwtw
+1375286916,2009-03-23 12:58:57,clear current line (allinurl) http://tinyurl.com/c4mxp7
+1373841636,2009-03-23 03:59:58,Put readline into vi mode (Viaken) http://tinyurl.com/cd87xz #readline #vi
+1371238439,2009-03-22 17:49:01,read manpage of a unix command as pdf in preview (Os X) (vranx) http://tinyurl.com/c9hg24 #os-x
+1368601685,2009-03-22 01:54:21,Set CDPATH to ease navigation (unixmonkey1878) http://tinyurl.com/dyckko #bash
+1368229698,2009-03-22 00:14:31,Brute force discover (point_to_null) http://tinyurl.com/d53hma #security #awk #brute-force
+1366986786,2009-03-21 18:58:56,A very simple and useful stopwatch (mrttlemonde) http://tinyurl.com/ddzauz
+1365436576,2009-03-21 11:29:22,Place the argument of the most recent command on the shell (atoponce) http://tinyurl.com/d8v27t
+1365367636,2009-03-21 10:43:43,Processor / memory bandwidthd? in GB/s (jacquesloonen) http://tinyurl.com/dy24g2
+1365174466,2009-03-21 08:48:23,iso-8859-1 to utf-8 safe recursive rename (renich) http://tinyurl.com/cthd6t #ut
+1364875380,2009-03-21 06:20:05,Delete all empty lines from a file with vim (leonza99) http://tinyurl.com/bn9t7j #vim
+1363275649,2009-03-20 23:13:17,currently mounted filesystems in nice layout (thechile) http://tinyurl.com/cb4xzd #filesystem #mount #column
+1361112929,2009-03-20 16:25:06,find geographical location of an ip address (leftyfb) http://tinyurl.com/b7s734 #bash
+1358600558,2009-03-20 04:21:33,Clear the terminal screen (mrttlemonde) http://tinyurl.com/c8a5sr
+1352535341,2009-03-19 03:46:13,Use lynx to run repeating website actions (Alanceil) http://tinyurl.com/cdemdx #lynx #login #cronjob
+1352470396,2009-03-19 03:30:49,Execute a command without saving it in the history (eaZy) http://tinyurl.com/dgfeqm
+1349750148,2009-03-18 18:24:52,Job Control (fall0ut) http://tinyurl.com/dfxjqy #bash #job-control #fg #bg #-z
+1347742494,2009-03-18 11:23:32,Download an entire static website to your local machine (RonaldConco) http://tinyurl.com/ddnt3r
+1345195925,2009-03-17 23:01:59,Get http headers for an url (sunkencity) http://tinyurl.com/cz56vc
+1339372841,2009-03-17 00:02:26,Start a command on only one CPU core (Alanceil) http://tinyurl.com/cuebp6 #linux #affinity #cpu #multicore
+1339371754,2009-03-17 00:02:12,Find files that have been modified on your system in the past 60 minutes (atoponce) http://tinyurl.com/d3kp6v
+1335107694,2009-03-16 06:14:26,Create a single-use TCP (or UDP) proxy (prayer) http://tinyurl.com/dbd7g6 #network #netcat
+1334864147,2009-03-16 04:45:49,Remind yourself to leave in 15 minutes (unixmonkey1878) http://tinyurl.com/aspt9d #pim
+1330448018,2009-03-15 06:02:19,Instead of writing a multiline if/then/else/fi construct you can do that by one line (stallmer) http://tinyurl.com/dzp9ml
+1324297786,2009-03-13 22:16:09,quickly rename a file (leonza99) http://tinyurl.com/con9ux
+1320889781,2009-03-13 09:19:11,runs a bash script in debugging mode (nottings) http://tinyurl.com/avobb5
+1318900794,2009-03-12 23:19:28,List the files any process is using (rockon) http://tinyurl.com/aou5r2
+1318536952,2009-03-12 22:02:34,Sort dotted quads (sysadmn) http://tinyurl.com/ccyqub
+1313783183,2009-03-12 01:19:34,"Rapidly invoke an editor to write a long, complex, or tricky command (fool) http://tinyurl.com/cgjqzn"
+1312672789,2009-03-11 21:06:02,Calculates the date 2 weeks ago from Saturday the specified format. (NPH) http://tinyurl.com/caktc9.
+1311322717,2009-03-11 16:25:16,Get Cisco network information (spif) http://tinyurl.com/ascrgf
+1309306977,2009-03-11 05:15:56,Stream YouTube URL directly to mplayer. (lrvick) http://tinyurl.com/bgnlrg. #bash #mplayer #youtube #streaming #flash
+1303916454,2009-03-10 03:55:22,Traceroute w/TCP to get through firewalls. (susannakaukinen) http://tinyurl.com/ad9x4u.
+1303866138,2009-03-10 03:40:51,Create a CD/DVD ISO image from disk. (atoponce) http://tinyurl.com/d3h9sc.
+1303850798,2009-03-10 03:36:16,Run the Firefox Profile Manager (asmoore82) http://tinyurl.com/acwba7
+1299060477,2009-03-09 04:33:42,Edit a file on a remote host using vim (adminzim) http://tinyurl.com/bes64d
+1297956517,2009-03-08 22:53:51,change directory to actual path instead of symlink path (Davvolun) http://tinyurl.com/afdnc3
+1297948593,2009-03-08 22:51:27,Block known dirty hosts from reaching your machine (sil) http://tinyurl.com/d9v65c
+1297723154,2009-03-08 21:41:51,Backticks are evil (atoponce) http://tinyurl.com/dl339h
+1297618557,2009-03-08 21:09:31,Graphical tree of sub-directories (unixmonkey842) http://tinyurl.com/bgh3xt
+1297618104,2009-03-08 21:09:24,Generat a Random MAC address (vaporub) http://tinyurl.com/bnwy36
+1297616628,2009-03-08 21:08:54,"Intercept, monitor and manipulate a TCP connection. (prutser) http://tinyurl.com/atlytz."
+1289775093,2009-03-06 19:50:22,pattern match in awk - no grep (themensch) http://www.commandlinefu.com/commands/view/108/pattern-match-in-awk-no-grep
+1289763587,2009-03-06 19:47:56,Convert PDF to JPG (brettalton) http://tinyurl.com/asqs79
+1287924827,2009-03-06 11:54:29,shut of the screen. (zooooz) http://tinyurl.com/dh3ea9.
+1286861264,2009-03-06 04:11:31,Set audible alarm when an IP address comes online (unixmonkey1878) http://tinyurl.com/d8rppw #network
+1282553556,2009-03-05 08:24:20,SSH connection through host in the middle (patko) http://tinyurl.com/bb5utc #ssh
+1279535217,2009-03-04 17:58:52,Optimal way of deleting huge numbers of files (root) http://tinyurl.com/bslj54
+1277989802,2009-03-04 10:17:25,Batch convert files to utf-8 (afinzel) http://tinyurl.com/cdfq8a
+1275223414,2009-03-03 19:50:37,Copy stdin to your X11 buffer (raphink) http://tinyurl.com/arpkh9 #x #x11
+1275223114,2009-03-03 19:50:33,Create a backdoor on a machine to allow remote connection to bash (PeekNPoke) http://tinyurl.com/bdg94n
+1273338990,2009-03-03 11:17:06,Get info about remote host ports and OS detection (starchox) http://tinyurl.com/cbpcc4 #network #net
+1273337855,2009-03-03 11:16:32,Save your sessions in vim to resume later (neutral) http://tinyurl.com/avwe8t #vim
+1261949508,2009-02-28 13:15:48,Firefox search plugin available
+1259925856,2009-02-27 21:59:36,Create a persistent connection to a machine (raphink) http://tinyurl.com/dfg772 #unix
+1258900550,2009-02-27 17:34:00,Create a script of the last executed command (dnavarre) http://tinyurl.com/aom6uw #unix
+1256598894,2009-02-27 03:09:46,Random commands
+1250542825,2009-02-25 19:47:22,Save a file you edited in vim without the needed permissions (skinp) http://tinyurl.com/bfvbyn #unix
+1249946959,2009-02-25 17:13:55,"Show biggest files/directories, biggest first with 'k,m,g' eyecandy (hans) http://tinyurl.com/bgsmsj #unix"
+1241546947,2009-02-23 17:34:26,"Sort the size usage of a directory tree by gigabytes, kilobytes, megabytes, then bytes. (mrtheplague) http://tinyurl.com/crwa8j. #unix"
+1238635136,2009-02-22 23:40:34,Commands can now be tagged
+1237973475,2009-02-22 19:40:37,make directory tree (mikeda) http://tinyurl.com/dcz7ag #unix
+1236609116,2009-02-22 07:20:10,How to establish a remote Gnu screen session that you can re-connect to (olifante) http://tinyurl.com/bhr498 #unix
+1236557287,2009-02-22 06:46:14,"mtr, better than traceroute and ping combined (fryfrog) http://tinyurl.com/bpnfg2 #unix"

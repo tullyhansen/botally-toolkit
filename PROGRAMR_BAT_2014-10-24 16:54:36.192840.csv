@@ -1,0 +1,2304 @@
+id,created_at,text
+525523092589019136,2014-10-24 05:44:03,if (fltProgress &lt; 1.0f) {
+525507996173238272,2014-10-24 04:44:04,"StrAllocCopy(name, ""nnn""); /* Room for item order number */"
+525492896980795392,2014-10-24 03:44:04,"if (NXHashMember(class_hash, &amp;query)) {"
+525477797138276352,2014-10-24 02:44:04,COPY OPSECT 01500000
+525462698294013953,2014-10-24 01:44:04,JNZ NOTVOLSRCH ; No
+525447599281958913,2014-10-24 00:44:04,*thiscoef = p1;
+525417396044312576,2014-10-23 22:44:03,mapentrysize = 3; /* OS/2 uses RGBTRIPLE colormap */
+525402298613526528,2014-10-23 21:44:04,if (firstupdate)
+525387200410951683,2014-10-23 20:44:04,avoid = FALSE;
+525372101445050369,2014-10-23 19:44:04,} else if(levl[zx][zy].typ == SCORR) {
+525357001254391808,2014-10-23 18:44:04,if (range &gt; ROWNO &amp;&amp; range &gt; COLNO) return FALSE;
+525341901688696832,2014-10-23 17:44:04,if ((ob-&gt;obclass &gt; lowguardobj) &amp;&amp; (ob-&gt;obclass &lt;= blitzguardobj) &amp;&amp; (rand &lt; 128)) //hack for alternate
+525326801896476674,2014-10-23 16:44:04,pub static MAX_PROTOCOL_CHAIN: DWORD = 7;
+525311703400349696,2014-10-23 15:44:04,objc_retainAutoreleaseReturnValue(id obj)
+525296602320502784,2014-10-23 14:44:04,"int x2,"
+525281505061662720,2014-10-23 13:44:04,"&lt;Btn1Down&gt;: take_focus() grab-focus()"";"
+525266404011159553,2014-10-23 12:44:04,"('\U0001d73a', &amp;['\u03b5']), ('\U0001d73b', &amp;['\u03b6']), ('\U0001d73c', &amp;['\u03b7']),"
+525251305506635776,2014-10-23 11:44:04,"""dragon"", ""elemental"", ""fungus or mold"","
+525236205563432962,2014-10-23 10:44:04,fn test_sem_as_mutex() {
+525221104848478208,2014-10-23 09:44:04,"pub fn walk_decl&lt;E: Clone, V: Visitor&lt;E&gt;&gt;(visitor: &amp;mut V, declaration: &amp;Decl, env: E) {"
+525206007476396032,2014-10-23 08:44:04,if (state-&gt;effects &amp; EF_FLAG1)
+525190906371399680,2014-10-23 07:44:04,"DrawFilmPost(buf,src,height);"
+525175807195742208,2014-10-23 06:44:04,circleArray.render();
+525160708640878592,2014-10-23 05:44:04,TOBCDWK DSECT 94050000
+525145608068530178,2014-10-23 04:44:04,dx = sgn(dx);
+525130508158898177,2014-10-23 03:44:04,static Exec exec;
+525115412393259009,2014-10-23 02:44:05,if (is_cmap_trap(i)) hit_trap = TRUE;
+525100313142104064,2014-10-23 01:44:05,"{ uquiver, uarmh, u.twoweap ? NULL : uswapwep }, \"
+525085209734426624,2014-10-23 00:44:04,* if the absolute value of the coefficient must be increased.
+525070113100562433,2014-10-22 23:44:04,if (ch || (iskeypad(scan)) || altseq)
+525055012872146945,2014-10-22 22:44:04,"N_(""pray to the gods for help""),"
+525039911280599040,2014-10-22 21:44:04,"int DTMbeginWrite( port, header, size )"
+525024811022839809,2014-10-22 20:44:04,"MGLDC *mgldc = NULL,*memdc = NULL,*dibdc = NULL,*windc = NULL;"
+525009711956254720,2014-10-22 19:44:04,"if (code = krb5_build_principal_ext(k5context, &amp;server,"
+524994613397164032,2014-10-22 18:44:04,// Note that this increment must happen *before* the spawn in order to
+524979515404345344,2014-10-22 17:44:04,"You(""sense a lack of %s nearby."", what);"
+524964416694280193,2014-10-22 16:44:04,"L 9,0(9) 05110000"
+524949315488612353,2014-10-22 15:44:04,if (!ch-&gt;leftvol &amp;&amp; !ch-&gt;rightvol)
+524934216988254208,2014-10-22 14:44:04,let _ = stdout.map(stdio::set_stdout);
+524919116759834624,2014-10-22 13:44:04,";Get size of environment in bytes, rounded up to paragraph boundry"
+524904014916640768,2014-10-22 12:44:04,pub mod plugin;
+524888915371917312,2014-10-22 11:44:04,nodeadr[MAXNETNODES].node[j] = 0xff;
+524873817181913088,2014-10-22 10:44:04,right_ptrs[row][i] = col+1;
+524858717783998464,2014-10-22 09:44:04,if (rip_pixmap == None &amp;&amp; rip_image) {
+524843617584955392,2014-10-22 08:44:04,"('\u094d', '\u094d', 9), ('\u0951', '\u0951', 230),"
+524828519797628928,2014-10-22 07:44:04,/* device-&gt;vdi-&gt;device palette order */
+524813420806569984,2014-10-22 06:44:04,obj-&gt;oclass != RING_CLASS &amp;&amp;
+524798320435552256,2014-10-22 05:44:04,area.g_x=p_Gw-&gt;gw_window-&gt;work.g_x+scroll_map.px_hline*(dirty_map_area.g_x-scroll_map.hpos);
+524783222920839170,2014-10-22 04:44:05,JZ BACKSPJ
+524768120473661441,2014-10-22 03:44:04,if (!flags.verbose) return;
+524753020975058944,2014-10-22 02:44:04,void() ClientKill;
+524737922566987776,2014-10-22 01:44:04,"l=TextLength(rp,buf,strlen(buf));"
+524722823324262400,2014-10-22 00:44:04,"MOV CX,2 ;Check rest of name but not extension"
+524707722537996288,2014-10-21 23:44:04,system(cmd);
+524692622431223809,2014-10-21 22:44:04,"xtime = (amount*amount == 1) ? ""moment"" : ""while"";"
+524677522462896128,2014-10-21 21:44:04,// d_tfrac &amp;= 0xFFFF;
+524662423345983488,2014-10-21 20:44:04,JMP SHORT lseek_ret
+524647325416042496,2014-10-21 19:44:04,char* tntwad;
+524632226454331392,2014-10-21 18:44:04,"64880,64873,64866,64859,64852,64844,64837,64830,"
+524617123382169601,2014-10-21 17:44:03,pla[6]+=pb-&gt;pb_w-1;
+524602025422913537,2014-10-21 16:44:04,"PM_HUMAN_ZOMBIE, PM_WRAITH, S_ZOMBIE, S_WRAITH,"
+524586928340234241,2014-10-21 15:44:04,DefaultPlayerCharacter = which;
+524571826291490816,2014-10-21 14:44:04,mlast: ; one more?
+524556727916969984,2014-10-21 13:44:04,"TRAP:""spiked pit"",(24,02)"
+524541627931832322,2014-10-21 12:44:04,* WORKSPACES WHICH HAVE BEEN STASHED ON DISK FOR LIB 29760000
+524526528647135232,2014-10-21 11:44:04,sp[1] = gd-&gt;Height - 1;
+524511431686098944,2014-10-21 10:44:04,DC X'0C000000' 82810000
+524496331050868736,2014-10-21 09:44:04,variables here. */
+524481231137042432,2014-10-21 08:44:04,"// This method is quite similar to StreamWatcher::cancel_read, see"
+524466130975744000,2014-10-21 07:44:04,pub use core::fmt; // necessary for fail!()
+524451030927704064,2014-10-21 06:44:04,"pline(""A tree."");"
+524435931437490176,2014-10-21 05:44:04,"* pixels. Three row groups are physically allocated, but the row pointer"
+524420831599136768,2014-10-21 04:44:04,"""o_name : string"","
+524405733677600768,2014-10-21 03:44:04,ob-&gt;needtoreact = true;
+524390634422304768,2014-10-21 02:44:04,"TYS11 LR ICR,6 55380000"
+524375534927892480,2014-10-21 01:44:04,"* In the future, we might also need context rows for CCIR601 sampling"
+524360436461109249,2014-10-21 00:44:04,DrawKills( bufferofsonly );
+524345333217001472,2014-10-20 23:44:03,JMP GOINIT
+524330237077618688,2014-10-20 22:44:04,userSpecifiedGeometry = 1;
+524315138472415232,2014-10-20 21:44:04,ent = PROG_TO_EDICT(pr_global_struct-&gt;self);
+524300036713099265,2014-10-20 20:44:04,// clarifies anything. - Niko
+524284940221808640,2014-10-20 19:44:05,"{ /* 0-base */ 0, 0, 2, 1, 2, 4, 4, 3, 4, 7, 5, 4, 4, 0, 1, 2, 0x77 };"
+524269837091360768,2014-10-20 18:44:04,floor-&gt;texture = sec-&gt;floorpic;
+524254740788838401,2014-10-20 17:44:05,"// Who knows if it helps, but it probably doesn't hurt"
+524239639352442880,2014-10-20 16:44:04,return Split;
+524224539426058241,2014-10-20 15:44:04,"EXTRN RDEOF:BYTE,SRCHAND:WORD,CPDATE:WORD,CPTIME:WORD"
+524209441848446978,2014-10-20 14:44:04,nolimbs(ptr) ? crawl[capitalize] :
+524194341443891200,2014-10-20 13:44:04,drop_done:
+524179241857204224,2014-10-20 12:44:04,if(wp_mask == W_ART &amp;&amp; !on &amp;&amp; oart-&gt;inv_prop) {
+524164142186647552,2014-10-20 11:44:04,"CLI LOGLAB,C'E' ONLY HEADER AND GARBAGE TO SYSLOG 59820000"
+524149042650300416,2014-10-20 10:44:04,"mov ax,07000h ; Try to set flag bits 12-14 to 1's"
+524133942988111872,2014-10-20 09:44:04,"pline_The(""poison doesn't seem to affect %s."","
+524118842629709824,2014-10-20 08:44:04,while (count&lt;length) {
+524103744209051648,2014-10-20 07:44:04,DEC AL ; controllers have head-load status available
+524088645410893825,2014-10-20 06:44:04,"LD 2,BIRSAVE B 72600000"
+524073545723547648,2014-10-20 05:44:04,else return((schar)(str - 100));
+524058446652801024,2014-10-20 04:44:04,"('\ua649', '\ua649'), ('\ua64b', '\ua64b'),"
+524043345891721216,2014-10-20 03:44:04,"Strcpy(tmpdungeon[n_dgns].name, """");"
+524028247563309056,2014-10-20 02:44:04,DC AL4(DOWNS53) 40920000
+524013148425428992,2014-10-20 01:44:04,* 56050000
+523998047857287168,2014-10-20 00:44:04,TrampolineBlockPagePair *pagePair = (TrampolineBlockPagePair *) dataAddress;
+523982945041022976,2014-10-19 23:44:03,"statetype s_blitzplead6 = {false,SPR_BLITZ_PLEAD6,5,T_Plead,SF_DOWN,&amp;s_blitzaplead5};"
+523967849313095680,2014-10-19 22:44:04,"buffer[offset_y] + blk_x,"
+523952749491539968,2014-10-19 21:44:04,"int __cdecl open( const char *filename, int oflag, ... )"
+523937647971303424,2014-10-19 20:44:04,"// above = W_GetNumForName(""ABOVEM6"") ;"
+523922547386380288,2014-10-19 19:44:04,String(s) =&gt; {
+523907451255808000,2014-10-19 18:44:04,"(void) mpickobj(mtmp, ib);"
+523892349517434881,2014-10-19 17:44:04,"XmNdeleteResponse, XmDESTROY,"
+523877252405411840,2014-10-19 16:44:04,/* Output the given pixel value as a symbol. */
+523862150935506946,2014-10-19 15:44:04,radius -= 6000;
+523847052124762114,2014-10-19 14:44:04,"obj_resists(obj, 5, 95)) {"
+523831951653089280,2014-10-19 13:44:04,/* other tools */
+523816852641046528,2014-10-19 12:44:04,svs.spawncount++; // any partially connected client will be
+523801754006458368,2014-10-19 11:44:04,.* SHARE OF HIGH PRIORITY TIME. 3064 12470000
+523786652821762048,2014-10-19 10:44:04,close(pp-&gt;sockfd);
+523771555265134592,2014-10-19 09:44:04,"ErrCode flic_play_loop(Flic *flic, Machine *machine)"
+523756454466322432,2014-10-19 08:44:04,return rc;
+523741355009671168,2014-10-19 07:44:04,GOTNUM:
+523726256849031168,2014-10-19 06:44:04,scantokey[ 27] = ']';
+523711154674479107,2014-10-19 05:44:04,"TyParen(ref ty) =&gt; TyParen(self.fold_ty(*ty)),"
+523696057302417408,2014-10-19 04:44:04,///A binary search function for Nodes.
+523680958617505792,2014-10-19 03:44:04,"#include ""..\rottnet.h"""
+523665856782688257,2014-10-19 02:44:04,data-&gt;is_ctrl = !data-&gt;is_ctrl;
+523650759054086144,2014-10-19 01:44:04,if (blockcnt &lt; compptr-&gt;MCU_width) {
+523635660109135873,2014-10-19 00:44:04,// abortgame - Flag set if the current game should be aborted (if a load
+523620559201259520,2014-10-18 23:44:04,"if((anzahl=(long)strchr(resp,'\033'))){"
+523605459904004096,2014-10-18 22:44:04,"SR 4,4 3591 69650000"
+523590360388616192,2014-10-18 21:44:04,"call printx(.('Reserved Tracks',0));"
+523575262689366016,2014-10-18 20:44:04,int levelTimeCount;
+523560160951042048,2014-10-18 19:44:04,if (teams[j].plow &gt; s-&gt;ping)
+523545063268560896,2014-10-18 18:44:04,"// native tasks necessarily know their precise bounds, hence this is"
+523529960984952833,2014-10-18 17:44:04,"MOV SI,OFFSET USERDIRS"
+523514863877103617,2014-10-18 16:44:04,recursive_mutex_init(&amp;result-&gt;mutex);
+523499761492840448,2014-10-18 15:44:03,"GO6EF L 4,=A(X'F80000') BYTE 1 WILL BE X'FF' 58460000"
+523484662573056000,2014-10-18 14:44:04,"m_textRenderer-&gt;render(context, m_textFilter, textShader, textColor, backgroundShader, backgroundColor);"
+523469563208691713,2014-10-18 13:44:04,"DM_MATRIXY - WI_SPACINGY,"
+523454463882059776,2014-10-18 12:44:04,creat_too_many_open_files EQU error_too_many_open_files
+523439364316336128,2014-10-18 11:44:04,pstate-&gt;new_weapon = pstate-&gt;oldweapon;
+523424265379803136,2014-10-18 10:44:04,return self.error_event(KeyMustBeAString);
+523409166933962752,2014-10-18 09:44:04,"mov ds:dword ptr[16+edi],edx"
+523394067104034816,2014-10-18 08:44:04,CALL OUTBYTE ;Print day
+523378968003887104,2014-10-18 07:44:04,"return (format!(""{}:{}:{}: {}:{}"","
+523363866680762369,2014-10-18 06:44:04,"return(scaleImage(img_data,wid,hei));"
+523348768700518400,2014-10-18 05:44:04,"rnd_treefruit_at(x,y)"
+523333667666796544,2014-10-18 04:44:04,* 67650000
+523318568910598145,2014-10-18 03:44:04,"movq MMWORD [wk(1)], mm0 ; wk(1)=tmp7"
+523303471223951360,2014-10-18 02:44:04,colour = wxSystemSettings::GetColour(wxSYS_COLOUR_GRAYTEXT);
+523288370785837056,2014-10-18 01:44:04,&amp;&amp; ((activeplats[j])-&gt;tag == line-&gt;tag))
+523273270507102208,2014-10-18 00:44:04,// No I_Error abort - what is up with TNT.WAD?
+523258170031230977,2014-10-17 23:44:04,"pub static SYSNAME: &amp;'static str = ""win32"";"
+523243069798625281,2014-10-17 22:44:03,LODSW ; Number of sectors in a FAT
+523227971398934528,2014-10-17 21:44:04,// when an FFI function overflows it will (hopefully) hit this guard
+523212871665467392,2014-10-17 20:44:04,* |left_name| |right_name|
+523197772796006403,2014-10-17 19:44:04,"pub fn setvbuf(stream: *FILE,"
+523182674463424513,2014-10-17 18:44:04,wbs-&gt;epsd -= 3;
+523167572884463616,2014-10-17 17:44:04,MISCM EQU X'01' VARIOUS SUSPENSION CAUSES 27740000
+523152475759853568,2014-10-17 16:44:04,m_palette = &amp;palette;
+523137375653072896,2014-10-17 15:44:04,let x3 = x.clone();
+523122274908766208,2014-10-17 14:44:04,"extern char *FDECL(fmt_ptr, (const genericptr, char *)); /* from alloc.c */"
+523107174973988864,2014-10-17 13:44:04,entry MOVNAMENOSET
+523092075026591744,2014-10-17 12:44:03,// 320*240 1.0 pixelAspect = 1.3333 screenAspect
+523076977704841216,2014-10-17 11:44:04,for (i=first_saw;i!=next_saw;i=(i+1)%10)
+523061878420148224,2014-10-17 10:44:04,g_numKeys++;
+523046779341004800,2014-10-17 09:44:04,"QApplication app(argc,argv);"
+523031679624294400,2014-10-17 08:44:04,"Your(""wallet contains %ld %s."", umoney, currency(umoney));"
+523016579744026624,2014-10-17 07:44:04,if ((int)sp &gt;= ((int)stack + sizeof(stack)))
+523001480216076288,2014-10-17 06:44:04,item_i-&gt;curpos = position;
+522986379656298497,2014-10-17 05:44:04,// must be the one to get the access_lock (because all
+522971281688637440,2014-10-17 04:44:04,if (mtmp &amp;&amp; !noncorporeal(mtmp-&gt;data) &amp;&amp;
+522956180222902273,2014-10-17 03:44:04,COPY DIRSECT 81680000
+522941083140239360,2014-10-17 02:44:04,while(Keyboard[sc_Plus])
+522925981750013953,2014-10-17 01:44:04,time = realtime - chan-&gt;outgoing_time[i];
+522910881676787712,2014-10-17 00:44:04,"WriteParameter( file, ""; Random Points - "", bo_kills_random );"
+522895781464788992,2014-10-16 23:44:03,= RFL_RemoveAnimsOnY
+522880683945889792,2014-10-16 22:44:04,"LA 9,DSKIOB LETS USE THE DSECT DASD 75460000"
+522865583713304576,2014-10-16 21:44:04,if (self.angles == '0 -1 0')
+522850485104312320,2014-10-16 20:44:04,WaitIO( (struct IORequest *)trq );
+522835385525604352,2014-10-16 19:44:04,if (imageViewInternal &amp;&amp; supportedImageType(me-&gt;mime_type)) {
+522820287130509312,2014-10-16 18:44:04,// SD_PlayIt - Play a pre-setup sound
+522805187350904832,2014-10-16 17:44:04,"int k; // the kind of lock it is (MUTEX, MONITOR, etc)"
+522790086883422208,2014-10-16 16:44:04,DECLARE INIT BYTE; /* TRUE IF INITIALIZING SYSTEM */
+522774988374695936,2014-10-16 15:44:04,if (text[i] == '+')
+522759887206756352,2014-10-16 14:44:04,static unsigned long timer_id = 1;
+522744790140850176,2014-10-16 13:44:04,"pub fn replace(&amp;mut self, mut item: T) -&gt; Option&lt;T&gt; {"
+522729690369622016,2014-10-16 12:44:04,"HTSetSuffix("".xpm"", ""image/x-xpixmap"", ""binary"", 1.0);"
+522714588358651905,2014-10-16 11:44:04,* Adjmonnam: The poor newt It The poor invisible orc The poor Fido
+522699491439550464,2014-10-16 10:44:04,"{ P_FLAIL, P_BASIC }, { P_HAMMER, P_EXPERT },"
+522684389306953728,2014-10-16 09:44:04,} else { /* do not wrap text */
+522669289607024640,2014-10-16 08:44:04,if (s-&gt;pack)
+522654193094770688,2014-10-16 07:44:04,"MVI RESCH,1 FOR ENTRY TO GENERAL EXIT 59570000"
+522639090878283776,2014-10-16 06:44:04,$GET_VERSION ENDP
+522623992256299008,2014-10-16 05:44:04,self.opt_vals(nm).len()
+522608890505351168,2014-10-16 04:44:03,SCR_Init
+522593793632391169,2014-10-16 03:44:04,"C28 ST 3,TBR 66320000"
+522578693315903489,2014-10-16 02:44:04,"getword(w,ptr,' ','\t');"
+522563595448877056,2014-10-16 01:44:04,lhld info ;HL = source for data
+522548495824461824,2014-10-16 00:44:04,b_switch = 8;
+522533394413268992,2014-10-15 23:44:04,"L 7,LNECNT TEST FOR END OF PAGE 22950000"
+522518294553968640,2014-10-15 22:44:04,"XtOffset (HTMLWidget, html.meter_font),"
+522503197836185601,2014-10-15 21:44:04,#ifdef MAIL
+522488098115289088,2014-10-15 20:44:04,case XK_space:
+522472997794615300,2014-10-15 19:44:04,"word d,r;"
+522457898686115840,2014-10-15 18:44:04,SINCR DS 2F 07000000
+522442798197641217,2014-10-15 17:44:04,"CMP BYTE PTR DS:[FCB],0 ;Default drive?"
+522427701114974208,2014-10-15 16:44:04,yyval.map = (char *) 0;
+522412600538435585,2014-10-15 15:44:04,ZBS TYOGN DD 96750000
+522397501081399297,2014-10-15 14:44:04,DCR E
+522382400933101568,2014-10-15 13:44:04,didn't have a next node. */
+522367300448817152,2014-10-15 12:44:04,"ShowBattleOption( inmenu, PosX, PosY, 0, 8, ""Spawn Dangers"","
+522352201885573120,2014-10-15 11:44:04,"fn lt(&amp;self, other: &amp;DList&lt;A&gt;) -&gt; bool {"
+522337101137068032,2014-10-15 10:44:04,"{ ""monsters"", 0 },"
+522322001286156288,2014-10-15 09:44:04,// find the client's PVS
+522306902064386048,2014-10-15 08:44:04,/* Eric -- your previous equation wasn't doing it.
+522291805153665024,2014-10-15 07:44:04,/// Fails if the given pointer is null.
+522276703377584128,2014-10-15 06:44:04,"dustcloud, quickly_dissipates);"
+522261603673444352,2014-10-15 05:44:04,searchlen=strlen(win-&gt;current_node-&gt;text);
+522246503315038208,2014-10-15 04:44:03,"STATIC_DCL void FDECL(mkgrave,(struct mkroom *));"
+522231407981367296,2014-10-15 03:44:04,goto showwin;
+522216307723616256,2014-10-15 02:44:04,CALL SEARCH(.FCB);
+522201207050604545,2014-10-15 01:44:04,SPACE 63090000
+522186108235689985,2014-10-15 00:44:04,"mov di,filsiz+2"
+522171007885656064,2014-10-14 23:44:04,"56199,56173,56147,56121,56095,56069,56043,56017,"
+522155909708271617,2014-10-14 22:44:04,"while (!validrace(flags.initrole, flags.initrace)) {"
+522140808976556033,2014-10-14 21:44:04,MarginW = hw-&gt;html.margin_width;
+522125707544363008,2014-10-14 20:44:03,%Cp Val 00034
+522110610021310465,2014-10-14 19:44:04,long aidx;
+522095511067951105,2014-10-14 18:44:04,/* spell cannot penetrate mummy wrapping */
+522080408851476480,2014-10-14 17:44:03,and I'm not responsible if this program messes anything up (except your
+522065311781371904,2014-10-14 16:44:04,if (move_other &amp;&amp; othermon) {
+522050213402648576,2014-10-14 15:44:04,CENTER PRINTING
+522035110913519616,2014-10-14 14:44:04,"* let query = vec!((""title"".to_string(), ""The Village"".to_string()),"
+522020013193297920,2014-10-14 13:44:04,"static const char fmt32[] = ""%c%c %s %s%*c"";"
+522004911161344000,2014-10-14 12:44:03,maxwn = atoi(qt_tilewidth) * COLNO + 10;
+521989812644229121,2014-10-14 11:44:04,"-&gt; Result&lt;Vec&lt;rtio::AddrinfoInfo&gt;, UvError&gt;"
+521974713317609473,2014-10-14 10:44:04,"ERR4 DB ""Dat"",""a""+80h"
+521959615790333952,2014-10-14 09:44:04,Zl Line_Separator U+2028 LINE SEPARATOR only
+521944515670974464,2014-10-14 08:44:04,"0x18, 0x19, 0x1a, 0x1b, 0x1c, 0x1d, 0x1e, 0x1f,"
+521929413634834432,2014-10-14 07:44:03,* Revision 1.1 1990/11/08 16:37:13 jefft
+521914317189693440,2014-10-14 06:44:04,// purposefully don't use 'ptr.offset' because for
+521899215648485379,2014-10-14 05:44:04,; OTHERWISE ASSUME HEX FILE IS BEING LOADED
+521884117500444672,2014-10-14 04:44:04,PROC _jabhack2
+521869018589040641,2014-10-14 03:44:04,"case HTAA_UNKNOWN: return ""UNKNOWN""; break;"
+521853919065296896,2014-10-14 02:44:04,//int texture_mode = GL_NEAREST;
+521838817465344002,2014-10-14 01:44:04,moveloop()
+521823720315584513,2014-10-14 00:44:04,self.write_mut_qualifier(mtbl);
+521808616903675904,2014-10-13 23:44:03,otmp-&gt;blessed = otmp-&gt;cursed = FALSE;
+521793519930056704,2014-10-13 22:44:04,%Cp Kni 00012
+521778421668773888,2014-10-13 21:44:04,DW MOVE ;M MOVE MEMORY
+521763320760901633,2014-10-13 20:44:04,"mhurtle(mon, u.dx, u.dy, 1);"
+521748222080221184,2014-10-13 19:44:04,EXTN(jsimd_h2v2_fancy_upsample_sse2):
+521733123017818112,2014-10-13 18:44:04,"let mut directives = match os::getenv(""RUST_LOG"") {"
+521718020453183488,2014-10-13 17:44:03,"breaksink(x,y)"
+521702924570066944,2014-10-13 16:44:04,DO; IF (QUITLEN := QUITLEN - 1) = 1 THEN RETURN LF;
+521687824350076929,2014-10-13 15:44:04,REP STOSB ;Initialize FATMAP to all free
+521672723286990848,2014-10-13 14:44:04,"NewGame (gd_hard,0);"
+521657625155760128,2014-10-13 13:44:04,struct permonst *pm = mtmp-&gt;data;
+521642523463532544,2014-10-13 12:44:03,opentin() /* called during each move whilst opening a tin */
+521627425965625344,2014-10-13 11:44:04,if (c == def_oc_syms[i]) {
+521612325129027584,2014-10-13 10:44:04,"ARMOR_CLASS, GRAY_DRAGON_SCALES, YELLOW_DRAGON_SCALES },"
+521597229535330305,2014-10-13 09:44:04,"focallength = FixedDiv (centerxfrac,"
+521582126618406913,2014-10-13 08:44:04,fn = &amp;iflags.wc_font_status;
+521567027136577536,2014-10-13 07:44:04,unsigned v;
+521551928061612032,2014-10-13 06:44:04,Cbuf_Init
+521536829523513344,2014-10-13 05:44:04,"EX 0,0(2) LOAD R2 OR BRANCH 48620000"
+521521731715227648,2014-10-13 04:44:04,sync-&gt;sendtime=sync-&gt;pkt.clocktime;
+521506629754572800,2014-10-13 03:44:04,// Menu Functions
+521491531799461889,2014-10-13 02:44:04,if (v1-&gt;x &lt; v2-&gt;x)
+521476432149897216,2014-10-13 01:44:04,global EXTN(jsimd_ycc_rgb_convert_mmx)
+521461330428329984,2014-10-13 00:44:04,"ErrorInvalidGroupLength(uint, uint, uint),"
+521446231705677824,2014-10-12 23:44:04,dat = Cache_Check (&amp;pic-&gt;cache);
+521431130881662976,2014-10-12 22:44:03,void MiscPreCache( void )
+521416033660583936,2014-10-12 21:44:04,"; LDS DX, source"
+521400932287152129,2014-10-12 20:44:04,"GtkWidget *alignVBox, *hungerVBox, *sickVBox, *blindVBox;"
+521385831983243264,2014-10-12 19:44:03,cancel_bonesfile();
+521370735580041216,2014-10-12 18:44:04,DebugStarted=false;
+521355633007026176,2014-10-12 17:44:03,INT_17:
+521340536306036736,2014-10-12 16:44:04,"""NEW PROTOCOL"","
+521325434324414464,2014-10-12 15:44:03,glBegin (GL_POLYGON);
+521310334817435648,2014-10-12 14:44:03,if ((ob-&gt;flags &amp; FL_STUCK) || (!ob-&gt;dirchoosetime))
+521295234618380288,2014-10-12 13:44:03,"if (test_move(u.ux, u.uy, u.dx, u.dy, TEST_MOVE))"
+521280135073632257,2014-10-12 12:44:03,struct sockaddr *addr ;
+521265036439060480,2014-10-12 11:44:03,// Draw a linear block of pixels into the view buffer.
+521249939297665026,2014-10-12 10:44:04,switch (CSTactive)
+521234838356254721,2014-10-12 09:44:04,if (trap-&gt;ttyp == MAGIC_PORTAL) break;
+521219736735338496,2014-10-12 08:44:03,";close went ok, return to original drive"
+521204638448877568,2014-10-12 07:44:03,clientrect.bottom = textrect.bottom + RIP_HEIGHT + RIP_OFFSET_Y - clientrect.bottom;
+521189539503943680,2014-10-12 06:44:04,//! * `Clone`
+521174442136047616,2014-10-12 05:44:04,JOCTET c; \
+521159341685370880,2014-10-12 04:44:04,jg LSpanLoop // yes
+521144240890740736,2014-10-12 03:44:04,"strcpy(MAPIMessageID, tmpID);"
+521129145036972034,2014-10-12 02:44:04,int prefix;
+521114043109900288,2014-10-12 01:44:04,"|| ((!strcmp(word, ""use or apply"") ||"
+521098943804231680,2014-10-12 00:44:04,DOPCDJ:
+521083841596096512,2014-10-11 23:44:03,"MONSTER:';',""giant eel"",(14,08)"
+521068743741698049,2014-10-11 22:44:04,"SUBROOM: ""food shop"", lit, (19,5), (2,3), ""town"""
+521053643735584769,2014-10-11 21:44:04,"{ 1, &amp;(HSleep_resistance), """", """" },"
+521038547093319681,2014-10-11 20:44:04,"av-&gt;fv[2] = DotProduct(pverts-&gt;v, aliastransform[2]) +"
+521023444801310721,2014-10-11 19:44:04,"errmsg3_post db CR,LF"
+521008345197858816,2014-10-11 18:44:04,; DI = Next cluster
+520993248652042243,2014-10-11 17:44:04,zone-&gt;blocklist.tag = 1; // in use block
+520978146548809730,2014-10-11 16:44:04,if (!(gamestate.TimeCount &amp; 15))//%17
+520963049709371393,2014-10-11 15:44:04,if (!vid_testingmode)
+520947950202404864,2014-10-11 14:44:04,"excesstics = DoActor(ob,excesstics);"
+520932848216604672,2014-10-11 13:44:04,"struct obj *lepgold, *ygold;"
+520917750357950464,2014-10-11 12:44:04,PUSH CX ; Save length
+520902649433313280,2014-10-11 11:44:04,schar ltyp = levl[rx][ry].typ;
+520887548458328064,2014-10-11 10:44:03,* I - WORD INDEX OF WORD TO BE FETCHED FROM PERTERM 12540000
+520857351461797888,2014-10-11 08:44:04,"DI_EAST, DI_NORTHEAST, DI_NORTH, DI_NORTHWEST, DI_NODIR"
+520842252361687040,2014-10-11 07:44:04,ShaderProgram&amp; faceProgram = shaderManager.shaderProgram(Shaders::FaceShader);
+520827153177661440,2014-10-11 06:44:04,"!strncmp (HTMainText-&gt;htmlSrc + 11, ""\n&lt;BASE"", 6) ||"
+520812052102021120,2014-10-11 05:44:04,"STM 1,2,SVI ,PARREL 49020000"
+520796951802290176,2014-10-11 04:44:03,"DB ""Enter name of list device? $"""
+520781856334422016,2014-10-11 03:44:04,for(x = x1; x &lt;= x2; x++)
+520766756101824512,2014-10-11 02:44:04,pub fn is_list&lt;'a&gt;(&amp;'a self) -&gt; bool {
+520751656976543744,2014-10-11 01:44:04,"assert_eq!(*(m3.find(&amp;""runtime"".to_string()).unwrap()), Metric::new(1000.0, 2.0));"
+520736557750554625,2014-10-11 00:44:04,"teamplay = cvar(""teamplay"");"
+520721455630528512,2014-10-10 23:44:04,zAngle = 0.0f;
+520706355834138624,2014-10-10 22:44:04,* CONDITIONS RESULTING FROM CONTROL MODE TIMEOUTS ON 270X 57670000
+520691257530912768,2014-10-10 21:44:04,"end_menu(win, pbuf);"
+520676157805821952,2014-10-10 20:44:04,"""bright magenta"", /* CLR_BRIGHT_MAGENTA */"
+520661057598423040,2014-10-10 19:44:04,// fact that we would be storing a reference *into* one of the
+520645959840440322,2014-10-10 18:44:04,//! The `FromStr` trait for types that can be created from strings
+520630857812680704,2014-10-10 17:44:04,while (pwedge-&gt;u &gt; pedge-&gt;u)
+520615757823369217,2014-10-10 16:44:03,void EntityModelRendererManager::setPalette(const Palette&amp; palette) {
+520600659381739520,2014-10-10 15:44:04,SIZEOF(d_derived_tbl));
+520585561195958273,2014-10-10 14:44:04,ptr=my_chop(ptr);
+520570462456541184,2014-10-10 13:44:04,(objects[i].oc_name_known &amp;&amp; OBJ_DESCR(objects[i]) != (char *)0)));
+520555362739847168,2014-10-10 12:44:04,update0 = updatestart[0]+UPDATEWIDE*PORTTILESHIGH-1;
+520540262452719616,2014-10-10 11:44:04,"if(*let == COIN_CLASS) let++, usegold = TRUE;"
+520525163574882304,2014-10-10 10:44:04,"/* For initial message to be visible, we need to explicitly position the"
+520510062784413696,2014-10-10 09:44:04,"XmNlabelPixmap, splashpix,"
+520494965018083328,2014-10-10 08:44:04,dataByte = *raw++;
+520479862776418304,2014-10-10 07:44:03,"assert_eq!(data.shift_char().unwrap(), '€'); // 3 bytes"
+520464763810492416,2014-10-10 06:44:04,"let raw_index = raw_index(self.lo, self.elts.len(), self.index + j);"
+520449665717006336,2014-10-10 05:44:04,"punpckldq xmm4,xmm0 ; xmm4=(40 41 42 43 50 51 52 53)"
+520434564884615168,2014-10-10 04:44:04,* ENABLE ENDS WITH TIME OUT IF CARRIER DETECT DOES NOT 44140000
+520419464714940416,2014-10-10 03:44:03,"start_pass_main (j_decompress_ptr cinfo, J_BUF_MODE pass_mode)"
+520404366780796930,2014-10-10 02:44:04,"MOV B,[ERR],100 ;Undefined - flag error"
+520389268657950720,2014-10-10 01:44:04,"write!(out, ""{}"", str)"
+520374170564050944,2014-10-10 00:44:05,// This is a not-very-pretty routine which handles
+520359069744652288,2014-10-09 23:44:04,"If isInsert is True, then we create an Insert Dialog window, otherwise"
+520343966605406208,2014-10-09 22:44:03,; Drive 0 is:
+520328867014529026,2014-10-09 21:44:03,return -3; /* Bad if no name sepcified */
+520313770678452224,2014-10-09 20:44:04,lda erflag ;in case of errors
+520298672207446017,2014-10-09 19:44:04,# QT_ENCOURAGE 25 /* 1-10 random encouragement messages */
+520283572557869056,2014-10-09 18:44:04,"StrAllocCopy(mycopy, relative_name);"
+520268470752411648,2014-10-09 17:44:04,"if(cansee(obj-&gt;ox,obj-&gt;oy))"
+520253374231760896,2014-10-09 16:44:04,"LA 1,0(1) LOAD PARAMETER REGISTER 1 AND CLEAR K13 47920000"
+520238274607337472,2014-10-09 15:44:04,"if (CHUNK(""BMHD""))"
+520223173317775360,2014-10-09 14:44:04,oldgamestate = wipegamestate = gamestate;
+520208072909025280,2014-10-09 13:44:04,/* Write image separator and Image Descriptor */
+520192973594951680,2014-10-09 12:44:04,"{CP_Active, ""deluder\0"", 'D', (menuptr)CP_BattleMenu},"
+520177875811848192,2014-10-09 11:44:04,PUNCH ' INCLUDE APLSFFSS ' 44200000
+520162777206640640,2014-10-09 10:44:04,sf_ref_count DB ? ; number of processes sharing fcb
+520147674134478848,2014-10-09 09:44:04,"void traversal_forward(Widget w, XEvent *event,"
+520132575319560193,2014-10-09 08:44:04,"for i in range(t, b) {"
+520117475946815488,2014-10-09 07:44:04,const char *sp;
+520102375001169920,2014-10-09 06:44:03,"// When 'noise' is negative, it means we want"
+520087275884253184,2014-10-09 05:44:03,"m_toggleHintBrushes = new wxCheckBox(filterBox, CommandIds::ViewInspector::ShowHintBrushesCheckBoxId, wxT(""Hint brushes""));"
+520072179028070400,2014-10-09 04:44:04,#![allow(non_camel_case_types)] // C types
+520057079441391616,2014-10-09 03:44:04,self.ic = next_ic;
+520041980852989952,2014-10-09 02:44:04,cursor.setX(x);
+520026881845112832,2014-10-09 01:44:04,notend: procedure byte;
+520011782128435200,2014-10-09 00:44:04,"EVT_UPDATE_UI(CommandIds::FaceInspector::FlipTextureVerticallyId, FaceInspector::OnUpdateFaceButtons)"
+519996678859153409,2014-10-08 23:44:03,void VL_SetVGAPlaneMode ( void )
+519981580505595904,2014-10-08 22:44:04,register char *opts;
+519966482152038400,2014-10-08 21:44:04,TITLE 'ARITHMETIC TYPE TABLES 05/11/70' 20930000
+519951381101572097,2014-10-08 20:44:04,"else if (!strcmpi (token,""FOREGROUNDSPRITE""))"
+519936281917554688,2014-10-08 19:44:04,prot-&gt;values = HTAssocList_new();
+519921183111020544,2014-10-08 18:44:04,letter = 'a';
+519906081074851840,2014-10-08 17:44:03,"assert!(lt(a.iter(), b.iter()) == (a[0] &lt; b[0]));"
+519890985237876736,2014-10-08 16:44:04,"ON XOF,=A(BLOWUP) SET FIXED OVERFLOW TRAP. 51030000"
+519875884283867137,2014-10-08 15:44:04,int x = (grid[0] &lt;&lt; 16) + 0x8000;
+519860785548644353,2014-10-08 14:44:04,void VID_InitDIB (HINSTANCE hInstance)
+519845687073460225,2014-10-08 13:44:04,DisplayInfo( 2 );
+519830583732887552,2014-10-08 12:44:03,ICALL MTROPEN 39700000
+519815488395018240,2014-10-08 11:44:04,switch (uMsg)
+519800385952026625,2014-10-08 10:44:04,ENTFREE DW ?
+519785288655470594,2014-10-08 09:44:04,InUCC = true;
+519770190121558016,2014-10-08 08:44:04,#define WINDOWLY 158
+519755090370904064,2014-10-08 07:44:04,b = (grmode == CGAGR);
+519739990524194816,2014-10-08 06:44:04,write_anchors(newsgroups);
+519724888882282496,2014-10-08 05:44:04,0001:000555ec+ MU_PlaySong_
+519709790482612226,2014-10-08 04:44:04,angle += (P_Random()-P_Random())&lt;&lt;20;
+519694692724649986,2014-10-08 03:44:04,"(None, None) =&gt; return true,"
+519679592307499009,2014-10-08 02:44:04,* Should not be called while swallowed.
+519664498651570178,2014-10-08 01:44:06,if (first_required&lt;GroupFirst)
+519649395583639554,2014-10-08 00:44:05,"MemDrawChar (20,dest,width,planesize);"
+519634292704423938,2014-10-07 23:44:04,"RSTREX XC OSIONEW,OSIONEW CLEAR THE 'SWITCH' K02 75010000"
+519619193574936577,2014-10-07 22:44:04,* 75400000
+519604096479662080,2014-10-07 21:44:05,"static inline bool object_equal ( const screen_object a, const screen_object b ) {"
+519588996532273152,2014-10-07 20:44:04,SPACE 84900000
+519573897176289280,2014-10-07 19:44:04,"pline(""%s is suddenly very hot!"", Monnam(mtmp));"
+519558795874160640,2014-10-07 18:44:04,"static inline mask_t cache_hash(cache_key_t key, mask_t mask)"
+519543696438489088,2014-10-07 17:44:04,"char *copyPropertyAttributeValue(const char *attrs, const char *name)"
+519528596625694720,2014-10-07 16:44:04,r_refdef.viewangles[1] = startangle;
+519513498309914624,2014-10-07 15:44:04,"/* for right now, only get the text */"
+519498398832279552,2014-10-07 14:44:04,"-60088,-59996,-59903,-59811,-59719,-59627,-59535,-59444,"
+519483297265909761,2014-10-07 13:44:04,/// allocations from being deallocated. This is used in preparation for when
+519468197276557312,2014-10-07 12:44:04,// find precache number for sound
+519453097844686848,2014-10-07 11:44:04,* CAN USE MVC LOOPS TO ADJOIN B TO A 22950000
+519437998627495937,2014-10-07 10:44:04,static Client *wintoclient(Window w);
+519422898613022721,2014-10-07 09:44:04,"INDX7 L R1,ACMPS GET THE WEIGHTING FACTOR FOR THE 29760000"
+519407797956804608,2014-10-07 08:44:03,return WXK_F17;
+519392700278521857,2014-10-07 07:44:04,* selected (not toggled). Then the items that were selected are deselected
+519377602352787456,2014-10-07 06:44:04,while (target = HTList_removeLastObject (me-&gt;links)) {
+519362499301609473,2014-10-07 05:44:03,if (buttonState &amp; planarMask) rawpacket.ty=rawpacket.rz=rawpacket.rx=0;
+519347404714557441,2014-10-07 04:44:04,"compTest(chandle, &amp;dstBuf, &amp;size, w, h, pf, basename, subsamp, 100,"
+519332304557453312,2014-10-07 03:44:04,// listen to the network
+519317203733458944,2014-10-07 02:44:04,dest-&gt;cur_output_row = 0;
+519302103186276352,2014-10-07 01:44:04,TABLP:
+519287002919755778,2014-10-07 00:44:04,// RotatePlane
+519271906965725184,2014-10-06 23:44:04,if (wp-&gt;keep_window &amp;&amp; !map_info) return;
+519256806846382080,2014-10-06 22:44:04,_mt_init_stuff (void) {
+519241704562782208,2014-10-06 21:44:04,} else if (xlock.box &amp;&amp; !can_reach_floor()) {
+519226604724432896,2014-10-06 20:44:03,i = 0; j = N_CHAR;
+519211506119241731,2014-10-06 19:44:04,global EXTN(jsimd_idct_float_sse2)
+519196406654177280,2014-10-06 18:44:04,"fn div_floor(&amp;self, other: &amp;$T) -&gt; $T { *self / *other }"
+519181306090250242,2014-10-06 17:44:03,entity.addBrush(brush);
+519166206600019968,2014-10-06 16:44:03,choices[i++] = efp;
+519151107965480960,2014-10-06 15:44:04,/// not run any destructors.
+519136006050947072,2014-10-06 14:44:03,"unaligned offset"""
+519120907609325568,2014-10-06 13:44:03,"invert_all_on_page((int)((y_wo-oarea.g_y)/menu_font.ch+scroll_menu.vpos),(ru_h+menu_font.ch-1)/menu_font.ch,0);"
+519105808546938882,2014-10-06 12:44:03,"/// `regex!(""..."").is_match(""..."")`."
+519090707823603712,2014-10-06 11:44:03,pverts[2][4] = sprite_height;
+519075610757709824,2014-10-06 10:44:04,&amp;&amp; windowprocs.win_init_nhwindows==amii_procs.win_init_nhwindows) {
+519060510143434752,2014-10-06 09:44:03,makeplural(growl_sound(mtmp)));
+519045410758074370,2014-10-06 08:44:03,0001:0000fec4* AddRespawnStatic_
+519030308583526400,2014-10-06 07:44:03,(ob-&gt;obclass == blitzguardobj) &amp;&amp;
+519015209093332995,2014-10-06 06:44:03,"60.0000000000,"
+519000112568471552,2014-10-06 05:44:04,if (data == 0)
+518985011396358144,2014-10-06 04:44:03,"Boolean(true),"
+518969912669503489,2014-10-06 03:44:03,PlayerStatus[player]=player_quitgame;
+518954812512407553,2014-10-06 02:44:03,"DrawUnScaledSprite (tx, ty, shape,16);"
+518939711776514049,2014-10-06 01:44:03,//! unsafe {
+518924613758500864,2014-10-06 00:44:03,//! channel some other green thread can now run on the scheduler. This also has
+518909512502505473,2014-10-05 23:44:03,/* if all else fails... */
+518894415277211648,2014-10-05 22:44:03,let mut tmp: T = mem::uninitialized();
+518879316290338816,2014-10-05 21:44:03,"{SPR_SKEL,12,5,{NULL},S_SKEL_RAISE6,0,0}, // S_SKEL_RAISE5"
+518864217311809536,2014-10-05 20:44:04,//Tests the BTree's cmp() method when two nodes are equal.
+518849118417203200,2014-10-05 19:44:04,"WarpTz = SbConfigGetWarpRange(""Tz"");"
+518834016435576832,2014-10-05 18:44:03,if(i) {
+518818917587124225,2014-10-05 17:44:03,"outrumor(bcsign(otmp), BY_COOKIE);"
+518803820072435712,2014-10-05 16:44:04,* _cache_create.
+518788717591683074,2014-10-05 15:44:03,delay = -objects[booktype].oc_delay;
+518773621041659904,2014-10-05 14:44:04,float normX = abs(modelNormal.x);
+518758520741580800,2014-10-05 13:44:04,"if (mode == DO_MOVE) You(""ooze under the door."");"
+518743418420625408,2014-10-05 12:44:03,"mtmp = christen_monst(mtmp, petname);"
+518728321845428224,2014-10-05 11:44:04,length = '2';
+518713221818376193,2014-10-05 10:44:03,boolcount = i;
+518698120818200576,2014-10-05 09:44:03,"i = M_CheckParm (""-net"");"
+518683023433547776,2014-10-05 08:44:04,use prelude::*;
+518667923351932928,2014-10-05 07:44:03,"if (MAPSPOT(i,j,2)==0)"
+518652821181575168,2014-10-05 06:44:03,"wsptr[5*0] = (int) RIGHT_SHIFT(tmp10 + tmp0, CONST_BITS-PASS1_BITS);"
+518637725407526912,2014-10-05 05:44:04,"28600,28660,28719,28779,28839,28899,28959,29020,"
+518622623987941376,2014-10-05 04:44:03,((boolopt[i].optflags == DISP_IN_GAME &amp;&amp; pass == 0) ||
+518607523222650880,2014-10-05 03:44:03,"xlocale, ylocale, FALSE);"
+518592426634924032,2014-10-05 02:44:04,if (! cinfo-&gt;marker-&gt;saw_SOF)
+518577324787499008,2014-10-05 01:44:03,rw_bottomtexturemid = worldlow;
+518562224898838528,2014-10-05 00:44:03,"int step,"
+518547125274423297,2014-10-04 23:44:03,"('\U0001d4a9', &amp;['\x4e']), ('\U0001d4aa', &amp;['\x4f']), ('\U0001d4ab', &amp;['\x50']),"
+518532028296626176,2014-10-04 22:44:04,"case M_SOF11: process = ""Lossless, arithmetic coding""; break;"
+518516928202407936,2014-10-04 21:44:03,set.insert(2);
+518501827651063808,2014-10-04 20:44:03,!(mvitals[mntmp].mvflags &amp; G_NOCORPSE) &amp;&amp;
+518486728525758464,2014-10-04 19:44:03,NSOBJECT_ELSEWHERE_IN(5.0);
+518471629383688192,2014-10-04 18:44:03,* This routine uses Thomas' incremental distance calculation method to
+518456527934742528,2014-10-04 17:44:03,if (pDSPBuf &amp;&amp; (pDSBuf != pDSPBuf))
+518441428297711617,2014-10-04 16:44:03,"* placed in the same directory as the nethack.exe executable,"
+518426330007076864,2014-10-04 15:44:03,* call suspended; then mark the main buffer empty.
+518411230013575168,2014-10-04 14:44:03,"scr_vrect.x + scr_vrect.width/2-4 + cl_crossx.value,"
+518396131794223104,2014-10-04 13:44:03,for _perm in it {
+518381032383709184,2014-10-04 12:44:03,"STATIC_DCL boolean FDECL(hitum, (struct monst *,int,struct attack *));"
+518365933564624896,2014-10-04 11:44:03,local_data_key!(key2: Gc&lt;String&gt;)
+518350834749677568,2014-10-04 10:44:04,"UV_READ,"
+518335733946671104,2014-10-04 09:44:03,"parse_args (int argc, char *argv[])"
+518320632636133376,2014-10-04 08:44:03,/* `mtmp' is now obsolete */
+518305532730699776,2014-10-04 07:44:03,vtop = frontsector-&gt;floorheight +
+518290433601183744,2014-10-04 06:44:03,if (!player-&gt;powers[pw_ironfeet])
+518275335277015040,2014-10-04 05:44:03,if ((dx &gt; TOUCHDIST) || (dy &gt; TOUCHDIST) || (dz &gt; (TOUCHDIST &gt;&gt; 10)))
+518260236084580352,2014-10-04 04:44:03,"asm mov si,[ds:bp+2] // corrected top of shape for this segment"
+518245135868784640,2014-10-04 03:44:03,*loan -= 1;
+518230038219849729,2014-10-04 02:44:04,You turn in the direction of %n. As his earthly body begins
+518214940914880512,2014-10-04 01:44:04,"* Under MSDOS: Prompt for game disk, then check for record file."
+518199838471905282,2014-10-04 00:44:03,0001:00067e94 getenv_
+518184740831363072,2014-10-03 23:44:04,"#define LM_to_uint(a,b) (((b)&lt;&lt;8)|(a))"
+518169638803619840,2014-10-03 22:44:03,"fn slice_chars(&amp;self, begin: uint, end: uint) -&gt; &amp;'a str {"
+518154541121175552,2014-10-03 21:44:04,case CRYSTAL_BALL:
+518139439152123907,2014-10-03 20:44:03,assigninvlet(otmp)
+518124341243179008,2014-10-03 19:44:03,fn test_filtered() {
+518109240058474496,2014-10-03 18:44:03,intervene()
+518094141373571072,2014-10-03 17:44:03,int any = 0;
+518079042223079424,2014-10-03 16:44:03,"DrawMenuBufIString( x + 2, y - 1, ""?"", HIGHLIGHTCOLOR );"
+518063944041525248,2014-10-03 15:44:04,!shkp-&gt;msleeping &amp;&amp; shkp-&gt;mcanmove &amp;&amp;
+518048842768723968,2014-10-03 14:44:03,"cx.span_err(sp, err.to_str().as_slice());"
+518033745753178112,2014-10-03 13:44:04,"swin = gtk_scrolled_window_new (NULL, NULL);"
+518018644753010688,2014-10-03 12:44:03,SoundsRemapped = true;
+518003543023058944,2014-10-03 11:44:03,"int which,"
+517988443876773888,2014-10-03 10:44:03,if (!mod-&gt;needload)
+517973346861199360,2014-10-03 09:44:04,return(NULL);
+517958247559749632,2014-10-03 08:44:04,s+=(hp_srcstep&gt;&gt;8);
+517943147759144960,2014-10-03 07:44:04,if (gone == PLAYER[0])
+517928048080207872,2014-10-03 06:44:03,cinfo-&gt;use_flat_quant_tbl = FALSE;
+517912945163239424,2014-10-03 05:44:03,shm-&gt;samplebits = format.wBitsPerSample;
+517897846922964992,2014-10-03 04:44:03,b
+517882750507159552,2014-10-03 03:44:04,"let exprs = xs.map(|x| to_expr(self.cx, x)).collect();"
+517867649129537537,2014-10-03 02:44:03,clipx = clipxmax - incx;
+517852549152784384,2014-10-03 01:44:03,pline(see_txt);
+517837452149796864,2014-10-03 00:44:04,fn from_seed(seed: Seed) -&gt; Self;
+517822351673933824,2014-10-02 23:44:03,(otmp-&gt;owornmask &amp; (W_ARMOR | W_RING | W_AMUL | W_TOOL)))
+517807249411280896,2014-10-02 22:44:03,int num_moved;
+517792151741415424,2014-10-02 21:44:03,// colons. This way if some test runner wants to arrange the tests
+517777051156512770,2014-10-02 20:44:03,/// schedulers to shut down.
+517761953897676800,2014-10-02 19:44:04,g-&gt;maxlight = sector-&gt;lightlevel;
+517746854256467968,2014-10-02 18:44:03,if (value &gt; 0) yn_number = value;
+517731756121001984,2014-10-02 17:44:04,"/// assert_eq!(s.rfind(&amp;['1', '2']), None);"
+517716653778685952,2014-10-02 16:44:03,"sub dx,3"
+517701556243034113,2014-10-02 15:44:04,"check_recordfile("""");"
+517686455779753984,2014-10-02 14:44:03,"movntdq XMMWORD [edi+3*SIZEOF_XMMWORD], xmmH"
+517671354414678016,2014-10-02 13:44:03,// CP_TimeLimitOptions ()
+517656258573524992,2014-10-02 12:44:04,0004:00081510+ _other_voices
+517641156096978944,2014-10-02 11:44:03,addinv_core2(otmp);
+517626055654658048,2014-10-02 10:44:03,"pub fn find&lt;'a&gt;(&amp;'a self, key: &amp;String) -&gt; Option&lt;&amp;'a Json&gt;{"
+517610958005751808,2014-10-02 09:44:03,void StopWind
+517595858272280576,2014-10-02 08:44:03,pendingClassRefsMap = nil;
+517580759260225536,2014-10-02 07:44:03,static void tag(const Arg *arg);
+517565658608205824,2014-10-02 06:44:03,switch (master-&gt;pass_type) {
+517550560292397057,2014-10-02 05:44:03,"movl in(%esp),%eax"
+517535461041262592,2014-10-02 04:44:03,"gc_combine(&amp;larger,area);"
+517520360053690368,2014-10-02 03:44:03,(lev-&gt;doormask &amp; (D_CLOSED|D_LOCKED|D_TRAPPED) )))
+517505263876972544,2014-10-02 02:44:04,edges[ 8] = lfurfu;
+517490162889404416,2014-10-02 01:44:03,scantokey[28] = K_ENTER;
+517475065135640576,2014-10-02 00:44:04,// re-open
+517459963204345856,2014-10-01 23:44:03,dz=orig-&gt;z-destz;
+517444865127612416,2014-10-01 22:44:04,"// for 'is_match', not 'find'). This is a half-measure, but does provide some"
+517429763326349312,2014-10-01 21:44:03,'R' =&gt; {
+517414664687616000,2014-10-01 20:44:03,X11_destroy_nhwindow(WIN_STATUS);
+517399573942505472,2014-10-01 19:44:05,"if (!NET_StringToAdr (Cmd_Argv(1), &amp;adr))"
+517384464515989504,2014-10-01 18:44:03,"Error (""USER BREAK : ROTT aborted.\n"");"
+517369366095360000,2014-10-01 17:44:03,"if (VW_MarkUpdateBlock (x, y, x+width-1, y+height-1))"
+517354267704041472,2014-10-01 16:44:04,"DisplayData( win, topidx = aidx );"
+517339165160378368,2014-10-01 15:44:03,"/* Contains code for 'd', 'D' (drop), '&gt;', '&lt;' (up, down) */"
+517324066509058048,2014-10-01 14:44:03,doversion()
+517308966997884929,2014-10-01 13:44:03,Monnam(mtmp)
+517293869449641984,2014-10-01 12:44:03,int y = gl_InstanceID / positionSize;
+517278769321885696,2014-10-01 11:44:03,troom-&gt;rlit = tmpregion.rlit;
+517263670695694336,2014-10-01 10:44:04,"movq mm2, MMWORD [wk(8)] ; mm2=tmp0L"
+517248568915419136,2014-10-01 09:44:03,"return multibyte_char_range_at_reverse(*self, prev);"
+517233469802684416,2014-10-01 08:44:03,"SoftError(""RNG - num=%3ld called from=%s val=%ld\n"",RandomTable[rndindex],string,val);"
+517218371268804609,2014-10-01 07:44:03,* it would forget spe and once again think the object is better
+517203272856530944,2014-10-01 06:44:04,* Note: OBJ() and BITS() macros are used to avoid exceeding argument
+517188171965407233,2014-10-01 05:44:03,$modelname v_shot2
+517173073360191488,2014-10-01 04:44:03,"/// assert!(left == &amp;mut [1i, 2]);"
+517157972863356928,2014-10-01 03:44:03,"sub edx,eax"
+517142873327030272,2014-10-01 02:44:03,"movq MMWORD [MMBLOCK(1,1,edi,SIZEOF_FAST_FLOAT)], mm0"
+517127775074123776,2014-10-01 01:44:04,static void (*surfmiptable[4])(void) = {
+517112676049502208,2014-10-01 00:44:04,XtCallbackProc name_callback;
+517097575162605568,2014-09-30 23:44:03,/* simple stubs for non-mail configuration */
+517082474971930624,2014-09-30 22:44:03,// allocated in _read_images
+517067376958136321,2014-09-30 21:44:03,cmostime-&gt;hour=(cmostime-&gt;hour&amp;0x0f)+((cmostime-&gt;hour&gt;&gt;4)*10);
+517052278872612865,2014-09-30 20:44:04,"// key player, send the setup info"
+517037176950120449,2014-09-30 19:44:03,pub use alloc::rc;
+517022077896114177,2014-09-30 18:44:03,"pub fn spanned&lt;T&gt;(lo: BytePos, hi: BytePos, t: T) -&gt; Spanned&lt;T&gt; {"
+517006976770142209,2014-09-30 17:44:03,case PM_LEATHER_GOLEM: alt = mtmp-&gt;mhpmax / 8; break;
+516991877372186624,2014-09-30 16:44:03,ConfigLoaded = true;
+516976777768742913,2014-09-30 15:44:03,R_AliasSetUpTransform
+516961679536840704,2014-09-30 14:44:03,return MAZE_ID;
+516946580382154753,2014-09-30 13:44:03,vector blood_org;
+516931480568991744,2014-09-30 12:44:03,"/* Not a weapon, weapon-tool, or ammo */"
+516916382379036672,2014-09-30 11:44:04,backoff = 1.5;
+516901281408241664,2014-09-30 10:44:03,"; A p,n; if(!(h=d()))*c=1[c]=(2[c]=2[E]/2)/2; else if(h&lt;L){ X(c,0); v(c,1); } else"
+516886180710072320,2014-09-30 09:44:03,"HUSTR_E2M7,"
+516871083988107264,2014-09-30 08:44:04,"fn with_path_next&lt;T&gt;(&amp;self, id: NodeId, next: LinkedPath, f: |PathElems| -&gt; T) -&gt; T {"
+516855983235026944,2014-09-30 07:44:03,"For example, a tree with parent pointers can be represented by putting the nodes behind `Strong`"
+516840886328913920,2014-09-30 06:44:04,impl&lt;'a&gt; Clone for MaybeOwned&lt;'a&gt; {
+516825782598258688,2014-09-30 05:44:03,return objc_destroyWeak_slow(addr);
+516810682818654208,2014-09-30 04:44:03,u_wipe_engr(3);
+516795586549673984,2014-09-30 03:44:04,vga_userpan(left)
+516780488321933312,2014-09-30 02:44:04,"gridLinesSoft(baseCoords, gridRatio, gridRatio2, gridThickness, gridBlend);"
+516765385333690368,2014-09-30 01:44:03,void A_VileChase (mobj_t* actor)
+516750286833336320,2014-09-30 00:44:03,* but you may not like the results for other color orders.
+516735185136943104,2014-09-29 23:44:03,/// let one_plus_one = stringify!(1 + 1);
+516720086267469824,2014-09-29 22:44:03,TS_Dispatch();
+516704988383694848,2014-09-29 21:44:03,temp |= 4;
+516689887249321984,2014-09-29 20:44:03,FILE *sv_logfile;
+516674790204403712,2014-09-29 19:44:04,void DrawEOLHeader
+516659691825659904,2014-09-29 18:44:04,if (!framebuffer_ptr)
+516644589810495488,2014-09-29 17:44:03,"* 6. Cursed items never weld (see #3 for reasons), but they also"
+516629491826065409,2014-09-29 16:44:04,x[11+i] = ld32(k+16+4*i);
+516614391358586881,2014-09-29 15:44:03,"case gd_baby: inrange = Near(ob,PLAYER[0],6);break;"
+516599293525106688,2014-09-29 14:44:04,"S_StartSound (mo, sound);"
+516584190750765056,2014-09-29 13:44:03,nomul(delay); /* study time */
+516569091596091393,2014-09-29 12:44:03,"struct obj *otmp, *otmp2, *otmpo;"
+516553991350935552,2014-09-29 11:44:03,static NXHashTable *prototypes = NULL;
+516538894566043648,2014-09-29 10:44:03,pub static ECONNREFUSED: c_int = 146;
+516523795377848320,2014-09-29 09:44:04,if (ob-&gt;ymove &gt; MAXMOVE+16) // +16 for push to floor
+516508693387833344,2014-09-29 08:44:03,for (cobj = level.objects[cc.x][cc.y]; cobj; cobj = nobj) {
+516493595965423616,2014-09-29 07:44:03,0001:0005cb78 PollSpaceBall_
+516478497523765248,2014-09-29 06:44:04,"!GetTextExtentPoint32(GetWindowDC (hWnd), wbuf, _tcslen(wbuf), &amp;dlg_sz))"
+516463394917212160,2014-09-29 05:44:03,poweradjust = (protectiontime &gt;&gt; 4);
+516448297956151296,2014-09-29 04:44:04,p-&gt;setPen(darkGray);
+516433199204139008,2014-09-29 03:44:04,"statetype s_NMEwheels120 = {16,NMEWHEEL1_01,0,NULL,NULL,&amp;s_NMEwheels120};"
+516418099697180672,2014-09-29 02:44:04,static int draw_titel(PARMBLK *pb){
+516402998495707137,2014-09-29 01:44:03,/* insurance against future changes... */
+516387897331945473,2014-09-29 00:44:03,"64, // doomednum"
+516372799569805312,2014-09-28 23:44:03,* leprechauns
+516357698733236224,2014-09-28 22:44:03,(m-&gt;align &lt;= -11) ? induced_align(80) :
+516342599796674560,2014-09-28 21:44:03,"return Err(ExpectedError(""String or Object"".to_string(),"
+516327501115981824,2014-09-28 20:44:03,edges stored in `self`.
+516312401550274560,2014-09-28 19:44:03,vertices[i].onseam = readBool&lt;int32_t&gt;(cursor);
+516297303003758592,2014-09-28 18:44:04,makehostile = TRUE;
+516282203572289537,2014-09-28 17:44:04,"{ NM_ITEM, ""? Display help menu"", 0, 0, 0, (void *)'?'},"
+516267105713672192,2014-09-28 16:44:04,P_XYMovement (mobj);
+516252004013076480,2014-09-28 15:44:03,GETJOCTET(srcinfo-&gt;marker_list-&gt;data[1]) == 0x78 &amp;&amp;
+516236905823076352,2014-09-28 14:44:04,"mov [BYTE PTR _update+ebx], 0"
+516221803652714496,2014-09-28 13:44:03,fn median(self) -&gt; T;
+516206703894093825,2014-09-28 12:44:03,"// fully understand. Here we explicitly make the pipe non-inheritable,"
+516191606467473408,2014-09-28 11:44:04,"mac_curs (winid win, int x, int y) {"
+516176505911914496,2014-09-28 10:44:03,"println!(""Available passes for running rustdoc:"");"
+516161406073192449,2014-09-28 09:44:03,"* by checking occupation == eatfood, but there is one special case:"
+516146306176544769,2014-09-28 08:44:03,Greater
+516131205935546369,2014-09-28 07:44:03,lasttimecount = TimeCount;
+516116109410717696,2014-09-28 06:44:04,"void RotateHandle::render(Model::RotateHandleHit* hit, Renderer::Vbo&amp; vbo, Renderer::RenderContext&amp; renderContext, float angle) {"
+516101007877885952,2014-09-28 05:44:03,case '\015':
+516085907443564544,2014-09-28 04:44:03,"// if the mouse has moved, force it to the center, so there's room to move"
+516070809291718656,2014-09-28 03:44:03,static const short k_mndx[4] = {
+516055710220976129,2014-09-28 02:44:03,upsample-&gt;next_row_out = 0;
+516040609766072321,2014-09-28 01:44:03,"return corpse_xname(otmp, TRUE);"
+516025511391535104,2014-09-28 00:44:03,int tw = totalWidth();
+516010410848583680,2014-09-27 23:44:03,extern uid_t NDECL(nh_geteuid);
+515995312889266178,2014-09-27 22:44:03,else if (Is_box(otmp) || typ == TIN)
+515980213097082881,2014-09-27 21:44:03,"I_Error (""Network game synchronization aborted."");"
+515965112726081536,2014-09-27 20:44:03,"sscanf(t, ""%d"", &amp;val );"
+515950013206503424,2014-09-27 19:44:03,"memcpy(visptr,doorptr,sizeof(visobj_t));"
+515934914509012992,2014-09-27 18:44:03,static int cheating = 0;
+515919813534048256,2014-09-27 17:44:03,"MoveVertexResult result = moveVertex(newVertex, false, start, end, faceManager);"
+515904717063749632,2014-09-27 16:44:04,"M1_FLY|M1_SEE_INVIS,"
+515889617418321920,2014-09-27 15:44:04,* Finish up after inputting a compressed-data scan.
+515874513696063488,2014-09-27 14:44:03,"movdqa xmm1,xmm5 ; xmm1=z10(unscaled)"
+515859417863303170,2014-09-27 13:44:04,/// Allow mutating the DList while iterating
+515844315487424512,2014-09-27 12:44:03,drw_free(Drw *drw) {
+515829215883976704,2014-09-27 11:44:03,SysBeep(3);
+515814116301488128,2014-09-27 10:44:03,"pxor xmm2,xmm6"
+515799018677739520,2014-09-27 09:44:03,(dy &lt; -MINACTORDIST) || (dy &gt; MINACTORDIST) )
+515783918726180864,2014-09-27 08:44:03,"Draw_Pic (scr_vrect.x+32, scr_vrect.y, scr_ram);"
+515768818359336960,2014-09-27 07:44:03,P_LoadVertexes (lumpnum+ML_VERTEXES);
+515753719708016640,2014-09-27 06:44:03,"None =&gt; 0,"
+515738621086019584,2014-09-27 05:44:03,0001:00040e20+ IN_GetScanName_
+515723521377710080,2014-09-27 04:44:03,// press down the stepheight
+515708423019589633,2014-09-27 03:44:04,} else if (isprint(ch)) {
+515693323135483905,2014-09-27 02:44:04,"Error (""Too many masked walls\n"");"
+515678221585895424,2014-09-27 01:44:03,"nelts: uint,"
+515663123718881280,2014-09-27 00:44:03,(*block)[0] = (JCOEF) (s &lt;&lt; Al);
+515648025696681984,2014-09-26 23:44:04,"cmp ah,es:[bx.priority] ; it's exit"
+515632923295629312,2014-09-26 22:44:03,pub fn local_id() -&gt; uint {
+515617823297925120,2014-09-26 21:44:03,"void INL_GetJoyDelta(word joy,int *dx,int *dy)"
+515602725179244544,2014-09-26 20:44:03,case 'p':
+515587623717703681,2014-09-26 19:44:03,.extern Entry3_16
+515572525469011968,2014-09-26 18:44:03,case S_LICH:
+515557426377293825,2014-09-26 17:44:03,"/// Also, indexing is pretty quick when you've got a vector and"
+515542326098558977,2014-09-26 16:44:03,if (flags.run) nomul(0);
+515527228705492992,2014-09-26 15:44:04,if (d_minmip &gt; 3)
+515512129525665792,2014-09-26 14:44:04,"&amp;jpegsize[0], subsamp, jpegqual, flags)==-1)"
+515497029238542337,2014-09-26 13:44:03,if(obj == uball || obj == uchain) continue;
+515481928720723968,2014-09-26 12:44:03,"setCaption(""NetHack: Question"");"
+515466829117284352,2014-09-26 11:44:03,reg = (NhRegion *) alloc(sizeof (NhRegion));
+515451729203056641,2014-09-26 10:44:03,mcr |= MCR_OUT2; /* Set GPO 2 */
+515436630984126465,2014-09-26 09:44:03,static void realizeAllClassesInImage(header_info *hi)
+515421531191914497,2014-09-26 08:44:03,"search: text,"
+515406431265501185,2014-09-26 07:44:03,"dot::Id::new(format!(""N{}"", *n))"
+515391333713063936,2014-09-26 06:44:04,"('\ua73c', '\ua73c'), ('\ua73e', '\ua73e'),"
+515376232209580032,2014-09-26 05:44:03,} else if (spellknow(spell) &lt;= 100) {
+515361133621161986,2014-09-26 04:44:03,"int r_zistepx, r_zistepy;"
+515346035687059457,2014-09-26 03:44:04,// tic++;
+515330936142319616,2014-09-26 02:44:04,/*flexhack.skl*/
+515315835679035392,2014-09-26 01:44:03,m_totalFaceCount -= brushFaces.size();
+515300736172056577,2014-09-26 00:44:03,upsample-&gt;methods[ci] = h2v1_upsample;
+515285635717152769,2014-09-25 23:44:03,else if (drop &gt; 0)
+515270537460072449,2014-09-25 22:44:04,parencount = 1;
+515255434954145792,2014-09-25 21:44:03,"""LEVALIGN"",""ENTRY"",""STAIR"",""NO_UP"",""NO_DOWN"",""PORTAL"",""STRING"","
+515179937897402368,2014-09-25 16:44:03,if ( ( SHAKETICS != 0xFFFF ) &amp;&amp; ( !inmenu ) &amp;&amp; ( !GamePaused ) &amp;&amp;
+515149741601353729,2014-09-25 14:44:04,pub static _SC_THREAD_PRIORITY_SCHEDULING : c_int = 79;
+515134642287296513,2014-09-25 13:44:04,case HEADSTONE:
+515119541576531968,2014-09-25 12:44:03,i=NUMFIRSTCREDITMESSAGES;
+515104439544578049,2014-09-25 11:44:03,macro_rules! shl_impl(
+515089342310940672,2014-09-25 10:44:03,"unset_all_on_page(window, page_start, page_end)"
+515074241558233089,2014-09-25 09:44:03,/* Note: MSLOW's `+ 1' prevents slowed speed 1 getting reduced to 0;
+515059142487453696,2014-09-25 08:44:03,"statetype s_batblast3 = {false,BATBLAST3,3,T_Projectile,SF_BAT,&amp;s_batblast4};"
+515044042951127040,2014-09-25 07:44:03,pub static _SC_AIO_MAX : c_int = 24;
+515028944744349696,2014-09-25 06:44:03,"As you pick up %o, the hairs on the back of your"
+514998744887361536,2014-09-25 04:44:03,"SCROLL(""stinking cloud"", ""VELOX NEB"", 1, 15, 300),"
+514983647527849984,2014-09-25 03:44:04,if (*++invlet) goto nextclass;
+514968547458813952,2014-09-25 02:44:04,0001:000708d8 MIDI_GetSongLength_
+514953446496432130,2014-09-25 01:44:03,QWidget* NetHackQtStatusWindow::Widget() { return this; }
+514938348872667136,2014-09-25 00:44:04,#define TABLE_ACTOR(ob) ((ob-&gt;obclass &gt;= lowguardobj) &amp;&amp; (ob-&gt;obclass &lt;= wallopobj))
+514923248572964864,2014-09-24 23:44:03,yuvptr[i]=tmpbuf[i];
+514908148130643969,2014-09-24 22:44:03,static int st_facecount = 0;
+514893048879542273,2014-09-24 21:44:03,"emit_2bytes(cinfo, (int) (datalen + 2)); /* total length */"
+514877949020229634,2014-09-24 20:44:03,"flushImps(cls, m-&gt;name, old, nil, nil);"
+514862849496465409,2014-09-24 19:44:03,BR_buffer = entropy-&gt;bit_buffer + entropy-&gt;BE; /* Append bits to buffer */
+514847751293906944,2014-09-24 18:44:03,src-=ylow;
+514832652294426625,2014-09-24 17:44:04,if( scaling_needed )
+514817551625617408,2014-09-24 16:44:03,#include &lt;osbind.h&gt;
+514802452768755713,2014-09-24 15:44:03,if(u.uhpmax &lt;= 0) u.uhpmax = 10; /* arbitrary */
+514787351533735937,2014-09-24 14:44:03,"char *result = (char *)calloc(vlen+1, 1);"
+514772253901619200,2014-09-24 13:44:03,"(None, _) =&gt; sp,"
+514757153836785664,2014-09-24 12:44:03,"wcex.hbrBackground = mswin_get_brush(NHW_MESSAGE, MSWIN_COLOR_BG);"
+514742054069747712,2014-09-24 11:44:03,jz Lsavelight
+514726952864075777,2014-09-24 10:44:03,roguename() /* Name of a Rogue player */
+514711854716055552,2014-09-24 09:44:03,// Try to discover a literal string prefix.
+514696756458958848,2014-09-24 08:44:04,"{""+jump"", ""jump / swim up""},"
+514681657262342144,2014-09-24 07:44:04,vid.aspect = ((float)vid.height / (float)vid.width) * (320.0 / 240.0);
+514666555834396672,2014-09-24 06:44:03,pub enum FromBase64Error {
+514651456373530624,2014-09-24 05:44:03,case 163:
+514636356707180544,2014-09-24 04:44:03,pub static _SC_OPEN_MAX : c_int = 11;
+514621257523138560,2014-09-24 03:44:03,"movl %edx,st_spanstate(%edi)"
+514606158896984064,2014-09-24 02:44:03,"tower_of_flame,"
+514591059981393920,2014-09-24 01:44:04,// paintbuffer[i].left += lscale[data];
+514575958356283393,2014-09-24 00:44:03,"('\u0162', '\u0163'), ('\u0164', '\u0165'),"
+514560860820635648,2014-09-23 23:44:03,pub static EBADSLT: c_int = 55;
+514545761279680512,2014-09-23 22:44:03,"* together, unless it violates Rule 2. NOGEN monsters"
+514530662066708480,2014-09-23 21:44:04,"try!(self.write_plain(""updated ratchet file\n""));"
+514515560059899905,2014-09-23 20:44:03,"* ""sooner"" to ""later"". If an object, increment the object's"
+514500462675243008,2014-09-23 19:44:03,"fn check(a: &amp;BigInt, b: &amp;BigInt, q: &amp;BigInt, r: &amp;BigInt) {"
+514485360500674560,2014-09-23 18:44:03,case W_ARM:
+514470264508534784,2014-09-23 17:44:04,"dw 32827,49211, 60,16444,32828,49212, 61,16445,32829,49213, 62,16446,32830,49214"
+514455162283233281,2014-09-23 16:44:03,void(string s) dprint = #25;
+514440063594536960,2014-09-23 15:44:03,"(how == QUIT) ? ""quit"" : ""died"");"
+514424966432161792,2014-09-23 14:44:04,/// crate it is invoked in.
+514409865532698624,2014-09-23 13:44:03,"void ( *routine )( int w ),"
+514394766742921216,2014-09-23 12:44:04,"Sprintf(buf,""%s%ld%s"",t,v,tail);"
+514379666837499904,2014-09-23 11:44:03,"pline(""Perhaps that's why %s cannot move it."","
+514364568483938304,2014-09-23 10:44:04,"1, 0, 0, 0, 20, 3, 4, 3, 0, B, P_WHIP, PLASTIC, CLR_BROWN),"
+514349465818660864,2014-09-23 09:44:03,x11_colormap[j][CM_BLUE] = ColorMap[CM_BLUE][i];
+514334368517857281,2014-09-23 08:44:03,Function: BATTLE_GetSpecials
+514319268411088897,2014-09-23 07:44:03,pNMQ = pNMR;
+514304167968780289,2014-09-23 06:44:03,Module: rt_sc_a.obj(rt_sc_a.ASM)
+514289066721177600,2014-09-23 05:44:03,* remove_worm()
+514273967948193792,2014-09-23 04:44:03,/// Returns a slice of the given string from the byte range
+514258871318487040,2014-09-23 03:44:04,"let split: Vec&lt;&amp;str&gt; = data.splitn(|c: char| c == ' ', 3).collect();"
+514243770712621056,2014-09-23 02:44:03,"TOOL(""horn of plenty"", ""horn"", 0, 0, 1, 1, 2, 18, 50, BONE, CLR_WHITE),"
+514228671499206657,2014-09-23 01:44:03,} else if ((otmp = unchanger()) != 0 &amp;&amp; otmp-&gt;cursed) {
+514213571031752704,2014-09-23 00:44:03,stmp-&gt;range--;
+514198471717715968,2014-09-22 23:44:03,HandleEvent (&amp;anEvent);
+514183372751781888,2014-09-22 22:44:03,Some(i) =&gt; { env.remove(i); }
+514168273710383104,2014-09-22 21:44:03,self.steal_for_yield = true;
+514153172496293888,2014-09-22 20:44:03,"rolenum, racenum, gendnum, alignnum);"
+514138074629287937,2014-09-22 19:44:03,"When %l sees %o, he smiles, and says:"
+514122974598004736,2014-09-22 18:44:03,modelist[curmode].stretched = 0;
+514107875858608128,2014-09-22 17:44:03,"pline(""%s around your displaced image!"", mappear);"
+514092776250949632,2014-09-22 16:44:03,"stricmp(spectator_password.string, ""none"") &amp;&amp;"
+514077674286092288,2014-09-22 15:44:03,"fprintf(stderr, ""%s: can't set quality ratings\n"", progname);"
+514062575869648896,2014-09-22 14:44:03,"item.netname = ""Grenade Launcher"";"
+514047479340605441,2014-09-22 13:44:04,let lock = lock.downgrade();
+514032377619025920,2014-09-22 12:44:03,s_suffix(noit_mon_nam(mtmp)));
+514017276061052928,2014-09-22 11:44:03,pushl %ebp // preserve caller's stack frame pointer
+514002178500227072,2014-09-22 10:44:03,for (y=ob-&gt;tiletop;y&lt;=ob-&gt;tilebottom;y++)
+513987076740890624,2014-09-22 09:44:03,if (main_ptr-&gt;rowgroup_ctr &lt; main_ptr-&gt;rowgroups_avail)
+513971980853579776,2014-09-22 08:44:04,dest[SCREENWIDTH*3] = colormap[source[(frac+fracstep3)&gt;&gt;25]];
+513956880864268288,2014-09-22 07:44:03,"MONSTER:'@',""soldier"",(54,16)"
+513941779738267648,2014-09-22 06:44:03,/* Finish AC successive approximation */
+513926681040793600,2014-09-22 05:44:03,"steal_for_yield: false,"
+513911581449945088,2014-09-22 04:44:03,"FOR(i,64) c[i] = (m?m[i]:0) ^ x[i];"
+513896483775840256,2014-09-22 03:44:04,if (mapIt != m_selectedEdgeHandles.end())
+513881383635529728,2014-09-22 02:44:03,"let i = cmp::min(ic, self.input.len());"
+513866283486838784,2014-09-22 01:44:03,0004:0001d008+ _newgameY
+513851182218231808,2014-09-22 00:44:03,"""This Fruit is not the True Fruit of Discord."","
+513836082375700480,2014-09-21 23:44:03,"('\u2f86', &amp;['\u820c']), ('\u2f87', &amp;['\u821b']), ('\u2f88', &amp;['\u821f']), ('\u2f89',"
+513820985423065088,2014-09-21 22:44:03,"unsigned long jpegSize, int w, int h, int pf, char *basename, int subsamp,"
+513805885710553088,2014-09-21 21:44:03,"// door is just starting to open, so connect the areas"
+513790784169312256,2014-09-21 20:44:03,externdef _BOPS_Error:dword
+513775688542064640,2014-09-21 19:44:04,"%define RECIPROCAL(m,n,b) MMBLOCK(DCTSIZE*0+(m),(n),(b),SIZEOF_DCTELEM)"
+513760586447196160,2014-09-21 18:44:03,dowhatis()
+513745485904240640,2014-09-21 17:44:03,pen[6] = Qt::cyan;
+513730389442326528,2014-09-21 16:44:04,"US_CenterWindow (18,3);"
+513715287431335937,2014-09-21 15:44:03,((COM_CheckSyncType *)NextLocalCommand())-&gt;angle=PlayerSync[consoleplayer].angle;
+513700188503166976,2014-09-21 14:44:03,impl&lt;T:Copy&gt; Clone for Cell&lt;T&gt; {
+513685088719360001,2014-09-21 13:44:03,const char *str;
+513669988902010880,2014-09-21 12:44:03,"WriteParameter( file, ""; 500 Hitpoints - "", 500 );"
+513654888686157825,2014-09-21 11:44:03,* Clear the map by hiding all the map tiles.
+513639791947427840,2014-09-21 10:44:04,"'\u0338']), ('\u2329', &amp;['\u3008']), ('\u232a', &amp;['\u3009']), ('\u2adc', &amp;['\u2add',"
+513624691551248384,2014-09-21 09:44:03,#define SHIFT (0x1 | 0x2)
+513609592518246400,2014-09-21 08:44:03,Crappy windows multimedia base
+513594492159803393,2014-09-21 07:44:03,PROC VW_DrawMPropString string:DWORD
+513579393533612032,2014-09-21 06:44:03,creating a DOS/4G executable
+513564294831943680,2014-09-21 05:44:04,pub static SOL_SOCKET: c_int = 0xffff;
+513549195400450048,2014-09-21 04:44:04,temp = NULL; // shut up compiler
+513534095092359169,2014-09-21 03:44:03,"GNOME_APP_UI_ITEM, N_(""Read Book/Scroll""),"
+513518995337936896,2014-09-21 02:44:03,free(buf2);
+513503894119645185,2014-09-21 01:44:03,"Error (""No events in movie"");"
+513488795019542529,2014-09-21 00:44:03,"data = COM_LoadStackFile(namebuffer, stackbuf, sizeof(stackbuf));"
+513473694296199169,2014-09-20 23:44:03,"SD_PlaySoundRTP(SD_GETHEADSND,ob-&gt;x, ob-&gt;y);"
+513458596194316289,2014-09-20 22:44:03,"(void) strncpy(temp, name, pref ? 26 : 30);"
+513443497870127104,2014-09-20 21:44:03,if (pd == &amp;mons[PM_CLAY_GOLEM]) {
+513428399189024768,2014-09-20 20:44:04,"('\U0001d4d4', &amp;['\x45']), ('\U0001d4d5', &amp;['\x46']), ('\U0001d4d6', &amp;['\x47']),"
+513413297174249472,2014-09-20 19:44:03,locplayerstate-&gt;NETCAPTURED ++;
+513398199424647168,2014-09-20 18:44:03,"Sprintf(qbuf,""Call a stream of %s fluid:"","
+513383097480790016,2014-09-20 17:44:03,else if (ent-&gt;frame &gt;= 105 &amp;&amp; ent-&gt;frame &lt;= 106) f = f + 6; //light
+513367998711996417,2014-09-20 16:44:03,nw-&gt;Title = title;
+513352898873679872,2014-09-20 15:44:03,"{SPR_VILE,2,2,{A_VileChase},S_VILE_RUN6,0,0}, // S_VILE_RUN5"
+513337799425400832,2014-09-20 14:44:03,"(14, ""143"".to_string()),"
+513322700404977664,2014-09-20 13:44:03,float viewWidth = viewRight - viewLeft;
+513307603087405056,2014-09-20 12:44:04,return state;
+513292500019478530,2014-09-20 11:44:03,"extern FILE *FDECL(fopen_datafile, (const char *,const char *,int));"
+513277400772526080,2014-09-20 10:44:03,updatespot = baseupdatespot = updateptr + uwidthtable[ytl] + xtl;
+513262303035543552,2014-09-20 09:44:03,need_more_sorting = TRUE;
+513247201964081152,2014-09-20 08:44:03,// sanity-check negative results
+513232104394850305,2014-09-20 07:44:03,* ghosts
+513217005592539136,2014-09-20 06:44:03,"EditorFrame::EditorFrame(Model::MapDocument&amp; document, EditorView&amp; view) :"
+513201904881786880,2014-09-20 05:44:03,min_y += step;
+513186806696005633,2014-09-20 04:44:03,/*potion.c*/
+513171707616829440,2014-09-20 03:44:04,if (*location != oldObj) {
+513156609405911040,2014-09-20 02:44:04,b @
+513141507860480000,2014-09-20 01:44:03,"let (log_level, name) = match (parts.next(), parts.next(), parts.next()) {"
+513126408613531648,2014-09-20 00:44:03,"{SPR_VILE,32780,8,{A_FaceTarget},S_VILE_ATK9,0,0}, // S_VILE_ATK8"
+513111308204769281,2014-09-19 23:44:03,_numscanlines = _maxscanline - _minscanline;
+513096210400677888,2014-09-19 22:44:04,%Cp Pri 00017
+513081108276469760,2014-09-19 21:44:03,jg L3x3_8
+513066009876766720,2014-09-19 20:44:03,/// green_start!(main)
+513050911724568576,2014-09-19 19:44:04,mtmp2-&gt;mhpmax = mtmp-&gt;mhpmax;
+513035812469215232,2014-09-19 18:44:04,for (j = croom-&gt;ly; j &lt;= croom-&gt;hy; ++j) {
+513020711636836353,2014-09-19 17:44:03,"ERREXIT1(cinfo, JERR_NO_HUFF_TABLE, dctbl);"
+513005613581078528,2014-09-19 16:44:04,if (how &lt; PANICKED)
+512990512526000128,2014-09-19 15:44:03,"drawWorn(painter,ublindf,2,0); // Blindfold"
+512975412864229376,2014-09-19 14:44:03,DP_2x2:
+512960312535183360,2014-09-19 13:44:03,px = x + w - 1;
+512945212520689664,2014-09-19 12:44:03,EXTRN masterofs:WORD ;start of master tile port
+512930114263580672,2014-09-19 11:44:03,* Anyone who wants to get that case to work _without_ an ugly static
+512915015280914432,2014-09-19 10:44:03,"ReadBoolean (""BobbingOn"", &amp;BobbinOn);"
+512899916398862336,2014-09-19 09:44:03,#define YY_CURRENT_BUFFER yy_current_buffer
+512884814786359296,2014-09-19 08:44:03,"{SPR_TRED,32770,4,{NULL},S_REDTORCH4,0,0}, // S_REDTORCH3"
+512869715946254336,2014-09-19 07:44:03,"#[test] fn invalid05() { musterr(""{:|}"") }"
+512854617924050944,2014-09-19 06:44:03,// (IF !NULL) - A pointer to the loaded data.
+512839515439108097,2014-09-19 05:44:03,"entity(vector fmins, vector fmaxs) spawn_field ="
+512824417101963264,2014-09-19 04:44:03,"if logging is disabled, none of the components of the log will be executed."
+512809318928744451,2014-09-19 03:44:03,"// and it won't happen if the game was just loaded, so you wind up"
+512794220357099520,2014-09-19 02:44:04,"STATIC_DCL boolean FDECL(zap_steed, (struct obj *));"
+512779120707526656,2014-09-19 01:44:04,void PM_InitBoxHull (void);
+512764022685319170,2014-09-19 00:44:04,* implements no methods. Caller must free the block.
+512748922184269825,2014-09-18 23:44:04,next = curr-&gt;Gmi_next;
+512733820953456640,2014-09-18 22:44:03,"unsigned mapwidth,mapheight,mapbyteswide,mapwordswide"
+512718723249999872,2014-09-18 21:44:04,mtmp-&gt;mtrack[0].x = omx;
+512703624200208385,2014-09-18 20:44:04,if (name[0] == '-')
+512688523183280128,2014-09-18 19:44:03,return faceEditorPanel;
+512673423651536896,2014-09-18 18:44:03,"MONSTER:'s',""scorpion"",(03,17),hostile"
+512658325293375488,2014-09-18 17:44:04,"glTexImage2D (GL_TEXTURE_2D, miplevel, GL_COLOR_INDEX8_EXT, scaled_width, scaled_height, 0, GL_COLOR_INDEX, GL_UNSIGNED_BYTE, scaled);"
+512643225472221184,2014-09-18 16:44:04,* 2 - Gypsum 7 - Quartz
+512628125642276864,2014-09-18 15:44:03,if (carried(otmp)) dropx(otmp);
+512613026437300224,2014-09-18 14:44:04,"/* current location is &lt;xx,yy&gt; */"
+512597925181284352,2014-09-18 13:44:03,"// On linux librt and libdl are indirect dependencies via rustrt,"
+512582826643173376,2014-09-18 12:44:03,"0x3f, 0xff, 0xff,"
+512567727211307009,2014-09-18 11:44:03,"void far *allocDOS (unsigned nbytes, short *pseg, short *psel)"
+512552627419496448,2014-09-18 10:44:03,/* Emit a marker code */
+512537526406742016,2014-09-18 09:44:03,start = 1;
+512522427705090048,2014-09-18 08:44:03,/// Home pool that this task was spawned into. This field is lazily
+512507330475597824,2014-09-18 07:44:04,"PatEnum(ref path, ref children) =&gt; {"
+512492226971455488,2014-09-18 06:44:03,y = bi-&gt;y - SHORT(bi-&gt;p-&gt;topoffset);
+512477130866053120,2014-09-18 05:44:04,FSERRPTR fserrors[MAX_Q_COMPS]; /* accumulated errors */
+512462029022838784,2014-09-18 04:44:03,boolean is_buddy = sgn(mon-&gt;data-&gt;maligntyp) == sgn(u.ualign.type);
+512446931269087233,2014-09-18 03:44:03,if (entry-&gt;out_of_line) _free_internal(entry-&gt;referrers);
+512431830554116096,2014-09-18 02:44:03,"yah[1] = W_CacheLumpName(""WIURH1"", PU_STATIC);"
+512416731571437568,2014-09-18 01:44:03,"for (i = page - 1;i;i--,srcbase -= base,destbase -= base)"
+512401634576838656,2014-09-18 00:44:04,// 11 SLOW PULSE NOT FADE TO BLACK
+512386532402278400,2014-09-17 23:44:03,#define SV_LABEL 1 /* displays a changable label */
+512371432735924224,2014-09-17 22:44:03,"assert!(range_step(200i, -5, 1).collect::&lt;Vec&lt;int&gt;&gt;() == vec![]);"
+512356331726974976,2014-09-17 21:44:03,pub fn closesocket(socket: SOCKET) -&gt; c_int;
+512341233352855552,2014-09-17 20:44:03,"MONSTER: '@', ""Oracle"", (1,1)"
+512326135745884160,2014-09-17 19:44:03,/* delay next move because of ball dragging */
+512311035215507456,2014-09-17 18:44:03,"mov eax,ds:dword ptr[_colormap]"
+512295937390444544,2014-09-17 17:44:04,_objc_initializing_classes *list = _fetchInitializingClassList(NO);
+512280837073936384,2014-09-17 16:44:03,"/// In other words, remove all elements `e` such that `f(&amp;e)` returns false."
+512265735033593857,2014-09-17 15:44:03,"mov ds, dx"
+512250638538129408,2014-09-17 14:44:04,"MESSAGE: ""What a strange feeling!"""
+512235538422968320,2014-09-17 13:44:03,// Tests that signal_on(0) is equivalent to signal().
+512220440279130112,2014-09-17 12:44:04,"void MU_FadeToSong ( int num, int time )"
+512205339182514176,2014-09-17 11:44:03,"movdqa xmm3,xmm7 ; transpose coefficients(phase 3)"
+512190238551457792,2014-09-17 10:44:03,if(!untrap(TRUE)) {
+512175137383514113,2014-09-17 09:44:03,if (!(old_row[col] &amp; IN_SIGHT) || oldseenv!=lev-&gt;seenv)
+512160040636391424,2014-09-17 08:44:03,dirLock2= CurrentDir(dirLock2);
+512144939128721408,2014-09-17 07:44:03,if ( darknesslevel &lt; 7 )
+512129841819578368,2014-09-17 06:44:03,|....|..|...| --|.....|.|
+512114740966207488,2014-09-17 05:44:03,record-&gt;ascent_height = font_info.ascent + font_info.leading;
+512099643401179136,2014-09-17 04:44:04,"BBoxf worldBounds(Vec3f(-16384, -16384, -16384), Vec3f(16384, 16384, 16384));"
+512084543114084352,2014-09-17 03:44:03,action = 2; /* invalid marker */
+512069445163167745,2014-09-17 02:44:04,"STR_COPY22},"
+512054343705853953,2014-09-17 01:44:03,"($($arg:tt)*) =&gt; (format_args!(::std::io::stdio::println_args, $($arg)*))"
+512039243745865729,2014-09-17 00:44:03,pProcessKeystroke = (PROCESS_KEYSTROKE)0;
+512024145140645889,2014-09-16 23:44:03,// Default death sound.
+512009045231038464,2014-09-16 22:44:03,int digitsafterdecimal=figs-(int)ceil(log10(fabs(val)));
+511993944428011520,2014-09-16 21:44:03,void DrawCinematicMultiBackground ( backevent * back )
+511978848209342464,2014-09-16 20:44:04,mon-&gt;mgold += goldob-&gt;quan;
+511963748605894656,2014-09-16 19:44:04,curpos += pos;
+511948649350590465,2014-09-16 18:44:04,pub static _SC_THREAD_THREADS_MAX : c_int = 94;
+511933548966989824,2014-09-16 17:44:03,"cmap = S_dnladder; /* ""ladder down"" */"
+511918448801513472,2014-09-16 16:44:03,"memcpy (&amp;protectionheight, bufptr, size);"
+511903347444809729,2014-09-16 15:44:03,SetAcceleratorTable(accceleratorTable);
+511888248399220737,2014-09-16 14:44:03,/* do this prior to level-change pline messages */
+511873150142132225,2014-09-16 13:44:03,if( data-&gt;how!=PICK_NONE ) {
+511858053046874112,2014-09-16 12:44:04,// handle wraparound case
+511842952277397504,2014-09-16 11:44:04,0001:0006b068* BLASTER_SetCallBack_
+511827850526461952,2014-09-16 10:44:03,0004:00013940+ _s_upblade15
+511812750612627456,2014-09-16 09:44:03,Err(_) =&gt; ()
+511797651982274560,2014-09-16 08:44:03,StringList components = resolvePath(pathComponents(path));
+511782552273973248,2014-09-16 07:44:03,player-&gt;message = GOTINVIS;
+511767452922167296,2014-09-16 06:44:03,0004:0001d3fc+ _SoundSetupMidiPort
+511752354648322048,2014-09-16 05:44:03,if (priest-&gt;mgold &gt; 1L)
+511737253128069120,2014-09-16 04:44:03,if (cl.intermission)
+511722153793056768,2014-09-16 03:44:03,for (x = lastx-1; x &lt;= lastx+1; x++)
+511707054172823552,2014-09-16 02:44:03,m_smartPropertyEditorManager = NULL;
+511691953684377600,2014-09-16 01:44:03,"""place_list : place $$1 ',' place_list"","
+511676857503080448,2014-09-16 00:44:03,"// Draw_String ( x , y, ""---- -- ---- ----- ----------------"");"
+511661758529146880,2014-09-15 23:44:04,if (!objfreelist)
+511646658598555649,2014-09-15 22:44:04,//! is just a pointer. Tree-like data structures are often built on owned
+511631556180721664,2014-09-15 21:44:03,/* 2-pass quantizer only works in 3-component color space. */
+511616457881714689,2014-09-15 20:44:03,"None,"
+511601359775608832,2014-09-15 19:44:03,case PM_HOUSECAT:
+511586260297986048,2014-09-15 18:44:03,cls-&gt;ISA()-&gt;superclass = cls;
+511571159826300928,2014-09-15 17:44:03,"setGeometry(x,y,w,h);"
+511556060583579649,2014-09-15 16:44:03,"COM_WriteFile (""env3.rgb"", buffer, sizeof(buffer));"
+511540962657861632,2014-09-15 15:44:04,bottomscreen = topscreen + (cin_invscale*length);
+511525863293460480,2014-09-15 14:44:04,0001:0006a0a0+ BLASTER_ReadDSP_
+511510763505483776,2014-09-15 13:44:04,"( st_binicon_t* b,"
+511495663700692993,2014-09-15 12:44:04,_dos_gettime(&amp;time);
+511480563010912256,2014-09-15 11:44:03,*boolp = (curr-&gt;identifier.a_void != 0);
+511465462442762240,2014-09-15 10:44:03,"sub rcx, byte SIZEOF_XMMWORD/16"
+511450364005318656,2014-09-15 09:44:03,"{SPR_SPID,4,3,{A_Metal},S_SPID_RUN10,0,0}, // S_SPID_RUN9"
+511435262791254016,2014-09-15 08:44:03,"pmaddwd xmm0,[rel PW_MF050_MF256] ; xmm0=tmp1L"
+511420164701966336,2014-09-15 07:44:03,key1.replace(Some(1));
+511405064138018816,2014-09-15 06:44:03,Closed01((rng.$method_name() &gt;&gt; $ignored_bits) as $ty / (SCALE - 1.0))
+511389963737649153,2014-09-15 05:44:03,/// The graph instance is responsible for providing the DOT compatible
+511374865249890304,2014-09-15 04:44:03,units = seconds - 10*tens;
+511359769438093312,2014-09-15 03:44:04,(myaddr + AllocHeader::size()) as *mut Box
+511344670669299712,2014-09-15 02:44:04,{ // MT_BOSSBRAIN
+511329570038251520,2014-09-15 01:44:04,"{SPR_BOS2,14,8,{NULL},S_BOS2_RAISE2,0,0}, // S_BOS2_RAISE1"
+511314468358590464,2014-09-15 00:44:03,let pred = &amp;mut self.pred;
+511299370869088256,2014-09-14 23:44:04,fq &gt;&gt;= 1;
+511284268862287874,2014-09-14 22:44:03,"match find_opt(http://t.co/4JgV1U27MA_slice(),"
+511269170840076290,2014-09-14 21:44:03,"statetype s_bjrun2 = {false,SPR_BJ_W2,8,T_BJRun,NULL,&amp;s_bjrun3};"
+511254071056277504,2014-09-14 20:44:03,if (! cinfo-&gt;optimize_coding)
+511238971041792001,2014-09-14 19:44:03,"altar_wrath(x, y);"
+511223873103491072,2014-09-14 18:44:04,if (!nrc)
+511208771948118016,2014-09-14 17:44:03,"append_str(buf, new_str)"
+511193670553714688,2014-09-14 16:44:03,/* Polymorphed characters will die as soon as they're rehumanized. */
+511178573932417024,2014-09-14 15:44:03,if((likegold || likegems || likeobjs || likemagic || likerock || conceals)
+511163473427202048,2014-09-14 14:44:03,= MapDebug
+511148374998151169,2014-09-14 13:44:03,case 3 :
+511133273331073025,2014-09-14 12:44:03,"test_getter!(x, val5, ref5, mut5, 5, 1, 6);"
+511118176277782528,2014-09-14 11:44:04,size_t lineNumber = 1;
+511103075793502208,2014-09-14 10:44:03,case BAG_OF_HOLDING: n = 1; break;
+511087977569984512,2014-09-14 09:44:04,num_lregions = 0;
+511072877333188608,2014-09-14 08:44:03,# There's no arbitrary limit to the number of backticks you
+511057777989791744,2014-09-14 07:44:03,global EXTN(jsimd_quantize_float_sse2)
+511042678898044928,2014-09-14 06:44:04,if (message.string().empty())
+511027579206533120,2014-09-14 05:44:03,yy_init = 0;
+511012478139265026,2014-09-14 04:44:03,Sbar_TeamOverlay();
+510997378577743872,2014-09-14 03:44:03,} else if (uarmc &amp;&amp; uarmc-&gt;cursed) { /* cloak */
+510982282111619072,2014-09-14 02:44:04,if (dx &gt; MINACTORDIST)
+510967179794468864,2014-09-14 01:44:03,"STlib_initNum(&amp;p-&gt;n, x, y, pl, num, on, 3);"
+510952082900541440,2014-09-14 00:44:04,static NXMapTable *futureNamedClasses(void)
+510936982076530688,2014-09-13 23:44:03,"mov dx,[es:bx+2-DEG90*4]"
+510921882745729024,2014-09-13 22:44:03,* location is one *before* the block.
+510906781313552384,2014-09-13 21:44:03,unsafe { INIT.doit(init); }
+510891684197326848,2014-09-13 20:44:04,dangle=(FINEANGLES&lt;&lt;17)/time;
+510876582337343488,2014-09-13 19:44:03,case 296:
+510861485242081280,2014-09-13 18:44:04,"assert_eq!((3 as $T).mod_floor(&amp;(7 as $T)), 3 as $T);"
+510846384602640384,2014-09-13 17:44:03,it was already here. Randomly move you to an adjacent spot
+510831286421032960,2014-09-13 16:44:04,; = -1.613125930 * z10 - z10 + z5;
+510816183046918145,2014-09-13 15:44:03,} while (pspanpackage-&gt;count != -999999);
+510801087453208577,2014-09-13 14:44:04,pstate-&gt;attackframe -= 3;
+510785984192339968,2014-09-13 13:44:03,"for (faceIt = faceInfos.begin(), faceEnd = faceInfos.end(); faceIt != faceEnd; ++faceIt) {"
+510770887046754304,2014-09-13 12:44:03,"println!(""I have a newline {}"", ""character at the end"");"
+510755787560714240,2014-09-13 11:44:03,"pline(""%s falls into a chasm!"", Monnam(mtmp));"
+510740687210696705,2014-09-13 10:44:03,cl.viewangles[YAW] += (fAxisValue * joy_yawsensitivity.value) * speed * 180.0;
+510725588907474946,2014-09-13 09:44:03,if self.is_zero() {
+510710488305762304,2014-09-13 08:44:03,if (ring != uleft &amp;&amp; ring != uright) {
+510695388471648256,2014-09-13 07:44:03,"_ =&gt; s.push_char(' '),"
+510680291334438912,2014-09-13 06:44:04,if (actor-&gt;info-&gt;activesound
+510665189726093312,2014-09-13 05:44:03,"for (i=0 ; i&lt;total_channels; i++, ch++)"
+510650089313161216,2014-09-13 04:44:03,"thingbottomslope = FixedDiv (th-&gt;z - shootz, dist);"
+510634991081230337,2014-09-13 03:44:03,targa_header.id_length = fgetc(fin);
+510619893415555072,2014-09-13 02:44:04,/* load new level with data */
+510604793254281217,2014-09-13 01:44:03,"/// Compare `x` and `y`, but return `short` if x is None and `long` if y is None"
+510589693298487296,2014-09-13 00:44:03,"/* when using trellis quantization, need to keep a copy of all unquantized coefficients */"
+510574592285749248,2014-09-12 23:44:03,if (!_objc_selectors) {
+510559494246789121,2014-09-12 22:44:03,"int sec,"
+510544396040044544,2014-09-12 21:44:04,"RotateBuffer(0,(FINEANGLES*2),(FINEANGLES),(FINEANGLES*64),(VBLCOUNTER*(3+slowrate)));"
+510529295794847744,2014-09-12 20:44:03,SendPacket (pnum); // send back to client
+510514194316558336,2014-09-12 19:44:03,"MinMax(min, max)"
+510499094381744128,2014-09-12 18:44:03,m_textureNameLabel-&gt;SetLabel(textureName);
+510483995340320768,2014-09-12 17:44:03,self.iter().any(|&amp;mut m| m.matches(c))
+510468896605110272,2014-09-12 16:44:03,"fmul %st(0),%st(2) // scale | fv0v1 | (fv1v1-fv0v1)*scale | fv0v0 |"
+510453796372504576,2014-09-12 15:44:03,for(otmp = fobj; otmp; otmp = otmp-&gt;nobj)
+510438699763761152,2014-09-12 14:44:04,"#ifdef LOGFILE /* used for debugging (who dies of what, where) */"
+510423598935576576,2014-09-12 13:44:03,// keep firing unless target got out of sight
+510408499906764800,2014-09-12 12:44:03,assert!(x.try_borrow_mut().is_some());
+510393400529797120,2014-09-12 11:44:03,ghack_chain[i].handler =
+510378299860992000,2014-09-12 10:44:03,"unsafe { atomic_add(self.v.get(), val, order) }"
+510363201507459072,2014-09-12 09:44:03,"SetDrMd(rp,JAM1);"
+510348100939309056,2014-09-12 08:44:03,"begin_unwind(args, file, line);"
+510332999876247552,2014-09-12 07:44:03,"register int cnt = 0, dud = 0, tmp;"
+510317901426225152,2014-09-12 06:44:03,temp[index++] = '[';
+510302803693404160,2014-09-12 05:44:04,const int none = -10;
+510287701271404544,2014-09-12 04:44:03,if(!otmp-&gt;cursed) heal_legs();
+510272602909454336,2014-09-12 03:44:03,"size_t count, i;"
+510257504203194368,2014-09-12 02:44:03,fn test_permutations() {
+510242406168399874,2014-09-12 01:44:04,static char youWin6Msg[] =
+510227303696445440,2014-09-12 00:44:03,"else losehp(rnd(3), ""boiling water"", KILLED_BY);"
+510212205175132160,2014-09-11 23:44:03,60 // mercury mode respawn
+510197105923989505,2014-09-11 22:44:03,SV_CheckAllEnts
+510182004890279937,2014-09-11 21:44:03,"&gt; Encodable&lt;S, E&gt; for DList&lt;T&gt; {"
+510166906415120384,2014-09-11 20:44:03,"'0' .. '9' =&gt; c as uint - ('0' as uint),"
+510151808397103104,2014-09-11 19:44:03,Mod_LoadModel
+510136708839800832,2014-09-11 18:44:03,#define DISGUISE(x) ((id)~(uintptr_t)(x))
+510121610792431616,2014-09-11 17:44:04,#define nhcmdlayout_columns(p) ((p)-&gt;columns)
+510106509037273088,2014-09-11 16:44:03,for (l = node-&gt;trigger_edicts.next ; l != &amp;node-&gt;trigger_edicts ; l = next)
+510091410675355649,2014-09-11 15:44:04,if(maploc-&gt;typ == SCORR) {
+510076310451134464,2014-09-11 14:44:03,"statetype s_firejetup19 = {false,FIREJETUP19,3,T_Path,NULL,&amp;s_firejetup20};"
+510061210143059969,2014-09-11 13:44:03,register const char *yelp_verb = 0;
+510046112565456896,2014-09-11 12:44:04,struct Edges(Vec&lt;Ed&gt;);
+510031010025984000,2014-09-11 11:44:03,"__attribute__((noinline, used))"
+510015913652150272,2014-09-11 10:44:04,let name = name.as_slice();
+510000811414659072,2014-09-11 09:44:03,fn record_sp_limit(limit: *c_void);
+509985713157599232,2014-09-11 08:44:03,"punpckhbw xmmB,xmmH ; xmmB=(01 03 05 07 09 0B 0D 0F)"
+509970614523019264,2014-09-11 07:44:03,0001:00060444+ GetPacketSize_
+509955514428829696,2014-09-11 06:44:03,"MH = Tgetstr(""mh""); /* dim */"
+509940412535283712,2014-09-11 05:44:03,struct qtmsg *msg;
+509925315909787648,2014-09-11 04:44:03,"void NXReallyFree (const void *info, void *data) {"
+509910217979858944,2014-09-11 03:44:04,if (rx &lt; 0)
+509895117021646848,2014-09-11 02:44:03,"let queues = vec![normal_stealer, special_stealer];"
+509880016805851136,2014-09-11 01:44:03,assert(attrs[i].name);
+509864917818961920,2014-09-11 00:44:03,"GTK_SIGNAL_FUNC (ghack_menu_hide),"
+509849818106429440,2014-09-10 23:44:03,if (self.super_time == 1)
+509834716892385281,2014-09-10 22:44:03,if(Inv_how!=PICK_ANY){
+509819619985850368,2014-09-10 21:44:04,# treasures
+509804518184603648,2014-09-10 20:44:03,"_objc_rootReleaseWasZero_slow(id obj, SideTable *table)"
+509789419831050240,2014-09-10 19:44:03,|| (mtmp-&gt;data-&gt;mlet == S_VAMPIRE
+509774321049677824,2014-09-10 18:44:03,trace-&gt;inopen = true;
+509759219034513408,2014-09-10 17:44:03,"pub fn VirtualUnlock(lpAddress: LPVOID, dwSize: SIZE_T)"
+509744119238103040,2014-09-10 16:44:03,float vol;
+509729020725194752,2014-09-10 15:44:03,if(t[i].r.w!=0)
+509713922359037952,2014-09-10 14:44:03,"statetype s_scottwanderdoor6 = {false,SCOTHEAD6,4,T_CollectorWander,NULL,&amp;s_scottwanderdoor7};"
+509698824181678080,2014-09-10 13:44:04,aligntyp al;
+509683721604464640,2014-09-10 12:44:03,BATTLE_ShowKillCount = true;
+509668621757710337,2014-09-10 11:44:03,"(Some(x), None) =&gt; Some(x),"
+509653524679245824,2014-09-10 10:44:03,struct Vector2D {
+509638425952399360,2014-09-10 09:44:04,"An example is the method `.slice(a, b)` that returns an immutable ""view"" into"
+509623326332170240,2014-09-10 08:44:04,ob-&gt;flags &amp;= ~FL_DESIGNATED;
+509608224153407488,2014-09-10 07:44:03,* with entries for all supported compilation options
+509593125120397313,2014-09-10 06:44:03,self.alloc_copy(op)
+509578028301950976,2014-09-10 05:44:04,pub static EAFNOSUPPORT: c_int = 124;
+509562928476225536,2014-09-10 04:44:04,dx = abs(tstat-&gt;x - ob-&gt;x);
+509547825638957056,2014-09-10 03:44:03,return(iflags.wc_vary_msgcount);
+509532728661118976,2014-09-10 02:44:03,"MONSTER:';',""jellyfish"",(04,18)"
+509517630269829120,2014-09-10 01:44:04,assert(m_numPoints &gt; 0);
+509502532108836864,2014-09-10 00:44:04,"""Periodic lighting (voobing)"","
+509487429204865025,2014-09-09 23:44:03,"OBJECT:'(',random,(40,14)"
+509472330536714241,2014-09-09 22:44:03,MODEL MEDIUM
+509457231977648129,2014-09-09 21:44:04,SetBattleMapFileName( &amp;(desc-&gt;battlefilename[0]) );
+509442131136495617,2014-09-09 20:44:03,"{ CP_Active, ""\0"", 'S', (menuptr)SS_SetupMusicCardMenu },"
+509427031688622083,2014-09-09 19:44:03,extern void R_TransformFrustum (void);
+509411933754490881,2014-09-09 18:44:04,// f *= FromPrimitive::from_uint(i);
+509396831252783105,2014-09-09 17:44:03,if (rect.left &gt; (rect.top * 2))
+509381734509871104,2014-09-09 16:44:04,"HU_FONTSTART, &amp;message_on);"
+509366632565964800,2014-09-09 15:44:03,"* If you are riding, your steed gets the wounded legs instead."
+509351535189688320,2014-09-09 14:44:03,pack();
+509336435565268992,2014-09-09 13:44:03,"MONSTER:'@',""roshi"",(18,04)"
+509321337308200960,2014-09-09 12:44:04,int irq;
+509306236459053056,2014-09-09 11:44:03,#define ST_WEAPON1X 122
+509291137526665216,2014-09-09 10:44:04,boolean sidepic;
+509276037294084096,2014-09-09 09:44:03,static time_t lastchk;
+509260938009395201,2014-09-09 08:44:03,extern char masktable[8];
+509245838330429440,2014-09-09 07:44:03,ob-&gt;flags &amp;= ~FL_FULLLIGHT;
+509230740027211776,2014-09-09 06:44:04,// FIXME: change light to _light to get rid of this hack
+509215640377626624,2014-09-09 05:44:04,Vectors are Rust's list type. Vectors contain zero or more values of
+509200539054522368,2014-09-09 04:44:03,/// uint-cast of the native thread waiting for this mutex
+509185438561894400,2014-09-09 03:44:03,impl ElementSwaps {
+509170339985649664,2014-09-09 02:44:03,"XtSetArg(args[num_args], XtNcolumns, &amp;columns); num_args++;"
+509155243129864192,2014-09-09 01:44:04,x -= SHORT(patch-&gt;leftoffset);
+509140142108712961,2014-09-09 00:44:03,#define MON_ALERTNESS 320
+509125041058242560,2014-09-08 23:44:03,"REGION:(13,5,14,6),unlit,""ordinary"""
+509109942109081600,2014-09-08 22:44:03,// Try this class's cache.
+509094843474538496,2014-09-08 21:44:03,/* Both sides blocked */
+509079741123805184,2014-09-08 20:44:03,// scale the velocity
+509064643697209344,2014-09-08 19:44:03,"/// originate from files has names between angle brackets by convention,"
+509049545809231872,2014-09-08 18:44:04,"[r""c:\"", r""c:\foo;bar\"", r""c:\baz""]));"
+509034443966001152,2014-09-08 17:44:03,void EditorView::OnEditDelete(wxCommandEvent&amp; event) {
+509019344723259392,2014-09-08 16:44:03,attribs[3] = FXMESA_DEPTH_SIZE;
+509004244830400513,2014-09-08 15:44:03,"paddd xmm4,xmm7 ; xmm4=data1L"
+508989148548837376,2014-09-08 14:44:04,pub static MUTEX_INIT: Mutex = Mutex {
+508974047926157312,2014-09-08 13:44:03,// Another approach that I actually used for a while was to make a
+508958945986498561,2014-09-08 12:44:03,int* texturetranslation;
+508943846513070080,2014-09-08 11:44:03,"_objc_fatal(""_objc_rootFinalize called with garbage collection off"");"
+508928747471650816,2014-09-08 10:44:03,// default to word size to simplify ivar update
+508913650594480129,2014-09-08 09:44:04,let lpArgCount: *mut c_int = &amp;mut nArgs;
+508898551695695872,2014-09-08 08:44:04,return '-';
+508883449688915968,2014-09-08 07:44:03,"11*FRACUNIT, // radius"
+508868350785900545,2014-09-08 06:44:03,"movq mm0, MMWORD [wk(11)] ; mm0=tmp1H"
+508853251819986944,2014-09-08 05:44:03,"movl hu_planes(%ebx),%ebp"
+508838150475886593,2014-09-08 04:44:03,passok=true;
+508823051065368577,2014-09-08 03:44:03,"p[i] = W_CacheLumpName(name, PU_STATIC);"
+508807952460156929,2014-09-08 02:44:03,int h = tileheight.value();
+508792853464879105,2014-09-08 01:44:03,for (col = dest-&gt;row_width; col &gt; 0; col--) {
+508777754985504768,2014-09-08 00:44:04,static char map[4096];
+508762652408283136,2014-09-07 23:44:03,"/* If pickup fails, leave it alone */"
+508747556239990784,2014-09-07 22:44:04,svs.log[1].maxsize = sizeof(svs.log_buf[1]);
+508732454178672640,2014-09-07 21:44:03,STATIC_DCL void NDECL(break_armor);
+508717356236156929,2014-09-07 20:44:03,my_upsample_ptr upsample = (my_upsample_ptr) cinfo-&gt;upsample;
+508702257186361344,2014-09-07 19:44:04,"MONSTER:'B',""giant bat"",random,hostile"
+508687157587107840,2014-09-07 18:44:03,*ap = '\0';
+508672058109460480,2014-09-07 17:44:03,Ld0 dd 0.0
+508656955532251136,2014-09-07 16:44:03,PM_Friction
+508641857577181184,2014-09-07 15:44:03,0001:000225ec T_Path_
+508626760012165120,2014-09-07 14:44:04,ScreenSaver-&gt;x+=ScreenSaver-&gt;dx*tics;
+508611657111973888,2014-09-07 13:44:03,"mov ds:dword ptr[_r_p2+16],eax"
+508596560994009088,2014-09-07 12:44:04,"rand = (GameRandomNumber(""playerobj respawn"",0) % NUMSPAWNLOCATIONS);"
+508581461084372992,2014-09-07 11:44:03,} else if (rnd(20) &lt; 10 + u.uac) {
+508566358616207360,2014-09-07 10:44:03,yNewPos = data-&gt;yPos-data-&gt;yPageSize;
+508551261541912576,2014-09-07 09:44:03,if (datalen &gt; (unsigned int) 65533) /* safety check */
+508536161342861312,2014-09-07 08:44:03,"* in the direction given by (dx,dy). E.g. if 'x' is our location, 'W'"
+508521062636986368,2014-09-07 07:44:03,"if (string == L""F7"")"
+508505962773483521,2014-09-07 06:44:03,const int *row;
+508490862662533120,2014-09-07 05:44:03,%Cc Val 00035
+508475765114286081,2014-09-07 04:44:04,"308, 311, 309, 797, 590, 603, 602, 603, 594, 797,"
+508460663388524544,2014-09-07 03:44:03,* adjust the decompression parameters and then call jpeg_start_decompress.
+508445567429931008,2014-09-07 02:44:04,/* 2 to 4 spellbooks */
+508430467868422144,2014-09-07 01:44:04,int d_scantable[MAXHEIGHT];
+508415365131816960,2014-09-07 00:44:03,"WC_PLAYER_SELECTION|WC_SPLASH_SCREEN,"
+508400266765697024,2014-09-06 23:44:03,targaheader[2] = 3; /* image type = uncompressed gray-scale */
+508385164872142848,2014-09-06 22:44:03,let mut n = (*other).clone();
+508370067785256960,2014-09-06 21:44:03,"// To do so, we first drop out homing missile and we then reawaken"
+508354966822875137,2014-09-06 20:44:03,if (is_ammo(obj) || is_missile(obj)) {
+508339868163112960,2014-09-06 19:44:03,"Con_DPrintf(""CDAudio: media changed\n"");"
+508324770195439616,2014-09-06 18:44:04,ret_reg-&gt;attach_2_u = reg-&gt;attach_2_u;
+508309667823775744,2014-09-06 17:44:03,// octant 7
+508294567557619712,2014-09-06 16:44:03,let s = matches.free.get(0).as_slice();
+508279468130324480,2014-09-06 15:44:03,"Breathless ? ""find it mildly uncomfortable."" :"
+508264372003962880,2014-09-06 14:44:04,assert!(a_upper == Some(a_sz));
+508249269951029248,2014-09-06 13:44:03,* minvent should be sorted in order to drop heaviest items first.
+508234172197249025,2014-09-06 12:44:03,"printf("" Y: %ld\n"",events[i]-&gt;y);"
+508219071855595520,2014-09-06 11:44:03,"fn bit (bitv: &amp;Bitv, byte: uint, bit: uint) -&gt; u8 {"
+508203972726099968,2014-09-06 10:44:03,"/* in case you haven't killed the Wizard yet, behave as if"
+508188871382011904,2014-09-06 09:44:03,(sf[i].denom==4 || sf[i].denom==2 || sf[i].denom==1)))
+508173771879235584,2014-09-06 08:44:03,if( x&lt;0 || y&lt;0 || y &gt;= cw-&gt;rows || x &gt;= cw-&gt;cols )
+508158675643805696,2014-09-06 07:44:04,"/// Return a reference to the next element of the iterator with out advancing it,"
+508143574928850944,2014-09-06 06:44:03,delete m_root;
+508128474608205825,2014-09-06 05:44:03,"MSG_WriteByte (&amp;sv.signon, svent-&gt;baseline.skinnum);"
+508113375721951233,2014-09-06 04:44:03,// fixme dies when categories are added to the base
+508098275594227712,2014-09-06 03:44:03,/* move objects from buriedobjlist to fobj/nexthere lists */
+508083175596519424,2014-09-06 02:44:03,hy = r1-&gt;hy;
+508068076664160256,2014-09-06 01:44:03,IO::MapWriter mapWriter;
+508052977903755264,2014-09-06 00:44:03,amount=RECORDINGBUFFERSIZE-FeederPointer;
+508037876911992833,2014-09-05 23:44:03,wait = # of seconds before coming back
+508022779774771202,2014-09-05 22:44:03,let right = child + 1;
+508007679764488192,2014-09-05 21:44:03,register int wt = 0;
+507992579825479680,2014-09-05 20:44:03,layout();
+507977479546732544,2014-09-05 19:44:03,PML_PutPageInXMS(int pagenum)
+507962379465142272,2014-09-05 18:44:03,"mov [_intaddr+2],ax"
+507947279509364736,2014-09-05 17:44:03,"mov rax, r13"
+507932181361344512,2014-09-05 16:44:03,// CP_ViewScores ()
+507917082236039168,2014-09-05 15:44:03,"OBJECT:'`',""boulder"",(09,09)"
+507901984603918336,2014-09-05 14:44:04,"memcpy(bufptr,&amp;(pw-&gt;dir),size);"
+507886883675054080,2014-09-05 13:44:03,"mov eax,ds:dword ptr[_d_tfracextrastep]"
+507871783362789376,2014-09-05 12:44:03,X11_get_ext_cmd()
+507856683272798208,2014-09-05 11:44:03,externdef spancountminus1:dword
+507841582587199488,2014-09-05 10:44:03,"shlb $1,%al"
+507826485168963584,2014-09-05 09:44:03,lastPacket=rawpacket;
+507811383824879616,2014-09-05 08:44:03,-- Add a text line str to the given menu window. If identifier
+507796285655875584,2014-09-05 07:44:03,"tmproom[nrooms]-&gt;fountains = NewTab(fountain, nfountain);"
+507781186748690432,2014-09-05 06:44:03,"""You recovered %o just in time, %p."""
+507766085668847616,2014-09-05 05:44:03,* monster that you never knew was there without this.
+507750986593865728,2014-09-05 04:44:03,"pub fn unimpl(&amp;self, msg: &amp;str) -&gt; ! {"
+507735889406337024,2014-09-05 03:44:03,actor-&gt;angle += FATSPREAD;
+507720788221657088,2014-09-05 02:44:03,"finddpos(cc, xl,yl,xh,yh)"
+507705690023280641,2014-09-05 01:44:03,// Get TypeId of the type this function is instantiated with
+507690592240156672,2014-09-05 00:44:04,"int i, class;"
+507675489415491584,2014-09-04 23:44:03,"{SPR_SSWV,11,5,{NULL},S_SSWV_DIE5,0,0}, // S_SSWV_DIE4"
+507660391275827200,2014-09-04 22:44:03,MISCVARS-&gt;NMEdirstried ++;
+507645291718508544,2014-09-04 21:44:03,"movl C(r_lzi1),%eax"
+507630190298935296,2014-09-04 20:44:03,case 6: /* unlit room locations */
+507615092066619393,2014-09-04 19:44:03,"if src.len() &gt; 0 &amp;&amp; !src.as_slice().ends_with(""\n"") {"
+507599995483078656,2014-09-04 18:44:04,register JSAMPROW color_map1 = cinfo-&gt;colormap[1];
+507584895040749569,2014-09-04 17:44:04,"fn visit_param(&amp;mut self, i: uint) -&gt; bool {"
+507569794020024320,2014-09-04 16:44:03,{ // set flash times
+507554692462039041,2014-09-04 15:44:03,y=CTL_Y+42;
+507539594053955584,2014-09-04 14:44:03,char buf[4096];
+507524493422903296,2014-09-04 13:44:03,jz short .rgb_ycc_cnv
+507509396398952448,2014-09-04 12:44:03,"Sys_Error (""mod_numknown == MAX_MOD_KNOWN"");"
+507494294962577408,2014-09-04 11:44:03,"add ebx, byte SIZEOF_MMWORD ; inptr1"
+507479197112356864,2014-09-04 10:44:03,"* of critical state-transition actions, namely initial setup and"
+507464097714417665,2014-09-04 09:44:03,/// This is equivalent to `TaskBuilder::new().try_future`.
+507448996810743809,2014-09-04 08:44:03,"tile_map-&gt;white_gc,"
+507433897706414081,2014-09-04 07:44:03,size = (byte huge *)dest-(byte huge *)scalermemory;
+507418798413336576,2014-09-04 06:44:03,"alOut(m + alChar,inst-&gt;mChar);"
+507403697622876161,2014-09-04 05:44:03,* The coefficient buffer lies between entropy decoding and inverse-DCT steps.
+507388597679702017,2014-09-04 04:44:03,sym = class ? def_oc_syms[class] : 0;
+507373497942020096,2014-09-04 03:44:03,dest1 = (byte *)(dest+page1start);
+507358400272166912,2014-09-04 02:44:03,/// Returns an iterator over mutable references to the elements of the
+507343303134937088,2014-09-04 01:44:04,if ((dc = MGL_createDisplayDC(npages)) == NULL)
+507328203837693952,2014-09-04 00:44:04,"if (in_town(x, y))"
+507313101767966721,2014-09-03 23:44:03,"You(sit_message, defsyms[S_ice].explanation);"
+507298001594114048,2014-09-03 22:44:03,ld-&gt;bbox[BOXLEFT] = v2-&gt;x;
+507282903571902464,2014-09-03 21:44:03,"/// assert_eq!(it.next().unwrap(), &amp;5);"
+507267804907978752,2014-09-03 20:44:03,else if (Has_contents(obj)) {
+507252705849794561,2014-09-03 19:44:04,"movl C(r_affinetridesc)+atd_ptriangles,%esi"
+507237603767496704,2014-09-03 18:44:03,"m_textureId(0),"
+507222503790739458,2014-09-03 17:44:03,OBJ_NAME(objects[skill_names_indices[type]]) : \
+507207407815385088,2014-09-03 16:44:04,if (tmp &gt;= mdef-&gt;mhp) tmp = mdef-&gt;mhp - 1;
+507192307670843392,2014-09-03 15:44:03,"// Parse a key:value in an object, true means first element."
+507177205680836608,2014-09-03 14:44:03,"-23875,-23818,-23761,-23704,-23647,-23591,-23534,-23477,"
+507162106949799936,2014-09-03 13:44:03,SDL_ShutDevice(void)
+507147007090515968,2014-09-03 12:44:03,"{ ""e1m1"", 0 },"
+507131907281522688,2014-09-03 11:44:03,0001:000029b4+ DrawNormalPost_
+507116809980755968,2014-09-03 10:44:03,* Returns this method's selector.
+507101708972204032,2014-09-03 09:44:03,"movdqa xmm0,xmm5 ; xmm5=tmp5"
+507086608055959552,2014-09-03 08:44:03,* +load method is forgotten because it was added during
+507071511543697409,2014-09-03 07:44:03,chance -= 20;
+507056410254118912,2014-09-03 06:44:03,"//! In the search phase, the job of a personality routine is to examine exception"
+507041312450039808,2014-09-03 05:44:03,"Cmd_AddCommand (""say"", NULL);"
+507026210736844800,2014-09-03 04:44:03,"{ ALL_CLASSES, ALLOW_NONE, WEAPON_CLASS, TOOL_CLASS, 0 };"
+507011112764985344,2014-09-03 03:44:03,if (lastSick != Sick) {
+506996014474342400,2014-09-03 02:44:04,FontInfo font_info;
+506980915181273088,2014-09-03 01:44:04,"psraw xmm6,1 ; xmm6=(CbH * -FIX(0.22800))"
+506965814428594176,2014-09-03 00:44:03,// to fire when the timeout runs out.
+506950712748941312,2014-09-02 23:44:03,player_t* viewplayer;
+506935616026968064,2014-09-02 22:44:03,extern statetype s_mutdie5;
+506920516025069568,2014-09-02 21:44:03,Vec3f::List shaftVertices;
+506905417596035072,2014-09-02 20:44:04,qboolean pr_trace;
+506890315991904257,2014-09-02 19:44:03,"godvoice(altaralign, ""Suffer, infidel!"");"
+506875215960629249,2014-09-02 18:44:03,"/* Player sees actual repair process, so they KNOW it's a wall */"
+506860119444180992,2014-09-02 17:44:04,"{ ""bgsit1"", true, 98, 0, -1, -1, 0 },"
+506845017022169088,2014-09-02 16:44:03,u.uprops[LEVITATION].intrinsic = oldprop;
+506829917091528704,2014-09-02 15:44:03,SetupScaling (viewwidth*1.5);
+506814819304226816,2014-09-02 14:44:03,"* The downsampler may request ""context rows"" by setting need_context_rows"
+506799719818231808,2014-09-02 13:44:03,midbytes = ((x+width+3)&gt;&gt;2) - (x&gt;&gt;2) - 2;
+506784620495765505,2014-09-02 12:44:03,if (controlupdatestarted == 1)
+506769520762302464,2014-09-02 11:44:03,/// display as:
+506754422580711424,2014-09-02 10:44:04,main_ptr-&gt;pub.process_data = process_data_context_main;
+506739321593159680,2014-09-02 09:44:03,void DoBorderShifts (void)
+506724220882403328,2014-09-02 08:44:03,"ColorMap[CM_GREEN][v], ColorMap[CM_BLUE][v]);"
+506709122197516289,2014-09-02 07:44:03,if (idx &gt; 0 &amp;&amp; selrefs &lt; 1536) idx--;
+506694023604867072,2014-09-02 06:44:03,mtmp = revive(corpse); /* corpse is gone if successful */
+506678922730545152,2014-09-02 05:44:03,"('\u0220', '\u0220'), ('\u0222', '\u0222'),"
+506663823135477760,2014-09-02 04:44:03,Col_NewWindowStructure1.Height += 20;
+506648723678822400,2014-09-02 03:44:03,self.lip = 8;
+506633625535012866,2014-09-02 02:44:03,"fprintf(ofp,""%2d,%c"", tilemap[i], (i % 12) ? ' ' : '\n');"
+506618524736180224,2014-09-02 01:44:03,pub fn dedup(&amp;mut self) {
+506603427636727808,2014-09-02 00:44:04,/* my dog gets special treatment */
+506588328804622336,2014-09-01 23:44:04,pub unsafe fn wait_noguard(&amp;self) { self.inner.wait() }
+506573225187639298,2014-09-01 22:44:03,else curs_col=MAGENTA; /* &lt;10% : 7*/
+506558125831630848,2014-09-01 21:44:03,# SCCS Id: @(#)bigroom.des 3.4 1990/04/15
+506543026739892225,2014-09-01 20:44:03,"(obj-&gt;spe&lt;0) ? ""less"" : ""great"");"
+506527930286346240,2014-09-01 19:44:04,"SavePosition (short kind, short top, short left)"
+506512827608477696,2014-09-01 18:44:03,return; // no friction for missiles ever
+506497728151846912,2014-09-01 17:44:03,pub enum PrimTy {
+506482628992974848,2014-09-01 16:44:03,"cvar_t ambient_fade = {""ambient_fade"", ""100""};"
+506467531406983168,2014-09-01 15:44:03,WindowY = y * 8;
+506452432537546753,2014-09-01 14:44:04,"fn emit_i64(&amp;mut self, v: i64) -&gt; EncodeResult {"
+506437330069356544,2014-09-01 13:44:03,} animenum_t;
+506422230507872256,2014-09-01 12:44:03,impl&lt;V&gt; Collection for SmallIntMap&lt;V&gt; {
+506407134129848321,2014-09-01 11:44:04,* during a software interrupt.
+506392035197472768,2014-09-01 10:44:04,"assert_eq!(s.as_slice(), ""\\x20"");"
+506376934625128448,2014-09-01 09:44:03,#define noDEBUG
+506361832874209280,2014-09-01 08:44:03,if (!in_oracle) continue;
+506346735497932800,2014-09-01 07:44:03,source = (jpeg_source_ptr)
+506331634711683073,2014-09-01 06:44:03,unsafe fn from_uv_handle&lt;'a&gt;(h: &amp;'a *T) -&gt; &amp;'a mut Self {
+506316535385030656,2014-09-01 05:44:03,"#[deriving(Clone, PartialEq, Eq, Hash)]"
+506301435915812864,2014-09-01 04:44:03,"Vec3f newPosition = centerCameraOnObjectsPosition(Model::EmptyEntityList, worldspawn.brushes());"
+506286336283004928,2014-09-01 03:44:03,default: /* Quit */
+506271237963010049,2014-09-01 02:44:03,"tmp_at(i+x-1, j+y-1);"
+506256137420017664,2014-09-01 01:44:03,idx = S_tlcorn;
+506241040148623360,2014-09-01 00:44:04,"assert_eq!(pthread_attr_init(&amp;mut attr), 0);"
+506225938187956224,2014-08-31 23:44:03,editorView.viewOptions().setShowTriggerBrushes(event.GetInt() != 0);
+506210838731300864,2014-08-31 22:44:03,"linesRenderer.render(vbo, renderContext);"
+506195739199160320,2014-08-31 21:44:03,"next_rmin[row] = max( 0, u.ux - 1);"
+506180640132591616,2014-08-31 20:44:03,"MON(""pit fiend"", S_DEMON,"
+506165540214571008,2014-08-31 19:44:03,goto not_chargable;
+506150439847755776,2014-08-31 18:44:03,o.doit(|| {
+506135343553585152,2014-08-31 17:44:04,void StripFilename (char *path)
+506120242641530880,2014-08-31 16:44:03,// check for special pickup
+506105142094336000,2014-08-31 15:44:03,"HUSTR_E1M2,"
+506090043438825472,2014-08-31 14:44:03,"range(0u, self.nbits).advance(|i| !self.get(i) || f(i))"
+506074943864705024,2014-08-31 13:44:03,"let list2 = List(vec!(Number(1.0_f64), Number(2.0_f64)));"
+506059842529026048,2014-08-31 12:44:03,ret.reduce();
+506044743458258945,2014-08-31 11:44:03,"pub wShowWindow: WORD,"
+506029647792852992,2014-08-31 10:44:04,UL_ErrorShutdown ();
+506014549137719296,2014-08-31 09:44:04,// drop the weapon down
+505999449018351616,2014-08-31 08:44:04,"{""%cx"", ""cx"", 3},"
+505984346751520768,2014-08-31 07:44:03,char* ap;
+505969246518931456,2014-08-31 06:44:03,"assert_eq!(vi.take(12).size_hint(), (10, Some(10)));"
+505954146961612800,2014-08-31 05:44:03,.no_3dnow:
+505939049140731904,2014-08-31 04:44:03,let server_out_addr = ::next_test_ip4();
+505923946651598850,2014-08-31 03:44:03,"cmsp: Option&lt;(&amp;codemap::CodeMap, Span)&gt;,"
+505908850558779392,2014-08-31 02:44:03,"static float adjustang(float current, float ideal, float speed)"
+505893752289132544,2014-08-31 01:44:04,"return L""\u21E5"";"
+505878653386104832,2014-08-31 00:44:04,"fn cmp(&amp;self, _other: &amp;()) -&gt; Ordering { Equal }"
+505863549793894400,2014-08-30 23:44:03,ret = CreateWindowEx(
+505848449691312129,2014-08-30 22:44:03,"horiz_sb ? ""; "" : """", shown, top, s);"
+505833350637314049,2014-08-30 21:44:03,src-&gt;lamplit = 0;
+505818251801423872,2014-08-30 20:44:03,const struct def_skill *class_skill;
+505803152596410368,2014-08-30 19:44:03,if (cadaver &amp;&amp; mnum != PM_ACID_BLOB &amp;&amp; rotted &gt; 5L &amp;&amp; Sick_resistance) {
+505788052154105856,2014-08-30 18:44:03,"MAZE: ""Kni-goal"", ' '"
+505772954769440768,2014-08-30 17:44:03,* Calm nymphs in range.
+505757853626667008,2014-08-30 16:44:03,"right_side(nrow,-1,scol,right_row,right,scol,right,limits);"
+505742754912436224,2014-08-30 15:44:03,new = IT_LIGHTNING;
+505727656634355712,2014-08-30 14:44:03,"MSG_WriteByte (&amp;buf, i);"
+505712556456284160,2014-08-30 13:44:03,msgNumber = rand()&amp;7;
+505697457481977856,2014-08-30 12:44:03,"} else if ((ttmp = t_at(zx, zy)) != 0) {"
+505682357354237952,2014-08-30 11:44:03,alloc_fs_workspace (j_decompress_ptr cinfo)
+505667257453002752,2014-08-30 10:44:03,BOOL res;
+505652156834525184,2014-08-30 09:44:03,match s.steal() {
+505637058770382848,2014-08-30 08:44:03,0001:00014270 SpawnSpring_
+505621959338897408,2014-08-30 07:44:03,// int fd;
+505606860825964544,2014-08-30 06:44:04,"Error( ""ReadROTTMap: Tried to load a non existent map!"" );"
+505591761805529088,2014-08-30 05:44:04,$cd /raid/quake/id1/models/invulner
+505576660130082816,2014-08-30 04:44:03,"yyerror(""Too many passwalls in mazepart!"");"
+505561562913202177,2014-08-30 03:44:04,"# Here you meet your (besieged) class leader, King Arthur"
+505546462089199616,2014-08-30 02:44:03,"HomeHandle::new(id, &amp;mut **self.handle_pool.get_mut_ref())"
+505531361034518528,2014-08-30 01:44:03,(x == sstairs.sx &amp;&amp; y == sstairs.sy &amp;&amp; !sstairs.up))
+505516264752967680,2014-08-30 00:44:04,(BobbinOn==true) &amp;&amp;
+505501163308191745,2014-08-29 23:44:03,"OBJECT:'*',""emerald"",(19,13)"
+505486064933683200,2014-08-29 22:44:04,"movl %eax,C(cacheoffset)"
+505470964956930048,2014-08-29 21:44:03,* and subclasses thereof. Nil flushes all classes.)
+505455866364297216,2014-08-29 20:44:04,PrintY = 25 + (16 * i);
+505440764676296704,2014-08-29 19:44:03,"{ ""menu_next_page"", ""goto the next menu page"", 4, SET_IN_FILE },"
+505425664900857856,2014-08-29 18:44:03,"(*cinfo-&gt;post-&gt;post_process_data) (cinfo, main_ptr-&gt;buffer,"
+505410567486832640,2014-08-29 17:44:04,others[c1] = c2; /* chain c2 onto c1's tree branch */
+505395466851614720,2014-08-29 16:44:03,static void realizeAllClasses(void)
+505380367747252224,2014-08-29 15:44:03,temp-&gt;whatever = ob;
+505365265262329856,2014-08-29 14:44:03,pub fn owns_buffer(&amp;self) -&gt; bool {
+505350168502603776,2014-08-29 13:44:03,otmp-&gt;quan += rnd(10);
+505335067963834368,2014-08-29 12:44:03,/* write out non-level state */
+505319967374737408,2014-08-29 11:44:03,"void RotateHandle::renderAxis(Model::RotateHandleHit* hit, Renderer::Vbo&amp; vbo, Renderer::RenderContext&amp; context) {"
+505304870250106880,2014-08-29 10:44:03,"/// platform that goes after the dot: in this case, `so`."
+505289770659217408,2014-08-29 09:44:03,fm.next_line(BytePos(10));
+505274670988668928,2014-08-29 08:44:03,* pressed and if right Alt and left Ctrl are not both present. This
+505259568994459648,2014-08-29 07:44:03,fixed_t secondslidefrac;
+505244470770954241,2014-08-29 06:44:03,if (coef_bits[0] &lt; 0)
+505229369829515264,2014-08-29 05:44:03,mceilingclip = cliptop;
+505214273757655041,2014-08-29 04:44:03,"if ((badtrap = t_at(x,y)) != 0) deltrap(badtrap);"
+505199171734102017,2014-08-29 03:44:03,// 0xF0000000;
+505184071564427264,2014-08-29 02:44:03,"ci, i, &amp;t[i])==-1)"
+505168974183944192,2014-08-29 01:44:03,"R_ConcatRotations( tmpmat, im, rot );"
+505153875209633793,2014-08-29 00:44:03,"lock: unsafe { mutex::NativeMutex::new() },"
+505138776075956224,2014-08-28 23:44:03,"M_CHECKDIR(ob,dirorder[dtry2][NEXT]);"
+505123675310657536,2014-08-28 22:44:03,"7648,7697,7747,7797,7847,7897,7947,7997,"
+505108577066160128,2014-08-28 21:44:03,"char qbuf[BUFSZ], emptymsg[BUFSZ], pbuf[QBUFSZ];"
+505093477915688960,2014-08-28 20:44:03,"EdgeList::const_iterator it, end;"
+505078377930559489,2014-08-28 19:44:03,"/// builder, like `.native()` and `.green(pool)`, that actually set the"
+505063276443860992,2014-08-28 18:44:03,m_sortOrderChoice-&gt;SetSelection(0);
+505048178555895808,2014-08-28 17:44:03,// moving bounds speed
+505033080860848131,2014-08-28 16:44:04,if (dinfo-&gt;cinfo-&gt;out_color_space == JCS_RGB) {
+505017978916982784,2014-08-28 15:44:03,"mov [WORD yintercept+2],dx"
+505002879518646274,2014-08-28 14:44:03,"expect(ch, '.').and_then(|_| Some(major))"
+504987780301475840,2014-08-28 13:44:03,"jsimd_idct_2x2 (j_decompress_ptr cinfo, jpeg_component_info * compptr,"
+504972682337996801,2014-08-28 12:44:04,Empty =&gt; {}
+504957580687716352,2014-08-28 11:44:03,case PM_TITANOTHERE:
+504942483533742080,2014-08-28 10:44:04,SDL_SetTimer0(word speed)
+504927382449717248,2014-08-28 09:44:03,// Updates sound buffer and audio device at runtime.
+504912283177603072,2014-08-28 08:44:03,if (::flags.showexp) {
+504897183087616000,2014-08-28 07:44:03,if (hDC &amp;&amp; dibwindow)
+504882085614854144,2014-08-28 06:44:04,m_boxArray-&gt;addAttribute(m_bounds.max);
+504866985944313856,2014-08-28 05:44:04,"pline(""%s reaches towards your distorted image."",Monnam(mtmp));"
+504851883207692288,2014-08-28 04:44:03,0001:0007c714 ___midieng_ecode
+504836784363405312,2014-08-28 03:44:03,"assert_eq!(op1().and(Err::&lt;(), &amp;'static str&gt;(""bad"")).unwrap_err(),"
+504821684856434688,2014-08-28 02:44:03,if (castattacking)
+504806583894044672,2014-08-28 01:44:03,// warning: control reaches end of non-void function.
+504791487704756224,2014-08-28 00:44:03,"struct Bar(int, int);"
+504776387950309377,2014-08-27 23:44:03,byte x;
+504761285909942272,2014-08-27 22:44:03,static boolean SD_Started;
+504746186704969729,2014-08-27 21:44:03,cw-&gt;plist[cw-&gt;npages] = 0; /* plist terminator */
+504731086967296001,2014-08-27 20:44:03,otmp = obj;
+504715988840230912,2014-08-27 19:44:03,#define MAX_CHECK 16
+504700890847408128,2014-08-27 18:44:03,"You(""have an uneasy feeling about wielding cold iron."");"
+504685790069526529,2014-08-27 17:44:03,// d0 -= d_unit
+504670692663918592,2014-08-27 16:44:04,/* return quality of food; the lower the better */
+504655590015377409,2014-08-27 15:44:03,"printf (""Playing Time: %d:%02d:%02d\n\n"","
+504640490030260224,2014-08-27 14:44:03,tc_entry = entbuf;
+504625392263901185,2014-08-27 13:44:03,"//! for _ in range(0, iterations) {"
+504610291154685952,2014-08-27 12:44:03,|| check-&gt;v.absmax[i] &lt; pmove_mins[i])
+504595192796954624,2014-08-27 11:44:03,Computes the position in the widget of row \a row.
+504564996366675968,2014-08-27 09:44:04,"HUSTR_16,"
+504549894703824896,2014-08-27 08:44:03,if (lastCha &lt; ACURR(A_CHA) &amp;&amp; firstTime==FALSE) {
+504534793720446976,2014-08-27 07:44:03,xh = (tmbbox[BOXRIGHT] - bmaporgx)&gt;&gt;MAPBLOCKSHIFT;
+504519696801337344,2014-08-27 06:44:03,"} else if cfg!(target_os = ""macos"") {"
+504504598137405441,2014-08-27 05:44:04,"mods : Vec::new(),"
+504489497577660416,2014-08-27 04:44:03,endofscript = false;
+504474397714161665,2014-08-27 03:44:03,gold *g;
+504459298618220544,2014-08-27 02:44:03,if( !data ) {
+504444198339489792,2014-08-27 01:44:03,0001:0006ffb4 MIDI_SetContext_
+504429099889479681,2014-08-27 00:44:03,//! [`str`](str/index.html) module. Rust strings are immutable;
+504413998595735553,2014-08-26 23:44:03,"{SPR_STAT_49,bo_25clip}, // bonus 25 clip"
+504398901420785665,2014-08-26 22:44:04,#define NUM_MIPS 4
+504383799757922304,2014-08-26 21:44:03,pbase = (unsigned char *)cacheblock;
+504368699722444802,2014-08-26 20:44:03,"fn ge(&amp;self, other: &amp;&amp;'a mut T) -&gt; bool { **self &gt;= **other }"
+504353599905079297,2014-08-26 19:44:03,0001:000685fa SpwSimpleGet_
+504338501610250240,2014-08-26 18:44:03,"gtk_box_pack_start(GTK_BOX(top), label, FALSE, FALSE, 0);"
+504323403458027520,2014-08-26 17:44:03,"1u =&gt; w.write(&amp;[0x80u8 | (n as u8)]),"
+504308303946842112,2014-08-26 16:44:03,/// Types that can be copied by simply copying bits (i.e. `memcpy`).
+504293202346921984,2014-08-26 15:44:03,let u: Uuid = rand::Rand::rand(&amp;mut rng);
+504278104584753152,2014-08-26 14:44:03,"impl&lt;K: Ord, V: Eq&gt; Ord for BTree&lt;K, V&gt; {"
+504263006516416512,2014-08-26 13:44:04,samps = shm-&gt;samples &gt;&gt; (shm-&gt;channels-1);
+504247905436573696,2014-08-26 12:44:03,inputState.modifierKeys() == ModifierKeys::MKAlt ||
+504232807468904448,2014-08-26 11:44:04,floormove_t* floor;
+504217707097886720,2014-08-26 10:44:03,u_to_e(etmp)
+504202605074317312,2014-08-26 09:44:03,; - All multiplications are signed.
+504187508226535425,2014-08-26 08:44:03,boolean success;
+504172409235468288,2014-08-26 07:44:04,"Sprintf(buf,""%s stings"", magr_name);"
+504157308977704960,2014-08-26 06:44:03,"ParseStart,"
+504142209072246784,2014-08-26 05:44:03,if (objects[ct].oc_class == sym &amp;&amp; !objects[ct].oc_magic)
+504127109095518210,2014-08-26 04:44:03,"assert_eq!(loc2.line, 1);"
+504112011576619008,2014-08-26 03:44:04,/* Number was entered; split the object unless it corresponds
+504096908584157184,2014-08-26 02:44:03,"* SET_IN_FILE, DISP_IN_GAME, or SET_IN_GAME status of an option is"
+504081812868833281,2014-08-26 01:44:04,if (sprxlow &lt; 0)
+504066714255233024,2014-08-26 00:44:04,// check for launch from ted
+504051613389295616,2014-08-25 23:44:04,"x,"
+504036513731325953,2014-08-25 22:44:04,killer &amp;&amp; WIN_MAP == WIN_ERR ?
+504021414891249664,2014-08-25 21:44:04,// so let it just squash the object to death real fast
+504006313488420865,2014-08-25 20:44:03,if ofs &lt; self.len {
+503991214296023040,2014-08-25 19:44:03,method_list_t *mlist =
+503976115686625280,2014-08-25 18:44:04,curr-&gt;str[ttyDisplay-&gt;cols-2] = 0;
+503961014355124225,2014-08-25 17:44:03,"if (!done_stopprint) Strcpy(pbuf, ""You"");"
+503945913979904001,2014-08-25 16:44:03,"assert_eq!(xs.splitn(1, |x| *x == 5).collect::&lt;Vec&lt;&amp;[int]&gt;&gt;().as_slice(), &amp;[&amp;[]]);"
+503930814695239680,2014-08-25 15:44:03,extern statetype s_greteldie2;
+503915717088260096,2014-08-25 14:44:03,msg = MessageOrder[ i ];
+503900615442190336,2014-08-25 13:44:03,"// load the chunk into a buffer, either the miscbuffer if it fits, or allocate"
+503885518745387008,2014-08-25 12:44:04,"mov eax,ds:dword ptr[0+edi]"
+503870417871073280,2014-08-25 11:44:03,status = 1;
+503855320058564610,2014-08-25 10:44:04,"{ 185, 164 }, // location of level 0 (CJ)"
+503840218676727808,2014-08-25 09:44:03,""" commands:"","
+503825119824084992,2014-08-25 08:44:03,Set sounds to the cd track to play.
+503810020451299328,2014-08-25 07:44:03,"* Aborts if the tag is out of range, or if the tag is already"
+503794922710106112,2014-08-25 06:44:04,&amp;&amp; key != K_PGUP
+503779822351683586,2014-08-25 05:44:04,"M1_CLING|M1_ANIMAL|M1_NOHANDS|M1_OMNIVORE,"
+503764720261021696,2014-08-25 04:44:03,"{ LOCK_PICK, 9, TOOL_CLASS, 1, 0 },"
+503749622092025856,2014-08-25 03:44:03,"M2_WANDER|M2_NEUTER, 0, CLR_GREEN),"
+503734521913962498,2014-08-25 02:44:03,sgp = (const segmentType *)((char *)sgp + sgp-&gt;cmdsize);
+503719421727498240,2014-08-25 01:44:03,"if ((infile = fopen(argv[argn], READ_BINARY)) == NULL) {"
+503704324535767040,2014-08-25 00:44:04,let line = a + 1u; // Line numbers start at 1
+503689222214418432,2014-08-24 23:44:03,"mov rcx, DCTSIZE/4 ; ctr"
+503674124636803073,2014-08-24 22:44:03,"mov ds:byte ptr[-1+edi+eax*1],ch"
+503659023397584897,2014-08-24 21:44:03,switch (nkilled) {
+503643925916426240,2014-08-24 20:44:03,nw-&gt;Height = amiIDisplay-&gt;ypix - nw-&gt;TopEdge - 1;
+503628827755827200,2014-08-24 19:44:04,ret |= ((buf[ i / 8 ] &amp; (1 &lt;&lt; (i % 8))) != 0) &lt;&lt; j;
+503613727917481984,2014-08-24 18:44:04,if (x &lt;= line-&gt;v1-&gt;x)
+503598625411571712,2014-08-24 17:44:03,"# tags like paragraphs, headers, and list items."
+503583526198181890,2014-08-24 16:44:03,Gem_resume_nhwindows()
+503568427056103424,2014-08-24 15:44:03,"let mut decoder = Decoder::new(from_str(""[null]"").unwrap());"
+503553330040569856,2014-08-24 14:44:04,void T_Shoot (objtype *ob);
+503538228633145345,2014-08-24 13:44:03,"'\u0306']), ('\u0450', &amp;['\u0435', '\u0300']), ('\u0451', &amp;['\u0435', '\u0308']), ('\u0453',"
+503523128128315392,2014-08-24 12:44:03,local[0] -= surf-&gt;texturemins[0];
+503508029422440449,2014-08-24 11:44:03,pub fn test_fmt_default() {
+503492932348182528,2014-08-24 10:44:04,if ( x&lt;0
+503477828609138688,2014-08-24 09:44:03,"statetype s_robogrdpath1 = {16,SPR_ROBOGRD_S11,20,T_AutoPath,NULL,&amp;s_robogrdpath1};"
+503462729693544448,2014-08-24 08:44:03,|.....|--......---...........--------..........| |.......---------...-- |
+503447632048836608,2014-08-24 07:44:03,"('\ufea7', &amp;['\u062e']), ('\ufea8', &amp;['\u062e']), ('\ufea9', &amp;['\u062f']), ('\ufeaa',"
+503432532453761024,2014-08-24 06:44:03,Ok(handle) =&gt; Ok(DynamicLibrary { handle: handle })
+503417432074366976,2014-08-24 05:44:03,&amp;&amp; P_SKILL(skill) &lt; P_MAX_SKILL(skill) &amp;&amp; (
+503402332055678977,2014-08-24 04:44:03,mgetc()
+503387235396624385,2014-08-24 03:44:04,uleft = otmp;
+503372135226945536,2014-08-24 02:44:03,for (j=1 ; j&lt;doomcom-&gt;numnodes ; j++)
+503357033866100736,2014-08-24 01:44:03,"* of tail segments is an endless source of confusion, but it is"
+503341935441244160,2014-08-24 00:44:03,"fn contains(&amp;self, value: &amp;T) -&gt; bool;"
+503326836089430016,2014-08-23 23:44:03,book = 0;
+503311738348261376,2014-08-23 22:44:04,if( p-&gt;code==brush_table[i].code ) {
+503296638400884736,2014-08-23 21:44:04,#define Icebox (current_container-&gt;otyp == ICE_BOX)
+503281539594350592,2014-08-23 20:44:04,header_info *hi;
+503266436463480833,2014-08-23 19:44:03,*dmgptr += rnd(4); /* (3..5)d4 */
+503251337753407488,2014-08-23 18:44:03,"{magangle = abs(ob-&gt;angle-AngleBetween(ob,temp2));"
+503236238821056513,2014-08-23 17:44:03,self.think = fd_secret_move2;
+503221139964174336,2014-08-23 16:44:03,0004:00013404 _s_altexplosion1
+503206041392513024,2014-08-23 15:44:04,#define WORDLIMIT 80
+503190940195258370,2014-08-23 14:44:03,a.subslice_offset(b);
+503175842911240192,2014-08-23 13:44:04,%Cp Arc 00028
+503160743953711104,2014-08-23 12:44:04,if (lastCon &lt; ACURR(A_CON) &amp;&amp; firstTime==FALSE) {
+503145642940977153,2014-08-23 11:44:03,extern int numChannels;
+503130541710131200,2014-08-23 10:44:03,"SHROOMSPWUPALT, // shrooms mode powerup"
+503115443264290816,2014-08-23 09:44:03,z=shooter-&gt;z+pstate-&gt;playerheight-32;
+503100342478065664,2014-08-23 08:44:03,"{int perpangle,angle;"
+503085243570860032,2014-08-23 07:44:03,"setmodel (self, ""maps/b_exbox2.bsp"");"
+503070144672047104,2014-08-23 06:44:03,if (!automiss(etmp2)) {
+503055043801939968,2014-08-23 05:44:03,if(scroll-&gt;otyp != SCR_BLANK_PAPER) {
+503039946807332864,2014-08-23 04:44:04,#undef max
+503024845744259072,2014-08-23 03:44:03,map_cnt = 0;
+503009745343897600,2014-08-23 02:44:03,"or al,al ; set flags"
+502994645874659328,2014-08-23 01:44:03,int mouse_buttons;
+502979549467258880,2014-08-23 00:44:04,word *end;
+502964449255653376,2014-08-22 23:44:03,base_scan_idx = cinfo-&gt;num_scans_luma + cinfo-&gt;num_scans_chroma_dc;
+502949350151323648,2014-08-22 22:44:04,"MAZE: ""Kni-fila"" , '.'"
+502934247360176128,2014-08-22 21:44:03,"void GetSavedHeader (int num, gamestorage_t * game)"
+502919148595609600,2014-08-22 20:44:03,"Sprintf(kbuf, ""trying to help %s out of a pit"","
+502904049193455616,2014-08-22 19:44:03,backoff = 1;
+502888951087398912,2014-08-22 18:44:03,assert!(b.insert(1));
+502873850640879616,2014-08-22 17:44:03,externdef _r_tstepy:dword
+502858750735437825,2014-08-22 16:44:03,hiy = y - ylim - 1;
+502843653745041408,2014-08-22 15:44:04,"if((i = CheckParm(""-vector"")) != 0)"
+502828553273356290,2014-08-22 14:44:03,. N
+502813453313388544,2014-08-22 13:44:03,pub static _SC_2_FORT_RUN : c_int = 50;
+502798354120994816,2014-08-22 12:44:03,"(void) rloc(m_at(sx+1, sy), FALSE); /* insurance */"
+502783254093922304,2014-08-22 11:44:03,dlb_cleanup();
+502768155597737984,2014-08-22 10:44:03,0004:00020f84 _GUS_ErrorCode
+502753055319031808,2014-08-22 09:44:03,/* Count number of dummy blocks to be added at the right margin. */
+502737954918637568,2014-08-22 08:44:03,#define CONST_BITS 8
+502722857366216704,2014-08-22 07:44:03,/* #define PRINT_COLORMAP */ /* define to print the colormap */
+502707755191644160,2014-08-22 06:44:03,if (cinfo-&gt;smoothing_factor &amp;&amp; !smoothok)
+502692657433702400,2014-08-22 05:44:03,"MoveWindow(menu_ok, pt_ok.x, pt_ok.y, sz_ok.cx, sz_ok.cy, TRUE );"
+502677558685876225,2014-08-22 04:44:03,P_LoadNodes (lumpnum+ML_NODES);
+502662456494551040,2014-08-22 03:44:03,state.items[KITTEN].character = (chtype)' ';
+502647358010974209,2014-08-22 02:44:03,"; free (P); } I M(){ r=Q(),P,O; while(S=d("".)$"")){ N=Q();"
+502632261066698752,2014-08-22 01:44:04,fseek _TEXT CODE 0001:00078b86 ! 0000013e
+502617160297226242,2014-08-22 00:44:03,"boolean startgame,loadedgame,virtualreality;"
+502602060035264512,2014-08-21 23:44:03,menu_bg_brush ? menu_bg_color : (COLORREF)GetSysColor(DEFAULT_COLOR_BG_MENU));
+502586960213729284,2014-08-21 22:44:03,"fn sub(&amp;self, other: &amp;BigInt) -&gt; BigInt {"
+502571860434108417,2014-08-21 21:44:03,"pub fn TerminateProcess(hProcess: HANDLE, uExitCode: c_uint)"
+502556764370665472,2014-08-21 20:44:04,"DWORD dwSize,dwSize2;"
+502541663290810368,2014-08-21 19:44:03,playerdead=false; // local player dead flag
+502526565948071936,2014-08-21 18:44:04,"DOOR:locked,(12,05)"
+502511461902872576,2014-08-21 17:44:03,"{SPR_KEEN,6,6,{NULL},S_COMMKEEN8,0,0}, // S_COMMKEEN7"
+502496361800286208,2014-08-21 16:44:03,boolean u_caused;
+502481265053155328,2014-08-21 15:44:03,insertFreeBlock(*newBlock);
+502466165206450176,2014-08-21 14:44:03,oldbuttons &amp;= ~BUTTON_ATTACK;
+502451063384190976,2014-08-21 13:44:03,* + see invisible times out or a ring of see invisible is taken off
+502435963713622016,2014-08-21 12:44:03,"DrawPositionedScaledSprite (160, 100, shapenum, height, 0);"
+502420864772890624,2014-08-21 11:44:03,"float(float yaw, float dist) walkmove"
+502405767597940736,2014-08-21 10:44:03,regs[6] = procedure.env as uint;
+502390665414991873,2014-08-21 09:44:03,/*@=mustfreefresh@*/
+502375568248422401,2014-08-21 08:44:03,MOREACC(uleft);
+502360469890682881,2014-08-21 07:44:04,"if (!strcmp(plch, ""E"")) return PM_RANGER;"
+502345370610184192,2014-08-21 06:44:04,"rtdebug!(""caught {}"", (*my_ep).uwe.exception_class);"
+502330268364333056,2014-08-21 05:44:03,is_ammo(obj) || (!obj-&gt;oeroded &amp;&amp; !obj-&gt;oeroded2)) {
+502315169222262784,2014-08-21 04:44:03,"TRAP:""fire"",(22,05)"
+502300068364689408,2014-08-21 03:44:03,cats[used++] = loadable_categories[i];
+502284971709853696,2014-08-21 02:44:03,void() player_axeb1;
+502269870906826752,2014-08-21 01:44:03,"register struct bubble *b = (struct bubble *)0, *btmp;"
+502254771487916034,2014-08-21 00:44:03,"verbalize(""No checks, no credit, no problem."");"
+502239671599263745,2014-08-20 23:44:03,yy_flex_free(ptr);
+502224571148554240,2014-08-20 22:44:03,id *add(id obj)
+502209474745344002,2014-08-20 21:44:04,"copy_buffer(cinfo, luma_freq_split_scan_start+2*(master-&gt;best_freq_split_idx_luma-1)+2);"
+502194372835024896,2014-08-20 20:44:03,// Composite the columns together.
+502179275471343617,2014-08-20 19:44:03,pit = (trap &amp;&amp; (trap-&gt;ttyp == PIT || trap-&gt;ttyp == SPIKED_PIT));
+502164174735421442,2014-08-20 18:44:03,"mov ds:word ptr[eax+ebp*2],dx"
+502149075190693888,2014-08-20 17:44:03,"* must be matched by a literal `/`, rather than by `*` or `?` or `[...]`"
+502133975947956228,2014-08-20 16:44:03,lastanim++;
+502118877690863618,2014-08-20 15:44:04,int PreferenceManager::getInt(const Preference&lt;int&gt;&amp; preference) const {
+502103777747697665,2014-08-20 14:44:03,jpeg_destroy_decompress(&amp;source-&gt;dinfo);
+502088675552161792,2014-08-20 13:44:03,material == DRAGON_HIDE || material == WAX) ||
+502073578658226176,2014-08-20 12:44:03,"/* Success, initialize the new pool header and add to end of list */"
+502058477322534912,2014-08-20 11:44:03,"fn cmp(&amp;self, other: &amp; &amp;'a [T]) -&gt; Ordering {"
+502043379799425025,2014-08-20 10:44:03,"fprintf (f,""zone size: %i location: %p\n"",mainzone-&gt;size,mainzone);"
+502028278207885312,2014-08-20 09:44:03,if(ledger_no(&amp;u.uz) == 1) {
+502013179871129600,2014-08-20 08:44:03,strcpy _TEXT CODE 0001:0007ff90 ! 0000001f
+501998079147798528,2014-08-20 07:44:03,update_inventory();
+501982982702649344,2014-08-20 06:44:04,//! TaskBuilder::new().native().spawn(proc() {
+501967879924109312,2014-08-20 05:44:03,Controller::PreferenceChangeEvent preferenceChangeEvent(Preferences::CameraMoveSpeed);
+501952781180485632,2014-08-20 04:44:03,float dist = (vertex.position - m_camera-&gt;position()).dot(plane.normal) + 8.0f; // adds a bit of a border
+501937683347025920,2014-08-20 03:44:03,"-4394,-4344,-4294,-4244,-4194,-4144,-4093,-4043,"
+501922584746033152,2014-08-20 02:44:04,if (row &gt;= 0 &amp;&amp; row &lt; GetNumberRows()) {
+501907482856669184,2014-08-20 01:44:03,/// if there was an I/O error.
+501892384381485057,2014-08-20 00:44:03,case IDC_PLSEL_ROLE_RANDOM:
+501877285361037312,2014-08-19 23:44:03,static const char * const bogusmons[] = {
+501862186298667008,2014-08-19 22:44:04,"{SPR_BSPI,13,5,{NULL},S_BSPI_RAISE4,0,0}, // S_BSPI_RAISE3"
+501847085348847616,2014-08-19 21:44:03,"let (left_leaf, right_leaf) = self.elts.partition(|le|"
+501831984642269184,2014-08-19 20:44:03,"memcpy ((byte *)0xB8000, &amp;buf[160*7], 4000-(160*7));"
+501816885663780865,2014-08-19 19:44:03,"doomcom-&gt;remotenode,"
+501801787566071808,2014-08-19 18:44:03,"else if (!strncmpi (op, ""ascii7x12"", sizeof(""ascii7x12"")-1))"
+501786685953548288,2014-08-19 17:44:03,if (newz &gt; maxheight)
+501771588522758144,2014-08-19 16:44:03,"// Clips the given range of columns,"
+501756489158373376,2014-08-19 15:44:03,((cmap[j+0]&gt;&gt;4)&lt;&lt;8)|
+501741390913863680,2014-08-19 14:44:04,externdef _d_pzextrastep:dword
+501726289494282241,2014-08-19 13:44:03,MAX_LBM_HEIGHT);
+501711190218010624,2014-08-19 12:44:03,/* skip first record; read second */
+501696090375483392,2014-08-19 11:44:03,"if (!check_room(&amp;xabs, &amp;dx, &amp;yabs, &amp;dy, vault)) {"
+501680990180605952,2014-08-19 10:44:03,global EXTN(jconst_merged_upsample_sse2)
+501665891327954944,2014-08-19 09:44:03,if (self.cnt == 4)
+501650790847901697,2014-08-19 08:44:03,knows_object(ct);
+501635693094137856,2014-08-19 07:44:03,/* Initialize JPEG parameters.
+501620594224660480,2014-08-19 06:44:03,"unsafe { uvll::uv_tcp_connect(req.handle, tcp.handle, addr_p, cb) }"
+501605492247244800,2014-08-19 05:44:03,/// buffer is empty.
+501590392488615937,2014-08-19 04:44:03,assert(!UseGC);
+501575295531761665,2014-08-19 03:44:03,"mswin_putstr_ex(WIN_MESSAGE, ATR_BOLD, ""#"", 0);"
+501560195143983104,2014-08-19 02:44:03,"median_abs_dev_pct: 8.8956000000,"
+501545095947362305,2014-08-19 01:44:03,"mov dx, offset DGROUP: abortMSG"
+501529999082782722,2014-08-19 00:44:04,"""lower tentacle tip"", ""cilia"", ""life force"", ""retina"","
+501514895587028992,2014-08-18 23:44:03,mnexto(shkp);
+501499798705680385,2014-08-18 22:44:04,"Scrolls the table so that \a (x,y) becomes the top-left pixel"
+501484695256055808,2014-08-18 21:44:03,xstep = ltemp;
+501469595849719808,2014-08-18 20:44:03,"asm mov [v],dh"
+501454500658688001,2014-08-18 19:44:04,if (( (item-&gt;attr == 0) &amp;&amp; (item-&gt;identifier-&gt;a_int != 0)) || (special ==TRUE) ) {
+501439399629172736,2014-08-18 18:44:03,if (dibdc)
+501424299321077760,2014-08-18 17:44:03,return bit;
+501409201407922176,2014-08-18 16:44:04,void popattempt(void)
+501394098499354625,2014-08-18 15:44:03,* INT 2 = y
+501379000959508480,2014-08-18 14:44:03,r_refdef.viewangles[ROLL] = 80; // dead view angle
+501363901683212290,2014-08-18 13:44:03,"SafeWriteString(file,""; Joystick buttons\n"");"
+501348802645991425,2014-08-18 12:44:03,register struct obj * obj;
+501333700358209537,2014-08-18 11:44:03,* the given position is either the hero's or one of the eight squares
+501318602629595137,2014-08-18 10:44:03,actorat[doorobjlist[door].tilex][doorobjlist[door].tiley] = 0;
+501303502820638721,2014-08-18 09:44:03,"M_LINKSTATE(actor1,pstate);"
+501288403678543872,2014-08-18 08:44:03,"TRACEMS1(cinfo, 1, JTRC_THUMB_JPEG, (int) totallen);"
+501273304981078016,2014-08-18 07:44:03,0004:000148cc+ _s_itemspawn3
+501258204631007232,2014-08-18 06:44:03,cameraEvent.setHAngle(inputState.deltaX() * lookSpeed(false));
+501243105958719488,2014-08-18 05:44:03,nmCompletion(NMRec * pNMR)
+501228004987895808,2014-08-18 04:44:03,"OBJECT:'(',""chest"",(34,02)"
+501212906143625216,2014-08-18 03:44:03,"_objc_inform(""VTABLES: repairing %zu unsupported vtable dispatch """
+501197806930255874,2014-08-18 02:44:03,http://t.co/xCtcj0uGI0 = name;
+501182709218439168,2014-08-18 01:44:04,"* We apply smoothing only for progressive JPEG decoding, and only if"
+501167608071487489,2014-08-18 00:44:03,"yy_n_chars, num_to_read );"
+501152510187679744,2014-08-17 23:44:04,"OBJECT:'`',""boulder"",(02,07)"
+501137409300791296,2014-08-17 22:44:03,*buf = where_to_get_source;
+501122309386956800,2014-08-17 21:44:03,"void onMSNH_VScroll(HWND hWnd, WPARAM wParam, LPARAM lParam)"
+501107211155042304,2014-08-17 20:44:03,// v = (255&lt;&lt;0) + (r&lt;&lt;8) + (g&lt;&lt;16) + (b&lt;&lt;24);
+501092109441859584,2014-08-17 19:44:03,"VW_MeasurePropString ( header, &amp;width, &amp;height );"
+501077010954072064,2014-08-17 18:44:03,#define STAT_MINUS 10 // num frame for '-' stats digit
+501061911648411648,2014-08-17 17:44:03,"wsptr[8*10] = (int) RIGHT_SHIFT(tmp20 - tmp10, CONST_BITS-PASS1_BITS);"
+501046812174999553,2014-08-17 16:44:03,"/* Also, try to grant a spell for which there is a skill slot */"
+501031713104220160,2014-08-17 15:44:03,MISCVARS-&gt;REDTIME --;
+501016612196339712,2014-08-17 14:44:03,case PAY_SKIP:
+501001513435947008,2014-08-17 13:44:03,"DrawNormalSprite(0,16,W_GetNumForName(""nicolas""));"
+500986414134476800,2014-08-17 12:44:03,// No current exception.
+500971313864142848,2014-08-17 11:44:03,!program_state.something_worth_saving ?
+500956215854526464,2014-08-17 10:44:03,"pub fn check(&amp;self, msg: &amp;'static str) {"
+500941114812428290,2014-08-17 09:44:03,pub static _SC_DELAYTIMER_MAX : c_int = 26;
+500926016580501504,2014-08-17 08:44:03,"#include ""objc-file.h"""
+500910917312610304,2014-08-17 07:44:03,* The options given are passed through unchanged to `Pattern::matches_with(..)` with
+500895816551514112,2014-08-17 06:44:03,while(count &lt; limit) {
+500880716033708033,2014-08-17 05:44:03,static struct loadable_category *loadable_categories = nil;
+500865616560275456,2014-08-17 04:44:03,"(Some(x), Some(y)) =&gt; Some((x, y)),"
+500850519532134400,2014-08-17 03:44:03,case ITEMS:
+500835419274350593,2014-08-17 02:44:03,| --..--.-----........-.....................--- --..-- |
+500820320681750528,2014-08-17 01:44:03,"void ComError (char *error, ...)"
+500805222034579456,2014-08-17 00:44:04,mtmp2 = mtmp-&gt;nmon; /* tamedog() changes chain */
+500790119067303936,2014-08-16 23:44:03,"# define freeobjchn(X) (saveobjchn(0, X, FREE_SAVE), X = 0)"
+500775023234547712,2014-08-16 22:44:04,"assert_eq!(it.next().unwrap(), &amp;11);"
+500759920527290369,2014-08-16 21:44:03,"* The PeekConsoleInput function works similarly to ReadConsoleInput,"
+500744821024489472,2014-08-16 20:44:03,assert(key == 0 || key == newKey);
+500729724038295553,2014-08-16 19:44:03,long flgs;
+500714623856046080,2014-08-16 18:44:03,static char kbuf[BUFSZ];
+500699525489897472,2014-08-16 17:44:04,"asm mov BYTE PTR es:[bx],cl // unpatch the RETF"
+500684426112929792,2014-08-16 16:44:04,"('\U0001d52d', &amp;['\x70']), ('\U0001d52e', &amp;['\x71']), ('\U0001d52f', &amp;['\x72']),"
+500669325314097152,2014-08-16 15:44:03,// idle bindings
+500654226910244865,2014-08-16 14:44:04,qboolean chat_team;
+500639125004095488,2014-08-16 13:44:03,type = MT_BABY;
+500624026117480448,2014-08-16 12:44:03,#endif /* MICRO || WIN32 */
+500608926401191936,2014-08-16 11:44:03,"check([], [], []);"
+500593828244783104,2014-08-16 10:44:03,void HitHorizDoor (void)
+500578725873057792,2014-08-16 09:44:03,"REGION:(04,04,45,11),unlit,""ordinary"""
+500563627448205312,2014-08-16 08:44:03,Z_Free(y);
+500548530713661440,2014-08-16 07:44:04,player-&gt;ammo[weaponinfo[player-&gt;readyweapon].ammo]-=2;
+500533428060950529,2014-08-16 06:44:03,if(container) {
+500518328390385664,2014-08-16 05:44:03,"m_inputController-&gt;render(*m_vbo, renderContext);"
+500503231009918976,2014-08-16 04:44:03,/// `NaN &lt; 0 == false` and `NaN &gt;= 0 == false` (cf. IEEE 754-2008 section
+500488130513108992,2014-08-16 03:44:03,"""ghack_display"","
+500473030188212224,2014-08-16 02:44:03,"ReadInt( ""DefaultPlayerCharacter"", &amp;DefaultPlayerCharacter );"
+500457932879036416,2014-08-16 01:44:03,/// at all)
+500442835259502592,2014-08-16 00:44:04,/* Try to use turn undead spell. */
+500427733365981184,2014-08-15 23:44:03,"statetype s_angelchase3s = {false,SPR_ANGEL_W3,3,NULL,NULL,&amp;s_angelchase4};"
+500412634593001473,2014-08-15 22:44:03,0004:00014e30 _s_timekeeper
+500397532917538816,2014-08-15 21:44:03,return texnum;
+500382433200832512,2014-08-15 20:44:03,register_status_window_class( );
+500367333492527104,2014-08-15 19:44:03,// the character class is negated or not.
+500352236938346496,2014-08-15 18:44:04,"* reasons, the most signifigant of which was a lot of the nuts and bolts was"
+500337137360068608,2014-08-15 17:44:04,boolean ask = wizard;
+500322035965624320,2014-08-15 16:44:03,whileflag=1;
+500306935737225217,2014-08-15 15:44:03,"sprintf(message, ""Warning! Could not find file: %s\n"",filename);"
+500291837127831552,2014-08-15 14:44:03,use std::any::Any;
+500276736731643904,2014-08-15 13:44:03,/* Get the number of directory entries contained in this IFD */
+500261638071943168,2014-08-15 12:44:03,* If the compressor requires full-image buffers (for entropy-coding
+500246539634503680,2014-08-15 11:44:03,"// Attach pended categories for this class, if any"
+500231441280925696,2014-08-15 10:44:04,"MONSTER:'@',""soldier"",(30,16)"
+500216340138168320,2014-08-15 09:44:03,if (wp-&gt;popup) {
+500201238844436480,2014-08-15 08:44:03,case 3: --(*x); break;
+500186141589766144,2014-08-15 07:44:03,"\sa xOffset(), yOffset(), setXOffset(), setYOffset(), setTopLeftCell()"
+500171041264898048,2014-08-15 06:44:03,void ST_refreshBackground(void)
+500155941334290433,2014-08-15 05:44:03,fxch %st(1) // testzi | newzitop | fu
+500140844226453504,2014-08-15 04:44:04,p_type = 2;
+500125740701339648,2014-08-15 03:44:03,"Netchan_Transmit (&amp;c-&gt;netchan, 0, NULL); // just update reliable"
+500110643341836288,2014-08-15 02:44:03,/* fall though */
+500095542484271104,2014-08-15 01:44:03,"\sa paintEvent(), setTableFlags() */"
+500080445024129024,2014-08-15 00:44:03,FILE * outfile = dest-&gt;pub.output_file;
+500065344271433728,2014-08-14 23:44:03,fn as_mut_ptr(self) -&gt; *mut T;
+500050246211489793,2014-08-14 22:44:03,slithy(youmonst.data) || youmonst.data-&gt;mlet == S_CENTAUR) {
+500035145936932864,2014-08-14 21:44:03,while (time&gt;ticcount) {}
+500020046882963456,2014-08-14 20:44:03,if (hWaveHdr)
+500004945886978048,2014-08-14 19:44:03,/* Is the player impaired? */
+499989846489051137,2014-08-14 18:44:03,"* simplistic approach wouldn't work too well on bilevel images, for example."
+499974749171511297,2014-08-14 17:44:03,pstate-&gt;guntarget-&gt;flags &amp;= ~FL_TARGET;
+499959648913719296,2014-08-14 16:44:03,t1 = tt_head = newttentry();
+499944549725507584,2014-08-14 15:44:03,retcode = JPEG_REACHED_SOS;
+499929450189160449,2014-08-14 14:44:03,void setftty(){
+499914350346661888,2014-08-14 13:44:03,"""box(GC) repr::P{a: 10, b: 1.234f64}"");"
+499899248969023489,2014-08-14 12:44:03,# ifdef USE_TILES
+499884149805940736,2014-08-14 11:44:03,"CDAudio_Play(Q_atoi(Cmd_Argv (2)), true);"
+499869050600960001,2014-08-14 10:44:03,"10679838,11013526,11347209,11680887,12014558,12348225,12681885,13015539,"
+499853951643435008,2014-08-14 09:44:03,"try!(write!(w, "" ""));"
+499838851570216960,2014-08-14 08:44:03,ob-&gt;temp3 = NEXT;
+499823751983542272,2014-08-14 07:44:03,"257, 291, 40, 259, 258, 260, 258, 58, 258, 40,"
+499808652426248192,2014-08-14 06:44:03,if (XMSAvail &lt; (PMPageSizeKB * 2)) // Need at least 2 pages
+499793553997180928,2014-08-14 05:44:03,"REGION:(17,16,21,18),unlit,""ordinary"""
+499778455907885056,2014-08-14 04:44:03,; Downsample pixel values of a single component.
+499763354953846784,2014-08-14 03:44:03,"'0' .. '9' =&gt; (),"
+499748256705175553,2014-08-14 02:44:03,pub use slice::{MutableVector};
+499733158368387072,2014-08-14 01:44:04,0004:00015344+ _s_scottwander7
+499718057607299075,2014-08-14 00:44:03,*bufferptr = SafeMalloc (length);
+499702956418408449,2014-08-13 23:44:03,/// A helper macro for booting a program with libgreen
+499687858589147136,2014-08-13 22:44:03,// while next type is a bit field
+499672759367380992,2014-08-13 21:44:03,int retval=scfp_nodata;
+499657657176055808,2014-08-13 20:44:03,if (WIN_MESSAGE == WIN_ERR &amp;&amp; choices == ynchars) {
+499642560051433472,2014-08-13 19:44:03,"SpawnStand(strikeguardobj,i,j,tile-180,0);"
+499627461685313536,2014-08-13 18:44:04,"* breathing potions, but..."
+499612360852930560,2014-08-13 17:44:03,Small(SmallBitv::new(if init {(1&lt;&lt;nbits)-1} else {0}))
+499597262482579456,2014-08-13 16:44:04,&amp;&amp; channels[i].entchannel == entchannel)
+499582160945549313,2014-08-13 15:44:03,let mut i = i;
+499567062575235073,2014-08-13 14:44:03,} while(currentMenu-&gt;menuitems[itemOn].status==-1);
+499551962208419840,2014-08-13 13:44:03,%define jsimd_rgb_gray_convert_sse2 jsimd_extbgrx_gray_convert_sse2
+499536861661245442,2014-08-13 12:44:03,c = key_None;
+499521762137473024,2014-08-13 11:44:03,/// alphabetic code point.
+499506662517276673,2014-08-13 10:44:03,"if (TurnOffLight1 (tilex, tiley, -1, -1))"
+499491565589774337,2014-08-13 09:44:04,"""Mark Dochtermann\n"""
+499476464652533760,2014-08-13 08:44:03,"""no skill"","
+499461366957490176,2014-08-13 07:44:04,wsptr[DCTSIZE*3] = tmp3 + tmp4;
+499446267060428800,2014-08-13 06:44:03,regs.w.bx = color&lt;&lt;8;
+499431166769106944,2014-08-13 05:44:03,if (DebugOk == false)
+499416066171613184,2014-08-13 04:44:03,"Your(""%s %s%s%s for a moment."","
+499400968765997056,2014-08-13 03:44:04,"INT32 dist0,dist1,dist2;"
+499385866767581184,2014-08-13 02:44:03,return (NhRegion *) 0;
+499370769722654721,2014-08-13 01:44:04,"dir = nh_getenv(""HACKDIR"");"
+499355670358261760,2014-08-13 00:44:04,"for (k, &amp;v) in map.iter() {"
+499340571136503808,2014-08-12 23:44:04,static struct BitMap *tbmp[ 1 ] = {0};
+499325470631288834,2014-08-12 22:44:03,shifted_rev.push((*elem &gt;&gt; n_bits) | borrow);
+499310369601777665,2014-08-12 21:44:03,while (memberpicked[whichmem = US_RndT()%5]);
+499295271550210049,2014-08-12 20:44:03,case 465:
+499280169870589953,2014-08-12 19:44:03,"int xCur, yCur; /* position of the cursor */"
+499265072284573696,2014-08-12 18:44:03,/* Repeat pixel on display. */
+499249971242491904,2014-08-12 17:44:03,"('\ua7aa', '\ua7aa'), ('\uff21', '\uff3a'),"
+499234874315005953,2014-08-12 16:44:04,"280, 402, 375, 281, 225, 214, 215,"
+499219773805178880,2014-08-12 15:44:03,if (deltax&gt;0x10000l)
+499204673354891264,2014-08-12 14:44:03,else if(!c || c == selmon-&gt;sel)
+499189574158274560,2014-08-12 13:44:03,for (i=0;i&lt;serverpkt-&gt;numpackets;i++)
+499174474038927360,2014-08-12 12:44:03,* } mig_reply_error_t;
+499159374926200832,2014-08-12 11:44:03,mtmp-&gt;mspec_used = 10+rn2(20);
+499144275159171072,2014-08-12 10:44:03,"You_hear(""a crashing sound."");"
+499129176071610368,2014-08-12 09:44:03,"AbiData {abi: Fastcall, name:""fastcall"", abi_arch: Archs(IntelBits)},"
+499114077801971712,2014-08-12 08:44:03,"Strcpy(yylval.str, yytext+1); /* Discard the first \"" */"
+499098978710216704,2014-08-12 07:44:03,/* Step 4: set parameters for decompression */
+499083875784859648,2014-08-12 06:44:03,%Cc Kni 00070
+499068779729797120,2014-08-12 05:44:04,"('\U00010428', '\U00010400'), ('\U00010429', '\U00010401'),"
+499053678654148608,2014-08-12 04:44:03,match self.user {
+499038580682272769,2014-08-12 03:44:03,"WEPTOOL(""pick-axe"", (char *)0,"
+499023481129140224,2014-08-12 02:44:03,"create_gold(g,croom)"
+499008380183535616,2014-08-12 01:44:03,"verbalize(""Gleep!""); /* Mything eggs :-) */"
+498993279862853633,2014-08-12 00:44:03,"NG_STATSY, FB, frags);"
+498978179252748289,2014-08-11 23:44:03,"pline(""What you produce is quite far from music..."");"
+498963081205391360,2014-08-11 22:44:03,"193, 193, 193, 193, 193, 193, 193, 193, 193, 193,"
+498947983111892993,2014-08-11 21:44:03,COM_CreatePath
+498932883185491968,2014-08-11 20:44:03,w-&gt;RPort-&gt;TxBaseline + 1 );
+498917782709600256,2014-08-11 19:44:03,case POT_PARALYSIS:
+498902685211709441,2014-08-11 18:44:03,// the block has been pushed two tiles
+498887586031865856,2014-08-11 17:44:04,struct obj **objchn;
+498872486571028481,2014-08-11 16:44:04,"if (! prototypes) prototypes = NXCreateHashTable(protoPrototype, 0, NULL);"
+498857385663135744,2014-08-11 15:44:03,static int draw_status(PARMBLK *pb){
+498842287343153152,2014-08-11 14:44:04,; G = Y - 0.34414 * Cb - 0.71414 * Cr
+498827185508343808,2014-08-11 13:44:03,"eflags: u32, eip: u32"
+498812088765415424,2014-08-11 12:44:04,if(*buf==FONT_CHANGED){
+498796986255306753,2014-08-11 11:44:03,unsigned
+498781886731149312,2014-08-11 10:44:03,"('\u215c', &amp;['\x33', '\u2044', '\x38']), ('\u215d', &amp;['\x35', '\u2044', '\x38']), ('\u215e',"
+498766788675788800,2014-08-11 09:44:03,"movdqa xmm2,[GOTOFF(ebx,PB_CENTERJSAMP)] ; xmm2=[PB_CENTERJSAMP]"
+498751690771038208,2014-08-11 08:44:04,"create_widget(form, sv_dlevel, F_DLEVEL);"
+498736589624074240,2014-08-11 07:44:03,"asm mov dx,[height]"
+498721490045771776,2014-08-11 06:44:03,LI = MT_HEIGHT;
+498706391746756609,2014-08-11 05:44:03,"/* F, G, H and I are basic MD5 functions. */"
+498691290490761216,2014-08-11 04:44:03,for (i = 0; i &lt; sinfo-&gt;pixel_size; i++) {
+498676193215148034,2014-08-11 03:44:04,char filespec[256];
+498661091237711873,2014-08-11 02:44:03,// unsigned oldfontnumber;
+498645992917725186,2014-08-11 01:44:03,while (*text++ != '\n') // scan to end of line
+498630891846238208,2014-08-11 00:44:03,impl&lt;T:Rand&gt; Rand for Option&lt;T&gt; {
+498615793262014464,2014-08-10 23:44:03,// FIXME: do this right
+498600695390814208,2014-08-10 22:44:03,/*pctty.c*/
+498585596261314561,2014-08-10 21:44:04,if (x1 &gt;= viewwidth)
+498570496745947137,2014-08-10 20:44:04,if (!plyr-&gt;powers[i])
+498555398732120064,2014-08-10 19:44:04,ls-&gt;type = type;
+498540298302017537,2014-08-10 18:44:04,"519066624,519242144,519417600,519592960,519768256,519943424,520118528,520293568,"
+498525196056539136,2014-08-10 17:44:03,sing:
+498510098172764160,2014-08-10 16:44:03,"String(String),"
+498494998103732224,2014-08-10 15:44:03,"rcsid[] = ""$Id: i_unix.c,v 1.5 1997/02/03 22:45:10 b1 Exp $"";"
+498479899678887936,2014-08-10 14:44:04,"if (thitm(8, mtmp, otmp, 0, FALSE)) trapkilled = TRUE;"
+498464799865716738,2014-08-10 13:44:03,* having the player end up here with no way out.
+498449698970411008,2014-08-10 12:44:03,"/// listed as `__extensions__::method_name::hash`, with no indication"
+498434600251973632,2014-08-10 11:44:03,"va_start (argptr,warning);"
+498419498832384000,2014-08-10 10:44:03,if (superclass) {
+498404402248810496,2014-08-10 09:44:04,if (HProtection &amp; INTRINSIC) prot += u.ublessed;
+498389300686630912,2014-08-10 08:44:03,if (quickSaveSlot &lt; 0)
+498374203125796864,2014-08-10 07:44:04,fstricmp _TEXT CODE 0001:00067e30 ! 00000041
+498359101794308096,2014-08-10 06:44:03,"Many languages have immutable strings by default, and Rust has a particular"
+498344000924176384,2014-08-10 05:44:03,"if(otmp != obj &amp;&amp; merged(&amp;obj,&amp;otmp))"
+498328901996015618,2014-08-10 04:44:03,*v = 0;
+498313805295026176,2014-08-10 03:44:04,_BSS BSS 0004:00072f34 ! 0000001c
+498298704034811904,2014-08-10 02:44:03,/* Start of Quest text file processing. */
+498283603990941696,2014-08-10 01:44:03,= VL_TestPaletteSet
+498268504102305792,2014-08-10 00:44:03,done_intr(sig);
+498253407300632576,2014-08-09 23:44:04,"set_color_gc(CLR_BROWN, XtNbrown);"
+498238306384355329,2014-08-09 22:44:03,void EditorFrame::OnIdle(wxIdleEvent&amp; event) {
+498223205447122944,2014-08-09 21:44:03,"shader.setUniformVariable(""Color"", Color(m_fillColor));"
+498208107085176832,2014-08-09 20:44:03,if ((int)vid_mode.value != vid_realmode)
+498193009725689856,2014-08-09 19:44:04,LP4:
+498177909946068992,2014-08-09 18:44:04,savech(0); /* reset input queue */
+498162808195153920,2014-08-09 17:44:03,void AM_restoreScaleAndLoc(void)
+498147708650397697,2014-08-09 16:44:03,SoundUserHook();
+498132609139240960,2014-08-09 15:44:03,"movl %eax,espan_t_pnext(%ebp) // span-&gt;pnext = surf-&gt;spans;"
+498117510156546048,2014-08-09 14:44:03,|| height&lt;0 || pixelFormat&lt;0 || pixelFormat&gt;=TJ_NUMPF)
+498102410989297664,2014-08-09 13:44:03,ttycolors[CLR_YELLOW] = M_YELLOW;
+498087309716512768,2014-08-09 12:44:03,"USES si,di"
+498072211555889153,2014-08-09 11:44:03,// recurse down both sides
+498057111839211520,2014-08-09 10:44:03,#define MINSIGHT 0x18000l
+498042014576168961,2014-08-09 09:44:04,void SetViewSize
+498026914700099584,2014-08-09 08:44:04,"event_loop_factory: fn() -&gt; Box&lt;rtio::EventLoop + Send&gt;,"
+498011814660415488,2014-08-09 07:44:03,"-63466,-63454,-63441,-63429,-63416,-63403,-63390,-63378,"
+497996715900022784,2014-08-09 06:44:04,* indicating that the buffer has been dumped.
+497981615839399936,2014-08-09 05:44:03,"static char *LargeCursor = ""cursor01"";"
+497966516164640769,2014-08-09 04:44:03,case 272:
+497951417735204864,2014-08-09 03:44:04,"void EditorView::moveVertices(Direction direction, bool snapToGrid) {"
+497936317851111424,2014-08-09 02:44:04,return false; // doesn't fit
+497921216741920769,2014-08-09 01:44:03,return destroy_tty (*window);
+497906120191922177,2014-08-09 00:44:04,XEvent ev;
+497891016784220161,2014-08-08 23:44:03,"(&amp;[-1, -1], &amp;[-1], &amp;[ 1, -1, -2]),"
+497875920351674370,2014-08-08 22:44:04,// the `Growable` and `FixedLen` variants is sufficiently useful.
+497860820437843968,2014-08-08 21:44:04,lev = &amp;levl[xmin][ymin];
+497845719412531200,2014-08-08 20:44:03,"cansee(zx, zy) ? ""see"" :"
+497830622405345280,2014-08-08 19:44:04,"m_texAxesValid(false),"
+497815519198969856,2014-08-08 18:44:03,/* Perform right edge extension. */
+497800423122944001,2014-08-08 17:44:04,int smokecondition=0;
+497785322647064576,2014-08-08 16:44:03,"420686144,420908608,421130976,421353280,421575424,421797504,422019488,422241344,"
+497770223345627136,2014-08-08 15:44:04,// Put some stuff in the arena.
+497755122479661057,2014-08-08 14:44:03,"pline(""%s is not deterred..."", align_gname(resp_god));"
+497740022565851136,2014-08-08 13:44:03,"CodeMap, which upon request can be converted to line and column information,"
+497724922429730816,2014-08-08 12:44:03,fn rand&lt;R: Rng&gt;(rng: &amp;mut R) -&gt; Open01&lt;$ty&gt; {
+497709826085236736,2014-08-08 11:44:04,"If a secret door has a targetname, it will only be opened by it's botton or trigger, not by damage."
+497694725793935361,2014-08-08 10:44:04,es = cl_baselines + i;
+497679626618302464,2014-08-08 09:44:04,pRetArg = CharNext(pRetArg);
+497664527673339904,2014-08-08 08:44:04,if (playstate == ex_abort)
+497649424328556544,2014-08-08 07:44:03,"void EndScreen (int palette, int screen)"
+497634328013463553,2014-08-08 06:44:04,"only one thing is selectable, and any number valid items"
+497619226283487232,2014-08-08 05:44:03,/// undefined to drop an already-locked mutex.
+497604128043171840,2014-08-08 04:44:03,if (xleft&amp;1)
+497589027269521408,2014-08-08 03:44:03,"Gem_print_glyph(window, x, y, glyph)"
+497573927477317632,2014-08-08 02:44:03,/// This method is unsafe for the same reasons as `lock`.
+497558829459320832,2014-08-08 01:44:03,"hungerVBox = gtk_vbox_new (FALSE, 0);"
+497543729419673601,2014-08-08 00:44:03,* Barrier tests
+497528631548465153,2014-08-07 23:44:04,switch ( oflag &amp; (_O_CREAT | _O_EXCL | _O_TRUNC) ) {
+497513529399078912,2014-08-07 22:44:03,return w;
+497498432471564288,2014-08-07 21:44:04,"/* 44*/ 9, 9, 9, 9, 8, 8, 7, 6, 5, 3,"
+497483332905893888,2014-08-07 20:44:04,macFlags.fsSpec = (l &amp; (1 &lt;&lt; gestaltHasFSSpecCalls)) ? 1 : 0;
+497468233826713600,2014-08-07 19:44:04,/* ends menu for PICK_ONE/PICK_NONE
+497453131689910272,2014-08-07 18:44:03,// into the rectangular texture space using origin
+497438032413605888,2014-08-07 17:44:03,// the problem that work stealing is not designed for 'non-strict'
+497422933506412544,2014-08-07 16:44:03,"fn bsearch(&amp;self, f: |&amp;T| -&gt; Ordering) -&gt; Option&lt;uint&gt;;"
+497407835672936448,2014-08-07 15:44:04,spryscale = vis-&gt;scale;
+497392733771018240,2014-08-07 14:44:03,{sprites[startx][starty] = NULL;
+497377634024960000,2014-08-07 13:44:03,hp1:
+497362536493510656,2014-08-07 12:44:03,if (used[j])
+497347437187829761,2014-08-07 11:44:03,posMode = fsFromLEOF;
+497332338989473792,2014-08-07 10:44:04,if (_collecting_in_critical ()) {
+497317236160610304,2014-08-07 09:44:03,* (note 1 ' ' border) */
+497302137341493248,2014-08-07 08:44:03,req.get_result() as int
+497287040846028802,2014-08-07 07:44:04,"You_feel(""in touch with the Universal Oneness."");"
+497271939069935616,2014-08-07 06:44:03,hitPoint = hit-&gt;hitPoint();
+497256841421008896,2014-08-07 05:44:04,else if (!polyok(&amp;mons[mntmp]) &amp;&amp; !your_race(&amp;mons[mntmp]))
+497241740831899648,2014-08-07 04:44:03,"LVL(3, 12, 9, 20, 0), (G_GENO|2),"
+497226639974342657,2014-08-07 03:44:03,"SafeWrite(handle,&amp;tantable[0],sizeof(short)*size);"
+497211539687235584,2014-08-07 02:44:03,if (c2 &gt;= 'a' &amp;&amp; c2 &lt;= 'z')
+497196441459503104,2014-08-07 01:44:03,} break; case NHW_MENU:
+497181344645255168,2014-08-07 00:44:04,void SetupGamePlayer ( void )
+497166243754160129,2014-08-06 23:44:04,ServerflagsCommand
+497151141994848256,2014-08-06 22:44:03,for b in s.bytes().rev() {
+497136043683225601,2014-08-06 21:44:03,if (file_len == 0)
+497120943828135936,2014-08-06 20:44:03,"if (match_optname(opts, fullname, 12, TRUE)) {"
+497105845608775680,2014-08-06 19:44:04,intPix = gnome_pixmap_new_from_xpm_d( int_xpm);
+497090745820803072,2014-08-06 18:44:03,case CommandIds::Menu::ViewSetGridSize2:
+497075645995024384,2014-08-06 17:44:03,// Sliders and icons. Kinda widget stuff.
+497060547859611648,2014-08-06 16:44:04,boolean inokay = (invent != 0);
+497045447526346752,2014-08-06 15:44:04,Display* dpy = XtDisplay(wp-&gt;w);
+497030347587330049,2014-08-06 14:44:03,"shr ecx,2*BYTE_BIT ; ecx=(C1 D1 -- --)"
+497015248847925249,2014-08-06 13:44:04,demoend = demobuffer + maxsize;
+497000152104972288,2014-08-06 12:44:04,"443280032,443492000,443703872,443915648,444127296,444338880,444550336,444761696,"
+496985049666158592,2014-08-06 11:44:04,SelectKristChaseDir(ob);
+496969951614631936,2014-08-06 10:44:04,x =&gt; avec.push(x.clone())
+496954848890605568,2014-08-06 09:44:03,"getline_dialog = CreateDialog(getline_popup, ""dialog"","
+496939749123559426,2014-08-06 08:44:03,"/// An iterator over the range [start, stop] by `step`. It handles overflow by stopping."
+496924650090541056,2014-08-06 07:44:03,"dismiss_file(w, event, params, num_params)"
+496909550684237825,2014-08-06 06:44:03,dclicks = 0;
+496894450715877379,2014-08-06 05:44:03,"w z( w e) {w a,b , c,d;for (d =e=m(e,0"
+496879352379113472,2014-08-06 04:44:03,return WXK_ESCAPE;
+496864251748032512,2014-08-06 03:44:03,_nethack_app.mapTile_X = TILE_X;
+496849155504218112,2014-08-06 02:44:04,oldObj = *addr;
+496834052104945664,2014-08-06 01:44:03,"if(nct) pline_The(""guard%s get%s angry!"","
+496818956356046848,2014-08-06 00:44:04,EXTRN ssOn:BYTE
+496803853627817984,2014-08-05 23:44:03,"case 2 : pline(""%s you!"", Tobjnam(obj, ""confuse""));"
+496788758814277632,2014-08-05 22:44:04,(levl[x][y].drawbridgemask &amp; DB_UNDER) == DB_ICE))
+496773654836178944,2014-08-05 21:44:03,fn test_test_constants() {
+496758556675563520,2014-08-05 20:44:03,/// Take ownership and cast to an ascii vector. Return None on non-ASCII input.
+496743458561093632,2014-08-05 19:44:04,===========
+496728360081719296,2014-08-05 18:44:04,"assert_eq!(from_str::&lt;bool&gt;(""true""), Some(true));"
+496713258150408194,2014-08-05 17:44:03,void CalcGunAngle (void)
+496698158576304128,2014-08-05 16:44:03,newlist-&gt;first.types = strdup(types);
+496683060315037696,2014-08-05 15:44:04,plyr-&gt;message = STSTR_FAADDED;
+496667963446292480,2014-08-05 14:44:04,"You(""reflect the %s."","
+496652859732402176,2014-08-05 13:44:03,&amp;&amp; picnum == check-&gt;picnum
+496637763606028289,2014-08-05 12:44:04,"""You must now begin in %ds name to search for the Amulet of Yendor."
+496622662412939264,2014-08-05 11:44:04,yytext_ptr = yy_bp; \
+496607562528468992,2014-08-05 10:44:04,tmpobj[nobj]-&gt;name.str = 0;
+496592460261654528,2014-08-05 09:44:03,outerSizer-&gt;AddSpacer(LayoutConstants::ControlHorizontalMargin);
+496577363296395264,2014-08-05 08:44:04,_R_AliasTransformAndProjectFinalVerts:
+496562262623391744,2014-08-05 07:44:03,// destructor - ignore
+496547162474692608,2014-08-05 06:44:03,"mov eax,OFFSET apatch2+2 ; convice tasm to modify code..."
+496532063135469569,2014-08-05 05:44:03,//! statically initialized.
+496516965717274625,2014-08-05 04:44:04,s += fa-&gt;light_s*16;
+496501866357088257,2014-08-05 03:44:04,"addl $(st_next),%eax"
+496486767080787969,2014-08-05 02:44:04,cnt *= 2;
+496471667871612929,2014-08-05 01:44:04,my %cli_opts;
+496456569488674816,2014-08-05 00:44:04,"-44289,-44252,-44215,-44178,-44141,-44104,-44067,-44029,"
+496441469142847490,2014-08-04 23:44:04,"STATIC_VAR const char * const a_your[2] = { ""a"", ""your"" };"
+496426368478244864,2014-08-04 22:44:04,* the results even with corner colors allocated.
+496411268287578112,2014-08-04 21:44:03,cls-&gt;data()-&gt;protocols =
+496396167711035393,2014-08-04 20:44:03,for (unsigned int i = 1; i &lt; m_brushes.size(); i++)
+496381071421100032,2014-08-04 19:44:04,surf = surfaces[1].next;
+496365969980534784,2014-08-04 18:44:03,message_nottobefuckedwith = true;
+496350868976201728,2014-08-04 17:44:03,let idx = match *self.stack.last().unwrap() {
+496335773940322305,2014-08-04 16:44:04,heap.push(11);
+496320671719624704,2014-08-04 15:44:03,// No duplicate classes allowed.
+496305572581765120,2014-08-04 14:44:04,%Cc Rog 00018
+496290472680521728,2014-08-04 13:44:03,heap.push(3);
+496275374389878784,2014-08-04 12:44:04,Cvar_RegisterVariable (&amp;rcon_password);
+496260273981128705,2014-08-04 11:44:04,* hatching &gt; 99.9993%. Mimic that here.
+496245173446533120,2014-08-04 10:44:03,"if (!Blind) pline(""%s blinds you!"", Monnam(mtmp));"
+496230075894083584,2014-08-04 09:44:04,"Your type will be passed as `self` by-reference, and then the function should"
+496214973392367616,2014-08-04 08:44:03,"#include ""load_img.h"""
+496199877119180800,2014-08-04 07:44:04,"if ((mdef-&gt;wormno ? worm_known(mdef) : cansee(mdef-&gt;mx, mdef-&gt;my))"
+496184778136514560,2014-08-04 06:44:04,hack_artifacts(); /* redo non-saved special cases */
+496169677413175296,2014-08-04 05:44:04,* This routine changes the address of obj. Be careful not to call it
+496154578048811009,2014-08-04 04:44:04,/* trap.c */
+496139479783321602,2014-08-04 03:44:04,if (loss) /* magic bag lost some shop goods */
+496124375691972608,2014-08-04 02:44:03,#define F_HP 9
+496109276445028355,2014-08-04 01:44:03,dz = 0;
+496094179614015488,2014-08-04 00:44:04,"void nhcmdlayout_init( PNHCmdLayout p, PNHCmdPadCell cells );"
+496079077791793153,2014-08-03 23:44:03,"asm mov dx,[ss:bx+2] // take bit1 path"
+496063980864294912,2014-08-03 22:44:04,// cls has a property array - make a bigger one
+496048881038532609,2014-08-03 21:44:04,* and chain.
+496033780227145728,2014-08-03 20:44:03,"g_snprintf(buf, sizeof(buf), ""%s"", item-&gt;str);"
+496018679369592832,2014-08-03 19:44:03,adjust = (ob-&gt;obclass == p_godballobj)?(GODHAPT):(HAAPT);
+496003584212103169,2014-08-03 18:44:04,if (!mmrover)
+495988484499591168,2014-08-03 17:44:04,size=7;
+495973382190813185,2014-08-03 16:44:03,new-&gt;y = new-&gt;drawy = ob-&gt;y + offy;
+495958281513611264,2014-08-03 15:44:03,"int ramp2[8] = {0x6f, 0x6e, 0x6d, 0x6c, 0x6b, 0x6a, 0x68, 0x66};"
+495943182912606209,2014-08-03 14:44:03,else if ( (xintercept &gt;&gt; FRACBITS) == mapx)
+495928083053305856,2014-08-03 13:44:03,int what;
+495912982732623872,2014-08-03 12:44:03,M2_NOPOLY|M2_HOSTILE|M2_FEMALE|M2_STALK|M2_STRONG|M2_NASTY|
+495897882604867584,2014-08-03 11:44:03,totalChain += methodChain;
+495882785970982913,2014-08-03 10:44:03,//split3:
+495867684157128704,2014-08-03 09:44:03,"if (getSide(secnum,i,0)-&gt;sector-sectors == secnum)"
+495852586646667264,2014-08-03 08:44:03,"( int lump,"
+495837487814963200,2014-08-03 07:44:03,if((opcount = *wpt.w++) == 0)
+495822387834028032,2014-08-03 06:44:03,;| handler. |
+495807289035849728,2014-08-03 05:44:04,"Cmd_AddCommand (""toggleconsole"", Con_ToggleConsole_f);"
+495792186475446272,2014-08-03 04:44:03,"assert_eq!(local.tm_mday, 13_i32);"
+495777088696504320,2014-08-03 03:44:03,"#include ""rt_util.h"""
+495761988551995392,2014-08-03 02:44:03,"default: Sprintf(eos(buf),"" (%d time%s)"","
+495746889242116096,2014-08-03 01:44:03,"#[link(name = ""gcc"")]"
+495731791651930114,2014-08-03 00:44:04,............ ............. ....... .....................
+495716688575594498,2014-08-02 23:44:03,"save_room(fd, &amp;rooms[i]);"
+495701591836880896,2014-08-02 22:44:03,void() light_use =
+495686490794778624,2014-08-02 21:44:03,jmp initvars
+495671393586253824,2014-08-02 20:44:04,ent-&gt;v.absmax[1] += 1;
+495656294234464257,2014-08-02 19:44:04,fn into_ascii_lower(self) -&gt; String;
+495641192437415936,2014-08-02 18:44:03,pub fn floor(&amp;self) -&gt; Ratio&lt;T&gt; {
+495626092028641280,2014-08-02 17:44:03,void VWL_UpdateScreenBlocks (void);
+495610993024966656,2014-08-02 16:44:03,// Re-methodizing: check for more categories
+495595896097472512,2014-08-02 15:44:04,if ((verysmall(mtmp-&gt;data) || throws_rocks(mtmp-&gt;data) ||
+495580795302854656,2014-08-02 14:44:03,{\n \
+495565695103811584,2014-08-02 13:44:03,pinframe = (trivertx_t *)(pdaliasframe + 1);
+495550596393734144,2014-08-02 12:44:03,pub fn strlen(cs: *c_char) -&gt; size_t;
+495535495469105152,2014-08-02 11:44:03,static struct line_element *
+495520397392367616,2014-08-02 10:44:03,"breakobj(obj, bhitpos.x, bhitpos.y, TRUE, TRUE);"
+495505296094420993,2014-08-02 09:44:03,"SD_Play3D (SD_LIGHTNINGSND, 0, lightningdistance);"
+495490196524531712,2014-08-02 08:44:03,"/* 4*/ ""Info on what a given key does."","
+495475098728820736,2014-08-02 07:44:03,"pmtrace_t PM_PlayerMove (vec3_t start, vec3_t end)"
+495459999683182593,2014-08-02 06:44:03,int gends_ok = 0;
+495444901094764544,2014-08-02 05:44:04,// start up with id1 by default
+495429799280934912,2014-08-02 04:44:03,if(!uwep || !welded(uwep))
+495414699719421953,2014-08-02 03:44:03,"ItemStruct(ref struct_definition, ref generics) =&gt; {"
+495399602796122113,2014-08-02 02:44:04,"{3,1,3,0},"
+495384501233909761,2014-08-02 01:44:03,// and its superclasses.
+495369404398731264,2014-08-02 00:44:04,"|| (!strcmp(word, ""wield"") &amp;&amp;"
+495354304593936384,2014-08-01 23:44:04,EditColor();
+495339203740569601,2014-08-01 22:44:03,if (nonliving(youmonst.data) || Breathless)
+495324102832705537,2014-08-01 21:44:03,"y = min(currow,(LI - 1)); /* protection from callers */"
+495309002591703041,2014-08-01 20:44:03,errflag = 1;
+495293904414339073,2014-08-01 19:44:03,"set_residency(mtmp, FALSE);"
+495278807214215169,2014-08-01 18:44:04,extra_cx = (wrt.right-wrt.left) - sz-&gt;cx;
+495263703923974144,2014-08-01 17:44:03,CL_EmitEntities ();
+495248605100638209,2014-08-01 16:44:03,else page = new AutoreleasePoolPage(page);
+495233506503823360,2014-08-01 15:44:03,"pline(""This %s seems too hard to %s."","
+495218408552939520,2014-08-01 14:44:03,"Fprintf(stderr, ""Total of %d packed tiles written to %s.\n"","
+495203308605571072,2014-08-01 13:44:03,"GiveProtection(FL_AV,GetBonusTimeForItem(stat_asbesto),"
+495188207768961025,2014-08-01 12:44:03,lev++-&gt;typ = ROOM;
+495173109167955969,2014-08-01 11:44:03,memloop!(self.mem);
+495158011166732288,2014-08-01 10:44:04,// if a floor / ceiling plane is on the wrong side
+495142909097017344,2014-08-01 09:44:03,void CacheLayoutGraphics (void)
+495127812526067712,2014-08-01 08:44:04,"('\u03e2', '\u03e2'), ('\u03e4', '\u03e4'),"
+495112712138264576,2014-08-01 07:44:03,"('\u1e77', '\u1e77'), ('\u1e79', '\u1e79'),"
+495097610253123584,2014-08-01 06:44:03,if (rect.bottom()&gt;r.bottom()) {
+495082511907958784,2014-08-01 05:44:03,extern statetype s_hitlerdeathcam;
+495067411205615616,2014-08-01 04:44:03,fixed_t pixlowstep;
+495052313615413248,2014-08-01 03:44:03,"usercmd_t *cmd, *oldcmd;"
+495037215073124352,2014-08-01 02:44:04,"mov ds:dword ptr[-4+edi+ecx*2],edx"
+495022114345590785,2014-08-01 01:44:03,void DrawPlanes (void)
+495007017283883009,2014-08-01 00:44:04,"ptr::write(self.data.get_mut(pos), new);"
+494991915973357568,2014-07-31 23:44:03,} else if (!edog-&gt;mhpmax_penalty) {
+494976814767685633,2014-07-31 22:44:03,if (rnd1 &lt; -10)
+494961713704632321,2014-07-31 21:44:03,"0xc6e00bf33da88fc2ULL, 0xd5a79147930aa725ULL, 0x06ca6351e003826fULL, 0x142929670a0e6e70ULL,"
+494946615619502081,2014-07-31 20:44:03,li-&gt;x = SHORT(ml-&gt;x)&lt;&lt;FRACBITS;
+494931516657774593,2014-07-31 19:44:03,if( i == idx )
+494916416815251456,2014-07-31 18:44:03,(void) time((time_t *)&amp;clocktim);
+494901319581589505,2014-07-31 17:44:04,*cp++ = *cmd++ &amp;= ~0200;
+494886216421367809,2014-07-31 16:44:03,/** Gem_outrip **/
+494871118931849216,2014-07-31 15:44:03,"unsigned absdx,absdy;"
+494856020137869312,2014-07-31 14:44:03,used_up = TRUE;
+494840919859134464,2014-07-31 13:44:03,"char *suf[6] = {""rt"", ""bk"", ""lf"", ""ft"", ""up"", ""dn""};"
+494825821581094912,2014-07-31 12:44:03,/* showUartErrors() counters. */
+494810721629528064,2014-07-31 11:44:03,/* Modify to-hit depending on distance; but keep it sane.
+494795623372447744,2014-07-31 10:44:04,accelerator = choices[i]-&gt;ef_txt[matchlevel];
+494780522732982272,2014-07-31 09:44:03,"if (!restgamestate(fd, &amp;stuckid, &amp;steedid)) {"
+494765423628648448,2014-07-31 08:44:03,// newzibottom | newzi | fu
+494750322108420097,2014-07-31 07:44:03,"otmp = mksobj(LONG_SWORD, FALSE, FALSE);"
+494735221984886784,2014-07-31 06:44:03,* class choices and presenting them via a description
+494720123794882560,2014-07-31 05:44:03,if (gameready==false)
+494705025810444288,2014-07-31 04:44:03,"signal(SIGILL, signal_handler);"
+494689923753332736,2014-07-31 03:44:03,boolean res = TRUE;
+494674823650754561,2014-07-31 02:44:03,pub static ECONNRESET : c_int = 54;
+494659723770482689,2014-07-31 01:44:03,!already_in_rock) {
+494644629166645248,2014-07-31 00:44:04,"{ ""disclose"", ""the kinds of information to disclose at end of game"","
+494629527025635328,2014-07-30 23:44:03,sched.pool_id
+494614428990832643,2014-07-30 22:44:04,KX = 0;
+494599328473051136,2014-07-30 21:44:03,pub type MetaItem = Spanned&lt;MetaItem_&gt;;
+494584229884600320,2014-07-30 20:44:03,// This optimizes the case where none are set.
+494569126686629889,2014-07-30 19:44:03,/// A set is a group of objects which are each distinct from one another. This
+494554027943026689,2014-07-30 18:44:03,surface() returns an inappropriate string for a grave */
+494538929279082497,2014-07-30 17:44:03,let lo = cm.lookup_char_pos(sp.lo);
+494523830048935937,2014-07-30 16:44:03,clocklinked = 1;
+494508730630025217,2014-07-30 15:44:03,"match (it.next(), it.next()) {"
+494493632964354048,2014-07-30 14:44:04,for (n = 1; n &lt; 256; n++)
+494478530806550528,2014-07-30 13:44:03,"/* Try the role name, instead */"
+494463430246797312,2014-07-30 12:44:03,case WM_CTLCOLOREDIT:
+494448331947778049,2014-07-30 11:44:03,"468013216,468213440,468413600,468613632,468813568,469013440,469213184,469412832,"
+494433232625364992,2014-07-30 10:44:03,i += 1*8;
+494418134728966144,2014-07-30 09:44:03,if (IS_ROCK(levl[x][y].typ) || (levl[x][y].typ == ROOM) ||
+494403032806092800,2014-07-30 08:44:03,if (otmp-&gt;otyp == POT_FRUIT_JUICE) {
+494387932963553280,2014-07-30 07:44:03,"assert!(!((2.0f64, 2.0f64) &lt; (2.0, nan)));"
+494372834404495360,2014-07-30 06:44:03,"mov cl, [_Joy_ys]"
+494357735690207232,2014-07-30 05:44:03,"You_cant(""see where to gaze at %s."", Monnam(mtmp));"
+494342636141281280,2014-07-30 04:44:03,// V_MarkRect
+494327534956576768,2014-07-30 03:44:03,if (mo-&gt;info-&gt;deathsound)
+494312439203524608,2014-07-30 02:44:04,"Strcpy(post_engr_text, ""You hear crackling!"");"
+494297338790547456,2014-07-30 01:44:03,of you are larger than most of those in any cave complex you have
+494282238742499328,2014-07-30 00:44:03,WC_FONT_MAP | WC_FONT_MENU | WC_FONT_MESSAGE | WC_FONT_STATUS | WC_FONT_TEXT |
+494267137364865024,2014-07-29 23:44:03,"XtSetArg(args[0], XtNstring, &amp;s);"
+494252038755450881,2014-07-29 22:44:03,the(xname(xlock.box)));
+494236939785342976,2014-07-29 21:44:03,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACACCCCCAAACCCCCCCAAAAAAAAAAAAAAAAAAAAAAAAAAA
+494221840618127360,2014-07-29 20:44:03,#endif /* ASCIIGRAPH &amp;&amp; !NO_TERMS */
+494206740242907136,2014-07-29 19:44:03,} else if (maze_level) {
+494191642686271489,2014-07-29 18:44:03,"#[cfg(windows)] pub use types::os::arch::extra::{LPOVERLAPPED, SIZE_T, LPDWORD};"
+494176541338001410,2014-07-29 17:44:03,// Category discovery MUST BE LAST to avoid potential races
+494161440761462785,2014-07-29 16:44:03,snext = 16; // prevent round-off error on &lt;0 steps from
+494146340956684289,2014-07-29 15:44:03,idnum = atoi(Cmd_Argv(1));
+494131241596493824,2014-07-29 14:44:03,{ // MT_BARREL
+494116143691735040,2014-07-29 13:44:03,controlbuf[2]=dtime-&gt;dangle&lt;&lt;11;
+494101042125361152,2014-07-29 12:44:03,"('\u1eff', '\u1f07'), ('\u1f10', '\u1f15'),"
+494085945961234433,2014-07-29 11:44:03,0004:00017644+ _s_speardown5
+494070843220459521,2014-07-29 10:44:03,void I_UpdateSound( void )
+494055743755411456,2014-07-29 09:44:03,register boolean special;
+494040646068748288,2014-07-29 08:44:03,"Ok(f) =&gt; NumberValue(f),"
+494025547077648384,2014-07-29 07:44:03,"if (!auto_zone_set_write_barrier(gc_zone, (char *)base + offset, value)) {"
+494010448602476544,2014-07-29 06:44:03,if (cw-&gt;data) {
+493995346423742464,2014-07-29 05:44:03,case top:
+493980248028217345,2014-07-29 04:44:03,scantokey[ 50] = 'm';
+493965150131863552,2014-07-29 03:44:03,/* put attached ball&amp;chain back */
+493950049903472640,2014-07-29 02:44:03,ob-&gt;temp1 = -1;
+493934948597108736,2014-07-29 01:44:03,void A_VileStart();
+493919850642030592,2014-07-29 00:44:03,"Cmd_AddCommand (""cd"", CD_f);"
+493904748727517184,2014-07-28 23:44:03,"* extract_first is true, then the branch is already part of the list"
+493889652039106560,2014-07-28 22:44:03,"if (!rn2(4)) (void) destroy_mitem(mdef, POTION_CLASS, AD_FIRE);"
+493874550703419392,2014-07-28 21:44:03,"* stone to your left. If there is none, then point the first"
+493859450751836161,2014-07-28 20:44:03,ch=string[i];
+493844353815969792,2014-07-28 19:44:03,if (end_x &gt;= COLNO) end_x = COLNO - 1;
+493829252014678016,2014-07-28 18:44:03,player_axeb1 ();
+493814153765986304,2014-07-28 17:44:03,light += lightstep;
+493799054028333057,2014-07-28 16:44:03,row[curx] = row[curx+1] = '@';
+493783953263038464,2014-07-28 15:44:03,testTableFlags(Tbl_smoothHScrolling) ) {
+493768855312171008,2014-07-28 14:44:03,"assert_eq!(encode(""(""), ""("".to_string());"
+493753757533220864,2014-07-28 13:44:03,if (tempactor &amp;&amp; (tempactor-&gt;which == ACTOR) &amp;&amp;
+493738654540783616,2014-07-28 12:44:03,"255392,256208,257029,257855,258686,259522,260363,261209,"
+493723556220784640,2014-07-28 11:44:03,"""Go now, and take the Amulet to the astral plane. Once there, present"
+493708458068570112,2014-07-28 10:44:03,.globl C(R_Alias_clip_right)
+493693359417221121,2014-07-28 09:44:03,dam = 0;
+493678259935412224,2014-07-28 08:44:03,TyU64 =&gt; 0xffffffffffffffffu64
+493663157215592450,2014-07-28 07:44:03,"if (OBJ_AT(mx, my)) {"
+493648061131132928,2014-07-28 06:44:03,Some(r));
+493632959678017536,2014-07-28 05:44:03,y1 = y * ghack_glyph_height() - 1;
+493617858493304833,2014-07-28 04:44:03,"MONSTER:'@',""soldier"",(57,10)"
+493602760483667968,2014-07-28 03:44:03,char text[16]; /* display text */
+493587659194114048,2014-07-28 02:44:03,"POTION(""enlightenment"", ""swirly"", 1, 0, 20, 200, CLR_BROWN),"
+493572559485825024,2014-07-28 01:44:02,"unsigned char *pbase, *pdest;"
+493557461958557696,2014-07-28 00:44:03,ShutdownNetwork();
+493542364167045121,2014-07-27 23:44:03,"CLR_WHITE),"
+493527263850545152,2014-07-27 22:44:03,deq.extend(iterator);
+493512163685060608,2014-07-27 21:44:03,* Removes cls from the name =&gt; cls map.
+493497062659739648,2014-07-27 20:44:03,the view. The index of the very leftmost column is 0.
+493481966487228416,2014-07-27 19:44:03,"setvect (irqintnum,isr_8250);"
+493466866032312320,2014-07-27 18:44:03,schar trspe;
+493451765187350528,2014-07-27 17:44:03,static char amii_glyph_buffer[GLYPH_BUFFER_SIZE];
+493436666057854976,2014-07-27 16:44:03,jnz Lxl_done
+493421566727049216,2014-07-27 15:44:03,= IN_JoyButtons
+493406467907936256,2014-07-27 14:44:03,"exercise(A_WIS, (adjtruth &gt; 0));"
+493391368308658176,2014-07-27 13:44:03,"(void) signal(SIGHUP, (SIG_RET_TYPE) done_hangup);"
+493376269913190401,2014-07-27 12:44:03,// unsigned temp;
+493361168766214144,2014-07-27 11:44:03,"('\u0112', '\u0112'), ('\u0114', '\u0114'),"
+493346069179564032,2014-07-27 10:44:03,* The console-mode Nethack wants both keyboard and mouse input. The
+493330971429974016,2014-07-27 09:44:03,/* if the hero is levitating or not. */
+493315868605296640,2014-07-27 08:44:03,"txtscn = (byte *) W_CacheLumpNum (W_GetNumForName (""rotts10""), PU_CACHE);"
+493300772214288385,2014-07-27 07:44:03,register int iletct = 0;
+493285670325334017,2014-07-27 06:44:03,/// Returns `true` if the number is divisible by `2`
+493270569736224768,2014-07-27 05:44:03,unsigned int *olineptrs[2];
+493255472406102016,2014-07-27 04:44:03,int uid = getuid();
+493240370755809281,2014-07-27 03:44:03,healamount = ceil(healamount);
+493225272402268160,2014-07-27 02:44:03,"assert_eq!(deq.pop_front().unwrap(), b.clone());"
+493210173469884416,2014-07-27 01:44:03,tmpdungeon[n_dgns].branches = 0;
+493195076764704768,2014-07-27 00:44:04,for attr in krate.attrs.iter() {
+493179976595038209,2014-07-26 23:44:03,if (Levitation)
+493164876475686912,2014-07-26 22:44:03,amii_getret();
+493149775278407680,2014-07-26 21:44:03,winid st;
+493134676996145152,2014-07-26 20:44:03,F v k
+493119575593324545,2014-07-26 19:44:03,/* Shop ? */
+493104476518363136,2014-07-26 18:44:03,"Debug(""------------\n\n"");"
+493089376554201088,2014-07-26 17:44:03,|.....|.-------S--------S--|.
+493074279232471040,2014-07-26 16:44:03,if (gamestate.battlemode == battle_CaptureTheTriad)
+493059177951277056,2014-07-26 15:44:03,* ids are not restored until later.
+493044078633050112,2014-07-26 14:44:03,"OldFg = SetTextColor( hDC, nhcolor_to_RGB(CLR_BLACK));"
+493028978501107712,2014-07-26 13:44:03,"static const char rcsid[] = ""$Id: m_random.c,v 1.1 1997/02/03 22:45:11 b1 Exp $"";"
+493013881217101824,2014-07-26 12:44:03,if (roles[i].name.f) {
+492998782704164864,2014-07-26 11:44:03,/* SCCS Id: @(#)nhraykey.c 3.4 $Date: 2003/11/01 23:57:00 $ */
+492983681167134721,2014-07-26 10:44:03,"dfr_post_msg = strcpy((char *)alloc(strlen(post_msg)+1), post_msg);"
+492968582234771458,2014-07-26 09:44:03,"totalnonxms,totalxms,"
+492953483646341120,2014-07-26 08:44:03,// event loops.
+492938384382652416,2014-07-26 07:44:03,"83, 82, 81, 80, 79, 78, 77, 76, 75, 73,"
+492923282782683136,2014-07-26 06:44:03,fn test_bitxor() {
+492908181971279872,2014-07-26 05:44:03,"// care must be taken such that when an error is occurred, we"
+492893082921467905,2014-07-26 04:44:03,if (!autocam)
+492877983766814721,2014-07-26 03:44:03,makeknown(MAGIC_LAMP);
+492862885883019264,2014-07-26 02:44:03,= VGAClearScreen
+492847786283794432,2014-07-26 01:44:03,use core::int;
+492832684323110912,2014-07-26 00:44:02,"Message(""Commander Keen is also\n"""
+492817587051724800,2014-07-25 23:44:03,"{ CP_Active, ""\0"", '2', NULL },"
+492802486307414016,2014-07-25 22:44:03,"addl $12,%edx"
+492787386607472640,2014-07-25 21:44:03,"/// This performs no bounds checks, and it is undefined behaviour"
+492772288635633664,2014-07-25 20:44:03,angle = (FINEANGLES/20*leveltime)&amp;FINEMASK;
+492757189006983169,2014-07-25 19:44:03,picked_container(otmp); /* happens to do the right thing */
+492742091223867392,2014-07-25 18:44:03,"s = FixedMulShift(scale,sintable[angle],11);"
+492726989640699904,2014-07-25 17:44:03,"// Sbar_DrawSubPic (0,0,20,20,i*24, -16, sb_weapons[flashon][i]);"
+492711889559117824,2014-07-25 16:44:03,nobj = otmp-&gt;nobj;
+492696789469114368,2014-07-25 15:44:03,curr = seg;
+492681693078519808,2014-07-25 14:44:03,"/// The scheme part of a URL, such as `https` in the above example."
+492666591948337153,2014-07-25 13:44:03,"XMoveWindow(dpy, c-&gt;win, c-&gt;x, c-&gt;y);"
+492651492265164800,2014-07-25 12:44:03,origptr = &amp;palette1[start][0];
+492636394205237248,2014-07-25 11:44:03,pub mod net;
+492621293876162560,2014-07-25 10:44:03,"0u,"
+492606194209816576,2014-07-25 09:44:03,xdnstair = cc.x;
+492591094816071680,2014-07-25 08:44:03,"movl %ebx,sfracf"
+492575993874624512,2014-07-25 07:44:03,= top of virtual line with segment in proper place
+492560896120856576,2014-07-25 06:44:03,if (crosshair.value == 2) {
+492545794642554880,2014-07-25 05:44:03,return (next - begin() &lt; (end() - begin()) / 2);
+492530695852789760,2014-07-25 04:44:03,"@@L12: mov word ptr [bx],0 ; ... Hercules can't be ruled out"
+492515596752654336,2014-07-25 03:44:03,"You(""smack into something!"");"
+492500496746565632,2014-07-25 02:44:03,"#[cfg(not(target_os = ""ios"", target_arch = ""arm""))]"
+492485397977772033,2014-07-25 01:44:03,0001:0006671b+ utoa_
+492470298521116672,2014-07-25 00:44:03,#include &lt;sys\stat.h&gt;
+492455199978831873,2014-07-24 23:44:03,xl = (viletryx - bmaporgx - MAXRADIUS*2)&gt;&gt;MAPBLOCKSHIFT;
+492440099339370496,2014-07-24 22:44:03,"imul eax,esi"
+492424999991787520,2014-07-24 21:44:03,static TAG_FOUR_B: u8 = 0b1111_0000u8;
+492409899893399552,2014-07-24 20:44:03,"if (getsockname (net_socket, (struct sockaddr *)&amp;address, &amp;namelen) == -1)"
+492394801623752704,2014-07-24 19:44:03,m_state = m_keys;
+492379704301981696,2014-07-24 18:44:04,target-&gt;flags &amp;= ~MF_SOLID;
+492364603486400512,2014-07-24 17:44:03,if (n &gt; 0)
+492349503463505920,2014-07-24 16:44:03,Warning = 1;
+492334404023648256,2014-07-24 15:44:03,/* Only update if we need to. */
+492319305984643073,2014-07-24 14:44:04,// Returns : 0 == SUCCESS
+492304202472108032,2014-07-24 13:44:03,jz Lgs_lastspan
+492289104554774529,2014-07-24 12:44:03,"flood_fill_rm(i+1,sy-1,rmno,lit,anyroom);"
+492274005836328960,2014-07-24 11:44:03,stack-&gt;raiseWidget(2);
+492258907189161985,2014-07-24 10:44:03,fixed_t height = MAXINT;
+492243806142873600,2014-07-24 09:44:03,"For max cache size: clear_cache=0, slow_grow=0 */"
+492228705033654272,2014-07-24 08:44:03,return self.root.get(k);
+492213607787429888,2014-07-24 07:44:03,// reference to the inner data.
+492198508410449920,2014-07-24 06:44:03,* to close.
+492183406424637440,2014-07-24 05:44:03,"if ((trap = t_at(sx,sy)) &amp;&amp; trap-&gt;ttyp == STATUE_TRAP)"
+492168306724724736,2014-07-24 04:44:03,"GNOME_APP_UI_ITEM, N_(""Wipe face""),"
+492153207444213761,2014-07-24 03:44:03,ld-&gt;sidenum[1] = SHORT(mld-&gt;sidenum[1]);
+492138111489818624,2014-07-24 02:44:03,"memset(&amp;RANDOMACTORTYPE[0],0,sizeof(RANDOMACTORTYPE));"
+492123008350568448,2014-07-24 01:44:03,/* set poisoned */
+492107912643624960,2014-07-24 00:44:03,"{'&gt;', ""staircase down"", C(CLR_GRAY)}, /* dnstair */"
+492092810662014976,2014-07-23 23:44:03,if (found==0)
+492077713847767040,2014-07-23 22:44:04,"/* ""fix all troubles"" will keep trying if hero has"
+492062614210744320,2014-07-23 21:44:03,"statetype s_gundead = {false,GUNDEAD2,0,T_Collide,NULL,&amp;s_gundead};"
+492047514573737984,2014-07-23 20:44:03,if (!buf-&gt;cursize || buf-&gt;data[buf-&gt;cursize-1])
+492032413615542272,2014-07-23 19:44:03,"/* that's why they are ""stuck"" in the endgame :-) */"
+492017315236839425,2014-07-23 18:44:03,{ yylval.i=TOWN ; return(DESCRIPTOR); }
+492002212516986880,2014-07-23 17:44:03,const char *line;
+491987115803414528,2014-07-23 16:44:03,arti_invoke(obj)
+491972014144749569,2014-07-23 15:44:03,// Create translation table for global animation.
+491956917796110337,2014-07-23 14:44:03,"0,statptr-&gt;hitpoints,"
+491941817718673408,2014-07-23 13:44:03,}-------------------------------+-----------------------------}
+491926715485405184,2014-07-23 12:44:03,mutability = mut)
+491911616850825216,2014-07-23 11:44:03,e(fclose(t ) );P [p] .p =P[ p] .q;if (O)
+491896516270125057,2014-07-23 10:44:03,incy = ( clipy - oldy )/scrollcnt;
+491881418499584000,2014-07-23 09:44:03,reset_menu_to_default(mp);
+491866318736732160,2014-07-23 08:44:03,"possibly_unwield(mon, polyspot)"
+491851221582774273,2014-07-23 07:44:04,"You_feel(""self-knowledgeable..."");"
+491836121564086272,2014-07-23 06:44:03,sgn(u.ualign.type) == sgn(ptr-&gt;maligntyp))
+491821022493290496,2014-07-23 05:44:04,"!closed_door(sx,lsy) &amp;&amp;"
+491805920603955200,2014-07-23 04:44:03,short action;
+491790820136452096,2014-07-23 03:44:03,doomcom-&gt;remotenode = 0;
+491775721602560000,2014-07-23 02:44:03,"&amp;['\u5ddb']), ('\u2f2f', &amp;['\u5de5']), ('\u2f30', &amp;['\u5df1']), ('\u2f31', &amp;['\u5dfe']),"
+491760621009264640,2014-07-23 01:44:03,amt += 1;
+491745524979351556,2014-07-23 00:44:04,externdef _paintbuffer:dword
+491730424390242304,2014-07-22 23:44:03,vid_gamma = 0.7; // default to 0.7 on non-3dfx hardware
+491715323373314048,2014-07-22 22:44:03,|| viewplayer-&gt;powers[pw_invisibility] &amp; 8)
+491700224289947649,2014-07-22 21:44:03,mod os {
+491685123172339713,2014-07-22 20:44:03,// cmd.c -- Quake script command processing module
+491670025745727488,2014-07-22 19:44:03,// Set if homebrew PWAD stuff has been added.
+491654926075187201,2014-07-22 18:44:03,"if(carried(otmp)) useup(otmp); /* well, it's gone now */"
+491639827486752769,2014-07-22 17:44:03,"pline(""%s hits you with the %s corpse."","
+491624725941334016,2014-07-22 16:44:03,docrt(); /* this correctly will reset vision */
+491609627470352385,2014-07-22 15:44:03,// Raise Floor to next highest floor
+491594528080822272,2014-07-22 14:44:03,return [obj retain];
+491579429207171073,2014-07-22 13:44:03,Null =&gt; {
+491564329247182848,2014-07-22 12:44:03,if (it-&gt;laston &amp;&amp; !*it-&gt;on)
+491549229899603968,2014-07-22 11:44:03,/// was created from. This can be used for atomic-unlock-and-deschedule.
+491534132078718977,2014-07-22 10:44:04,"pub file: *libc::c_char,"
+491519031665778689,2014-07-22 09:44:03,"{ ""pedth"", false, 32, 0, -1, -1, 0 },"
+491503930439127041,2014-07-22 08:44:03,void() W_WeaponFrame =
+491488829556404226,2014-07-22 07:44:03,"""killed self with illegal reason of %d."", reason );"
+491473730032664577,2014-07-22 06:44:03,sp[1] = gd-&gt;Height + inc;
+491458632346001408,2014-07-22 05:44:03,levl[x][y].typ = CORR;
+491443532897738752,2014-07-22 04:44:03,// resample / decimate to the current source rate
+491428432140845057,2014-07-22 03:44:03,* USE_INVLET - Use object's invlet.
+491413333837619200,2014-07-22 02:44:03,when there is a monster there too. */
+491398233122672640,2014-07-22 01:44:03,0004:00072314 _gammaindex
+491383137126326273,2014-07-22 00:44:04,--num_commands;
+491368033756409856,2014-07-21 23:44:03,"IFont = (cfont_t * )W_CacheLumpNum (W_GetNumForName (""sifont""), PU_CACHE);"
+491352935658684416,2014-07-21 22:44:03,rank()
+491337838123028480,2014-07-21 21:44:03,if (hitsound)
+491322738213400576,2014-07-21 20:44:03,jl LClampLow3
+491307637481676800,2014-07-21 19:44:03,ds_p = drawsegs;
+491292536720592897,2014-07-21 18:44:03,if (angle)
+491277438987816960,2014-07-21 17:44:03,else if (vegetarian(&amp;mons[obj-&gt;corpsenm]))
+491262338637774848,2014-07-21 16:44:03,if (playeringame[i] &amp;&amp; players[i].health &gt; 0)
+491247241903218688,2014-07-21 15:44:04,/* check whether the target object is currently being put on (or taken off) */
+491232138046734336,2014-07-21 14:44:03,#define KEYPADHI 0x53
+491217040532049920,2014-07-21 13:44:03,LoadMenu[i].status = 1;
+491201940781793280,2014-07-21 12:44:03,"class_copyIvarList(Class cls, unsigned int *outCount)"
+491186842658955264,2014-07-21 11:44:03,#define YYMAXTOKEN 324
+491171743844028416,2014-07-21 10:44:03,if ((ob-&gt;z + (ob-&gt;momentumz &gt;&gt; 10)) &gt; (maxheight-12))
+491156644097978368,2014-07-21 09:44:03,else if (Keyboard[sc_E])
+491141543542398977,2014-07-21 08:44:03,Path::new(str::from_utf16(str::truncate_utf16_at_nul(buf))
+491126464059019264,2014-07-21 07:44:08,"return; // fighting, not following a path"
+491111343047856128,2014-07-21 06:44:03,"DefaultPath (lumppath,sourcepath);"
+491096245218578432,2014-07-21 05:44:03,/// generated items.
+491081144876949504,2014-07-21 04:44:03,(ob-&gt;flags &amp; FL_DESIGNATED) &amp;&amp;
+491066045248331777,2014-07-21 03:44:03,"newsym(mtmp-&gt;mx,mtmp-&gt;my); /* make sure the mon shows up */"
+491050945078648832,2014-07-21 02:44:03,"SetAPen( w-&gt;RPort, amii_msgAPen );"
+491035845504565248,2014-07-21 01:44:03,"value: PTHREAD_MUTEX_INITIALIZER,"
+491020745443901442,2014-07-21 00:44:03,_DATA DATA 0004:00028004 ! 00000d00
+491005647413321728,2014-07-20 23:44:03,"FOUNTAIN: (13, 7)"
+490990548397080577,2014-07-20 22:44:03,"s1 = P_PointOnDivlineSide (x1, y1, &amp;trace);"
+490975447837335553,2014-07-20 21:44:03,#define MAINCOLOR 0x6c
+490960349353762816,2014-07-20 20:44:03,pub static EPROGMISMATCH : c_int = 75;
+490945251293798400,2014-07-20 19:44:03,void DrawHealth (void)
+490930152575361026,2014-07-20 18:44:04,".map(|d| StmtDecl(d, id))"
+490915050996400130,2014-07-20 17:44:03,fn test_replace_2a() {
+490899948092006400,2014-07-20 16:44:02,"Path::new(""/tmp"")"
+490884852867432449,2014-07-20 15:44:03,start = SD_GASSTARTSND;
+490869750411853825,2014-07-20 14:44:03,int r = -1;
+490854654172233728,2014-07-20 13:44:03,"printf(""WARNING: The 8250 cannot handle port speeds above 57,600\n"""
+490839552211570688,2014-07-20 12:44:03,/* 3.4.0 introduced the ability to pick things up from within swallower's stomach */
+490824453237264384,2014-07-20 11:44:03,else ly = y;
+490809352857845760,2014-07-20 10:44:03,wearing several rings that bore jewels sparkling with the
+490794251014651904,2014-07-20 09:44:02,{new-&gt;flags |= FL_ABP;
+490779152820490240,2014-07-20 08:44:02,You are back at %H.
+490764053984604160,2014-07-20 07:44:03,char tmp_wizkit[BUFSZ];
+490748952732766208,2014-07-20 06:44:02,"""Rest In Pieces"","
+490733855209697280,2014-07-20 05:44:03,MH_HUMAN|MH_ORC | ROLE_MALE|ROLE_FEMALE |
+490718752951255040,2014-07-20 04:44:02,"if (!resist(u.ustuck, TOOL_CLASS, 0, NOTELL))"
+490703655423995905,2014-07-20 03:44:02,"pline(""%s laughs fiendishly."", Monnam(mtmp));"
+490688555724054528,2014-07-20 02:44:02,/* We always need two end-of-buffer characters. The first causes
+490677483445190656,2014-07-20 02:00:03,ModalFilterUPP filter = NewModalFilterUPP(ask_filter);
+490673285718605825,2014-07-20 01:43:22,static char **cs_rows;
+490673210724474880,2014-07-20 01:43:04,"You(""don't feel cold."");"
+490672824844288000,2014-07-20 01:41:32,"DOOR:locked,(32,12)"

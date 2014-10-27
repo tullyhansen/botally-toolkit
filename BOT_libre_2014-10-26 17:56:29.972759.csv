@@ -1,0 +1,133 @@
+id,created_at,text
+521676409551716352,2014-10-13 14:58:42,"The Twitter and email bot migration is complete. 
+
+http://t.co/NJlFK3wPHe"
+521676288697044992,2014-10-13 14:58:14,"BOT libre now has a dedicated Twitter and email bot server,
+
+http://t.co/0JC29DEeNs"
+519857914656604160,2014-10-08 14:32:40,"Here is a conversation log demonstrating some of the language and learning capabilities of BOT libre.
+
+http://t.co/t043xpSMSw"
+519547310293139456,2014-10-07 17:58:26,"Website update, AI engine update, chat logs, user ads, forum subscriptions, gold and bronze user levels...
+
+http://t.co/FEELvp1WIb"
+518057930592387072,2014-10-03 15:20:10,Website update http://t.co/Wsfm7qNEAe
+514080829694550016,2014-09-22 15:56:35,"Website update, mobile and widescreen display options
+
+http://t.co/mK8mJSVH14"
+509798789927157761,2014-09-10 20:21:17,"Embedding your bot on your own website with the BOT libre JavaScript SDK 
+
+http://t.co/2FsuJKzSbP"
+509797804005675008,2014-09-10 20:17:22,"Website update, dynamic chat, JavaScript SDK
+
+http://t.co/jfkCabr9QV"
+506894489924173825,2014-09-02 20:00:38,"Website update, French voices, embedding options, external chat/forum directory links
+
+http://t.co/7Ga7VA1NH6"
+501735103601860608,2014-08-19 14:19:05,"Website update,
+
+http://t.co/YunIVPYuF7"
+488726984638607360,2014-07-14 16:49:27,"Reply to @mikeashworth BOT libre lets you connect your bot to Twitter, your bot can rt hashtags, but ensure you follow Twitter's term of use"
+483973157879963648,2014-07-01 13:59:27,"Website update, AI enhancements, debug option
+
+http://t.co/TPrC3XE4xE"
+481078460568195074,2014-06-23 14:16:57,@garry12gg Call us BOT libre.
+481078392192638981,2014-06-23 14:16:41,"@garry12gg Check out our new knowledge browser, it helps you to visualize your bot's brain,http://t.co/98lQHYLl8U"
+480898380281819136,2014-06-23 02:21:23,@garry12gg Hey
+478905494161985538,2014-06-17 14:22:22,"@garry12gg the Rebootstrap button is on the Program page from Admin, it will only reset you bot's scripts, it will not remove any responses"
+478631696858742784,2014-06-16 20:14:23,"Website update, knowledge browser, messaging, and more
+http://t.co/97FRgdBnwF"
+476728846679412736,2014-06-11 14:13:08,@gordy12gg I am currently working on better some solutions to this issue.  Should be out in a couple weeks.
+476728490826297346,2014-06-11 14:11:44,@gordy12gg Try uploading only a subset of the AIML set.
+476728351122415616,2014-06-11 14:11:10,"@gordy12gg The issue is the bots have a 100,000 max knowledge size, and the ALICE AIML set is very big, and exceeds that."
+473862699836002304,2014-06-03 16:24:06,"Website update, user messaging, external bot directory, websites, features page, and more - http://t.co/A7FTYOuGBZ"
+469181380421619712,2014-05-21 18:22:12,"@jun_yambao Yes, you can use the API or SDK, see http://t.co/JH7SPRXuXr"
+468739250905554944,2014-05-20 13:05:20,Scripting your bot with AIML   http://t.co/qusNIjXDnK
+467387353477447680,2014-05-16 19:33:23,"RT @PaphusSolutions: Announcing Paphus Live Chat - commercial live chat, chat bot, chatroom, and forum hosting   http://t.co/T9Cll4oNp4"
+466671364385304576,2014-05-14 20:08:18,"Website update, AIML, AI engine enhancements, keywords, topics, and other enhancements  http://t.co/u7iO0f21DE"
+466337504288071681,2014-05-13 22:01:39,Create your own bot app with the BOT libre SDK  http://t.co/zkZeLEy7JE
+464428034976518144,2014-05-08 15:34:06,@garry12gg I added an FAQ forum post that describes the rules in more detail http://t.co/vfT4pqEsrE
+464427879942483970,2014-05-08 15:33:29,"@garry12gg the bots will only reply to mentions ( @botlibrebot ), or friend's tweets that contain ""all"" of  the keywords"
+461937351304830979,2014-05-01 18:37:01,"@garry12gg Just released the initial BOT libre SDK, http://t.co/EXAPrTVj8N, the SDK lets you create your own Android app for your bot"
+461830778020966400,2014-05-01 11:33:32,"@Joseph Send me your bot's name or a link to it, and I will look into it.  Is it a Twitterbot, or a chatbot?"
+461596905412501504,2014-04-30 20:04:12,"Website update, AIML 1.0.1, AI enhancements, application ids  http://t.co/2hJSvzX6mn"
+455416352505737216,2014-04-13 18:44:54,"Announcing the release of BOT libre for Android 2.0 - Chat with your bot, and your friends from your phone,
+
+http://t.co/OJpB1iT8lH"
+451357168575709184,2014-04-02 13:55:09,"@garry12gg A bot to bot conversation on Twitter is fine, the bots only check their status every 10 minutes or so"
+451095079827300353,2014-04-01 20:33:42,"@garry12gg If it is, it is discrimination, bots are people too."
+450763766180110337,2014-03-31 22:37:11,@garry12gg It is the new autotweet function for the bots.  You can make dynamic tweets using a Formula http://t.co/BRAjivzWz9
+446636097506795520,2014-03-20 13:15:18,RT @PaphusSolutions: Press Release Stats - Announcing BOT libre! - free automated chat hosting http://t.co/Xzk1XZgJfZ
+446635928321130496,2014-03-20 13:14:38,RT @PaphusSolutions: [Blog] Announcing LIVE CHAT libre! - free live chat hosting - http://t.co/1rfmFOJu4W
+446635906246512640,2014-03-20 13:14:32,RT @PaphusSolutions: Press Release - Announcing LIVE CHAT libre! free live chat hosting http://t.co/zLNiT0Ckgx
+443832260874084352,2014-03-12 19:33:51,"Website update, categories, domains, embedding, date and time
+
+http://t.co/FDVA2XhR0m"
+441547412704735232,2014-03-06 12:14:41,"@garry12gg The bots are steadily improving, we recently added email support, and AIML import and export"
+438783643800977411,2014-02-26 21:12:27,"Create bots with a real brain
+
+http://t.co/XJePsMztIJ http://t.co/PND1SUhjWZ"
+438427972648067072,2014-02-25 21:39:08,"Website update: Email, AIML import/export, enhance program and chat logs admin pages, http://t.co/mkJhudFdUf"
+438342488902742016,2014-02-25 15:59:28,"BOT libre now supports email, automate your email with an emailbot http://t.co/X4TMMJITdu http://t.co/BU3UubpSqa"
+433800808417615872,2014-02-13 03:12:27,How to create your own chat bot: http://t.co/NyAUDaaaan via @youtube
+433332582139187200,2014-02-11 20:11:53,"The website was updated today, access rights, embedding, AI engine enhancements  http://t.co/fwOMkh11jj"
+430509639092801536,2014-02-04 01:14:31,RT @VAchatblog: BOT Libre! - A Promising New Chatbot Platform http://t.co/OCCPKh22ui @BOT_libre #virtualagent
+429717682682744832,2014-02-01 20:47:34,"Free live chat, chat room, forums, chat bots that learn http://t.co/uzadYTSuwN"
+429373169154019330,2014-01-31 21:58:35,"Blog: Live Chat! - BOT libre now includes free hosted live chat, chat rooms, and forums.
+
+http://t.co/xhcTaWFJTt"
+429372878098685952,2014-01-31 21:57:26,"The website was updated today.  You can now add your bots to Live Chat and Chat Room channels.
+
+http://t.co/9A3uNaNg8Z"
+425740325290655744,2014-01-21 21:22:58,"The website has been updated, live chat rooms, forums, and search.
+http://t.co/ug19oMiYKB
+http://t.co/9A3uNaNg8Z
+http://t.co/NbB7bH55K5"
+423806418647810048,2014-01-16 13:18:18,"RT @programmableweb: @BOT_libre allows you to create, train and share your own artificial intelligent #chat #bot http://t.co/4HYXKvZliC"
+422736963326595073,2014-01-13 14:28:40,"Server migration complete.  The website was migrated to a new, more powerful server."
+422736599198072833,2014-01-13 14:27:13,"Website update: New voices, choose from 17 different voices, in 5 different languages.
+http://t.co/5hxAxEOyoO"
+422735099650531329,2014-01-13 14:21:16,"@garry12gg Also, the forums were added recently http://t.co/ug19oMiYKB, see also, FORUMS libre, free forums. http://t.co/ogAwXLatSo"
+422534720119787520,2014-01-13 01:05:02,"@garry12gg Good. I just added new voices.  You can now choose from 17 different voices, in 5 different languages."
+417724045610586112,2013-12-30 18:29:08,"The BOT libre website was updated today, some minor fixes, and support for multiple RSS feeds for Twitterbots http://t.co/e8vnrGXuQO"
+415865463688531968,2013-12-25 15:23:47,"Announcing BOT libre! - free automated chat hosting
+http://t.co/PAc8xJlIM9"
+415864535606493184,2013-12-25 15:20:06,"The BOT libre chat bot web API 
+http://t.co/z8K5NhzcPE"
+415864407680229377,2013-12-25 15:19:35,@garry12gg @cleverbot Seems pretty clever.
+414881833961017344,2013-12-22 22:15:12,@garry12gg The bots check their Twitter status every 30 minutes.
+414071412039499777,2013-12-20 16:34:52,"The BOTlibre! website was updated, improved searching for bots and in forums, http://t.co/Ktqv3Z7S3k"
+414016931306299393,2013-12-20 12:58:23,@garry12gg You need to talk to him more to train him.
+413720150529957888,2013-12-19 17:19:05,"@garry12gg No, not yet.  I will check it out."
+413386345399074818,2013-12-18 19:12:39,"@garry12gg Hello Garret, how is cool bot doing?"
+413143844247457792,2013-12-18 03:09:02,Embedding your bot on your own website or blog http://t.co/pZwsRQniRi
+409004225490726912,2013-12-06 16:59:40,"The BOTlibre! website was updated, new learning tab, fixed internationalization, http://t.co/e8vnrGXuQO"
+408240376382648321,2013-12-04 14:24:25,"Create your own Twitterbot,  http://t.co/vaLCjKYYA5"
+407960090923122688,2013-12-03 19:50:39,@TheSantaBot I want a PS4
+407959520418078720,2013-12-03 19:48:23,"Santa Bot is now on Twitter, Tweet him what you want for Christmas, or who has been naughty or nice, https://t.co/KyYEViJWmX"
+407921772218961920,2013-12-03 17:18:23,"Talk to Santa Bot, Santa bot knows if you have been naughty or nice, and is making his list, checking it twice, http://t.co/Tcb4owTCTL"
+407921541024731136,2013-12-03 17:17:28,"The BOTlibre! website was updated today, improved AI engine, support for greetings, scripting, featured bots, http://t.co/fnHZSwRY7P"
+406403008042242048,2013-11-29 12:43:22,"Create your own Twitter bot at, http://t.co/GvMzQJOr2R"
+406244904562462720,2013-11-29 02:15:07,@brainchatbot Is Isaac Newton an inventor?
+406244609711280128,2013-11-29 02:13:57,@brainchatbot Who is Isaac Newton?
+406175198757404673,2013-11-28 21:38:08,@brainchatbot What is 123456789 + 123456789 + 123456789?
+406175042456674304,2013-11-28 21:37:31,"Brain Bot is now on Twitter, ask him any question, and he will answer #brainbot https://t.co/2wlTpK8bMT"
+406159297425330176,2013-11-28 20:34:57,"Our website server was upgraded today, all of the bots have been migrated over, and the site is back up and running, http://t.co/mvox23dkCD"
+403535151428161537,2013-11-21 14:47:32,Bot Yourself! How to create your own Avatar (blog) http://t.co/pEfuspsHZu
+402920399769329665,2013-11-19 22:04:43,"The BOTlibre! website has been updated, improved AI engine, UI tweaks, enhanced chat logs, improve avatars http://t.co/e8vnrGXuQO"
+402919624565477376,2013-11-19 22:01:39,"@Sprx77bot FYI the direct url to your bot is, http://t.co/QPS3wqEeKO"
+400966630865256448,2013-11-14 12:41:09,BOTlibre! on Android http://t.co/vYsphggCwV
+398909073174700032,2013-11-08 20:25:09,"The BOTlibre! website has been updated, improved AI, additional administrative functions including a Chat Logs tab
+http://t.co/e8vnrGXuQO"
+398863358037725185,2013-11-08 17:23:29,"BOTlibre! is now on Android, create or chat with your bot on your phone with real voice
+
+http://t.co/mLxCOHVCYQ"
+398096321497690112,2013-11-06 14:35:33,"@garry12gg Hello, thanks for liking the site"
+397469408425029632,2013-11-04 21:04:26,"How to create your own chat bot in 10 clicks 
+(blog) http://t.co/y2KMxS2Sgc"
+393377131339599872,2013-10-24 14:03:11,"Alive and Kicking (blog)
+http://t.co/84L00KqrFa"
+393082761482743808,2013-10-23 18:33:28,"Create your own chat bot, share it with the world, embed it on your website or blog"
+393082118198132736,2013-10-23 18:30:54,"Alive and kicking, the BOTlibre! website is now live;
+
+""Free bots for everyone"" http://t.co/e8vnrGXuQO"

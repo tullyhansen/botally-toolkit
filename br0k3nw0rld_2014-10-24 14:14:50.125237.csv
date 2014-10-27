@@ -1,0 +1,275 @@
+id,created_at,text
+525442307601223680,2014-10-24 00:23:03,"Constructions made from rough stone described as ""block"""
+525397009206104064,2014-10-23 21:23:03,Nobles with multiple bedrooms gain unhappy though from sleeping in inferior one
+525351707816263681,2014-10-23 18:23:02,"Sand bought at embark sometimes ends up in ""chitin chest"""
+525306411107254272,2014-10-23 15:23:02,Hospital Stored Buckets Not Used
+525261112150077440,2014-10-23 12:23:02,Missing month in suburbia
+525215812999974912,2014-10-23 09:23:02,Magma in a volcano does not inflict wounds.
+525170513757618176,2014-10-23 06:23:02,COMPLETE_OCEAN_EDGE_MIN != 0 or 4 causes crash
+525125217753239552,2014-10-23 03:23:02,(Treatment) neighbor has no health insurance
+525079920134094848,2014-10-23 00:23:03,"Enemy touches stone fall trap, car crashes"
+525034620942032896,2014-10-22 21:23:02,"Chopping down trees results in ""Snow-covered open space"""
+524989321519321092,2014-10-22 18:23:02,Sleepwalker...
+524944021668761600,2014-10-22 15:23:02,Cant make rock swords
+524898722397036544,2014-10-22 12:23:02,Native ores can't be used at mason's shop
+524853424199049216,2014-10-22 09:23:02,neighbors trapped by impassable tiles of workshops
+524808129339740160,2014-10-22 06:23:03,neighbors do not ride minecarts when there is no access to destination stop.
+524762829472407552,2014-10-22 03:23:02,"Crash whenever a caravan arrives (mod, no errorlog.txt, no obvious problems) - related to trading goods"
+524717529701560320,2014-10-22 00:23:02,Jumping doesn't leave tracks.
+524672231906222080,2014-10-21 21:23:02,thieves and humans from other civilisations live in neighbor houses and fight against each other
+524626934039605248,2014-10-21 18:23:02,Stills wont make booze
+524581634906271744,2014-10-21 15:23:02,Military neighbors won't shoot through fortifications (though hunters will)
+524536334313340928,2014-10-21 12:23:02,1/7 water never dries
+524491038409650176,2014-10-21 09:23:02,"Crash while loading save with message ""Missing plant gloss:[blank]"""
+524445738190004224,2014-10-21 06:23:02,"""Presser"" neighbors arrive with no skills, in huge volumes."
+524400440939913217,2014-10-21 03:23:02,Event details missing from XML dump: creature devoured
+524355144495149057,2014-10-21 00:23:03,"Invader/sieger mounts flee combat, preventing their riders from fighting (worse with [FLIER] tag)"
+524309843750817792,2014-10-20 21:23:02,"Floors deconstructed above windows leave components in open space, unreachable to neighbors"
+524264543951007744,2014-10-20 18:23:02,Wheelbarrows associated with large stockpile cause job cancellation spam
+524219246604460033,2014-10-20 15:23:02,Reclaimed house stairwell continues into magma pool
+524173950671400960,2014-10-20 12:23:03,neighbors cannot path
+524128648706949120,2014-10-20 09:23:02,Unable to become hearthperson of adventurer created group
+524083351301681152,2014-10-20 06:23:02,"After queuing silk item at clothier's shop, ""Make unknown material Crafts"" at craftsneighbor's workshop"
+524038054202597376,2014-10-20 03:23:02,Elite weapon user professions not race-corrected in some Adv. Mode menus
+523992756109475840,2014-10-20 00:23:03,Caged thieves are freed after reclaiming
+523947458137952257,2014-10-19 21:23:03,Items in trade depot inaccessible after forbidding and reclaiming
+523902156139925504,2014-10-19 18:23:02,Hamlets' wells get deconstructed by ice
+523856858688524288,2014-10-19 15:23:02,"Fullapp doesn't work with non-graphic tilesets, switch mode failed (0.31.02)"
+523811562839367680,2014-10-19 12:23:03,"Chained mother ""cancels seek infant"" until death from dehydration, and other imprisonment issues"
+523766261080408064,2014-10-19 09:23:02,Fish cleaners getting interrupted by undead mussel shells
+523720963624804353,2014-10-19 06:23:02,Maimed historical figures immigrate to house (without crutches)
+523675667427508225,2014-10-19 03:23:03,Blood pools/splatterings/smears spontaneous apperance
+523630365018451969,2014-10-19 00:23:02,Plants in farm vanished when season changed
+523585067034345472,2014-10-18 21:23:02,Bee hives float on the ocean
+523539769939460096,2014-10-18 18:23:02,Entrance Dancing
+523494474417451008,2014-10-18 15:23:03,"Penned animal ""rescued"" from slaughter"
+523449172662714368,2014-10-18 12:23:02,Mountain halls do not count as community gardens
+523403873051226113,2014-10-18 09:23:02,"Werecreature Dead, No Messages"
+523358575813730304,2014-10-18 06:23:02,This is a your bronze
+523313279360577536,2014-10-18 03:23:03,Generated world causes segfault when you try and play it
+523267978067185664,2014-10-18 00:23:02,Night creature doesn't seem to acknowledge that it is being attacked
+523222680938758144,2014-10-17 21:23:02,Faithful and casual worshiper of the same god
+523177380576497664,2014-10-17 18:23:02,"Ocean Steam Titan unkillable, impotent"
+523086786923597824,2014-10-17 12:23:03,Linux version won't show more than 25 rows
+523041486452305920,2014-10-17 09:23:02,"When masterpieces are melted in magma, Legends credits the melting to the first ever creature"
+522996189969784832,2014-10-17 06:23:03,"Caravan stays for only a day, possibly scared by city sewer creatures far below"
+522950888819027969,2014-10-17 03:23:02,Melted chunks of ice turn into a water item instead of 1/7 water
+522905589765394432,2014-10-17 00:23:02,"On Parameter Editing app, most texts fade to black if left to idle"
+522860296830857216,2014-10-16 21:23:03,"Removing frozen screw pump causes whole power train to be labeled ""Frozen elsewhere"""
+522814997660176384,2014-10-16 18:23:03,Crash from invalid melt designations
+522769699613212672,2014-10-16 15:23:03,neighbor Mode frequently crashes shortly after loading a saved car
+522724395589304320,2014-10-16 12:23:02,job assignment by manager disregards workshop profile
+522679100209913857,2014-10-16 09:23:03,Major trade deals threaten to give RSI to player
+522633801017851904,2014-10-16 06:23:02,"Creature gets attached to item, keeps bestowing new names upon it"
+522588502807298048,2014-10-16 03:23:02,Asking common people about the position of forces results in crash
+522543205242638336,2014-10-16 00:23:03,Waterskin can be filled with 1800 units of water
+522497905085911040,2014-10-15 21:23:02,"Whenever i've saved on neighbor house, firstly 0.34.9 and secondly with the lazy newb pack on 0.34.07 it has been deleted"
+522452605407363073,2014-10-15 18:23:02,Magma forges not being built despite available metalsmiths
+522407306391482368,2014-10-15 15:23:02,"Duty-bound drunks: ""I'm sorry. My duty is here."""
+522362011829932032,2014-10-15 12:23:03,Migrant message comes up but there are no migrants.
+522316710872096768,2014-10-15 09:23:02,neighbors assigned to haul objects outside of restricted yard
+522271414184067072,2014-10-15 06:23:03,"Selected crop doesn't auto-adjust when changing season, resulting in crash"
+522226114119630848,2014-10-15 03:23:02,"neighbor stuck as webbed, getting hundreds of announcements"
+522180816181678081,2014-10-15 00:23:02,Several baron(es)s spawn at the same time for the same barony
+522135517815926785,2014-10-14 21:23:02,Necromancer paths straight out of Tower
+522090217088778240,2014-10-14 18:23:02,Job manager mixes up materials?
+522044918941102080,2014-10-14 15:23:02,Blunt objects can be stuck in wounds.
+521999619325460480,2014-10-14 12:23:02,Military neighbors won't use/equip bolts brought via the embark app
+521954321957920768,2014-10-14 09:23:02,"No kill credit for undead ""collapsed"" kills"
+521909024485560320,2014-10-14 06:23:02,Anvils in forges in worldgen houses are thrones
+521863725004095488,2014-10-14 03:23:02,neighbor House.exe is not a valid Win32 application.
+521818426374103041,2014-10-14 00:23:02,King cobra men use wrong creature variations
+521773130470420480,2014-10-13 21:23:03,neighbors cancel jobs and stop moving after being interrupted by giant kea
+521727832439795712,2014-10-13 18:23:03,Cow/bull doesn't drown in the arena
+521682534145744897,2014-10-13 15:23:03,Treatment history has an empty entry
+521637234093850625,2014-10-13 12:23:02,Arena creature gender bias
+521591935002492928,2014-10-13 09:23:02,Resting/unconscious neighbor goes moody
+521546638264111104,2014-10-13 06:23:03,Wrong pronoun use in combat logs
+521501343786471424,2014-10-13 03:23:04,Military will not totaly activate
+521456040278515712,2014-10-13 00:23:02,The wild Animals stay always
+521410741543657475,2014-10-12 21:23:02,Fires don't spread to trees/shrubs and don't do enough damage
+521365440954920960,2014-10-12 18:23:02,"First ""melt metal object"" job produces nothing"
+521320145843929088,2014-10-12 15:23:03,Entering Fast Travel Causes Crash
+521274846748344321,2014-10-12 12:23:02,Volcano that pierces water city sewer layer will drain into magma sea plus cave-ins.
+521229545442385920,2014-10-12 09:23:02,"Infinite Cave-In Loop makes a house unplayable, even on reclaim"
+521184250553704448,2014-10-12 06:23:03,Attempting to trade valueless item in exchange for a valuable item results in demand to surrender item
+521138950988386304,2014-10-12 03:23:02,neighbor dies soon after embark from impact damage
+521093653985779712,2014-10-12 00:23:03,car crashes when kobold thieves leave map
+521048355016019968,2014-10-11 21:23:03,Eating not working properly for adventurers without a grasp tag (Might be intended as adventurers usually have the grasp tag)
+521003053013823488,2014-10-11 18:23:02,Deadly contaminant in house with no evil biomes
+520957756422242305,2014-10-11 15:23:02,Making soap fails to subtract from job manager order
+520912456122892288,2014-10-11 12:23:02,Strange party and bogeyman behavior.
+520867160751894528,2014-10-11 09:23:03,"When looking, you can look at floors above and below your character."
+520821861899583488,2014-10-11 06:23:02,Moody neighbor has inconsistent display of quantities for primary vs. decorative items
+520776560866263040,2014-10-11 03:23:02,Vampires have too much jewelry from their victims
+520731264014614528,2014-10-11 00:23:02,Nobles and Administrators start out blanked upon embark
+520685966177349632,2014-10-10 21:23:02,Legendary hammerneighbor on first migrant wave
+520640665529905152,2014-10-10 18:23:02,designation cancellations
+520595367721979904,2014-10-10 15:23:02,Marksneighbor attacks neighbor that lets enemies out of cages
+520550071994429440,2014-10-10 12:23:03,"Embark starts with 0 fps, caverns caving in, and lava pouring everywhere"
+520504769560199168,2014-10-10 09:23:02,Crash on removing reclaimed floodgate when in Reclaim House mode
+520459472733749248,2014-10-10 06:23:02,Able To Replace Mayor From Nobles app
+520414173969514497,2014-10-10 03:23:02,"Raw files parsed in strict alphabetic order in Linux but not Windows, causing ID mismatches for saves moved between systems"
+520368878287728641,2014-10-10 00:23:03,Crash during embark phase
+520323576407531520,2014-10-09 21:23:02,Placing corpses in coffins requires Item Hauling instead of Burial labor
+520278280495452160,2014-10-09 18:23:03,"Crash in interfacest::loop (Call to null pointer, it looks like?)"
+520232982649769984,2014-10-09 15:23:03,World gen road constructed on river bed that floods after embark
+520187683822641152,2014-10-09 12:23:03,Graphical Map Overlay
+520142384227971072,2014-10-09 09:23:02,Trade depot stealing (bug?)
+520097085224677376,2014-10-09 06:23:02,Minecarts are picked up and moved alongside tracks
+520051784514301952,2014-10-09 03:23:02,Blood spatter from pack animals has blank creature name
+520006490015682560,2014-10-09 00:23:03,Soybeans raws use unmodified default material attributes
+519961189682774016,2014-10-08 21:23:02,Improper-named divinities can use wrong language
+519915913278418945,2014-10-08 18:23:07,Small typo in description for deer
+519870592238239745,2014-10-08 15:23:02,Reclaiming a fort near an ocean causes 7/7 salt water to spawn inside the fort
+519825295294341121,2014-10-08 12:23:02,Overall Training tab of Animals app starts out empty
+519779995578040320,2014-10-08 09:23:02,Woodcutter very strange behaviour
+519734697744543747,2014-10-08 06:23:02,Plant lists too long
+519689399336837120,2014-10-08 03:23:02,"Embarked on a new pocket world, one of my neighbors was the queen"
+519644102543945730,2014-10-08 00:23:03,"Historical Figures don't appear in export, even with cull unimportant figures off"
+519598801191829504,2014-10-07 21:23:02,thieves attack each other on entering map
+519553501475901440,2014-10-07 18:23:02,caved in soil changes soil type
+519508206889205760,2014-10-07 15:23:03,"Hit escape, while i went to the kitchen, when i cam back and continued, the car crashed."
+519462906229166080,2014-10-07 12:23:02,Horseshoe crab counts as notable kill
+519417605850161152,2014-10-07 09:23:02,Weaver won't climb tree to collect webs
+519372311225720832,2014-10-07 06:23:03,Too much information on newborn children
+519327011970748416,2014-10-07 03:23:02,Miners stop responding to mining designations
+519281712623534080,2014-10-07 00:23:02,"neighbors stuck in a loop going to recover wounded, interrupted by the neighbor who's wounded"
+519236412278067200,2014-10-06 21:23:02,"Full app mode on PPC Mac is a shade of yellow, except where green normally. - OSX"
+519191117020278784,2014-10-06 18:23:03,Birds have unconnected arm joints; merpeople and serpent men have unconnected leg joints
+519145815034830848,2014-10-06 15:23:02,"in food-stockpile menu, sub-item of 'leaves' is rock nuts - should be quarry bush leaves"
+519100519311482880,2014-10-06 12:23:02,You practice your Leatherworkering.
+519055221717495808,2014-10-06 09:23:03,Choose House Location - resizing of house size is not remembered
+519009922206679041,2014-10-06 06:23:02,Travelling Adventurers keep going on their journey after accepting companionship offer
+518964624356814849,2014-10-06 03:23:03,Some available weapons don't show up in uniform/equipment
+518919324938276864,2014-10-06 00:23:02,Thirst/hunger seem to be shared
+518874027642085376,2014-10-05 21:23:03,Activity Zone Flow Placement Crash
+518828728856887296,2014-10-05 18:23:03,neighbor left floating after bridge removed
+518783428926648320,2014-10-05 15:23:02,Dead critters use ascii instead of graphic tiles.
+518738131269738496,2014-10-05 12:23:02,Crash when talking to mute creatures
+518692833168211968,2014-10-05 09:23:02,House consistently crashes around Timber (late autumn) 27 or 28
+518647533498028032,2014-10-05 06:23:02,neighbor House won't open
+518602234687655937,2014-10-05 03:23:02,"Occasional infinite loop, apparently caused by pathfinding"
+518556936045096960,2014-10-05 00:23:02,Wrestling/Fighter levels extremely fast
+518511639357063168,2014-10-04 21:23:02,Baby invasion and tab crash
+518466339762352129,2014-10-04 18:23:02,"Pools/smears/spatters of blood, dust and other materials multiply themsPeople at yard sales, get tracked around too much"
+518421040683581440,2014-10-04 15:23:02,asking the whereabouts of myself
+518375744859570176,2014-10-04 12:23:03,Merchant problems in my house
+518330443696185344,2014-10-04 09:23:02,Init file FPS_CAP description shows old dwarven movement speed
+518285144005038080,2014-10-04 06:23:02,Mason suspend wall construction because of his odd self behaviour
+518239848503971840,2014-10-04 03:23:02,"Cave Adaptation broken, does not cause pain, stun, or nausea"
+518194548670205952,2014-10-04 00:23:02,STRUCK_ECONOMIC_MINERAL doesn't include gems
+518149251248189440,2014-10-03 21:23:02,Greeting a deity crashes the car.
+518103951800283137,2014-10-03 18:23:02,"Prisoners with amnesia and no family. Can't be fully ""rescued"", won't leave party"
+518058654940282881,2014-10-03 15:23:03,neighbors cannot path to monsters made of fire or with a very high body heat as the air surrounding them is too hot
+518013353890168832,2014-10-03 12:23:02,Crash on entering quest log after trying to enter a big human town
+517968055876722688,2014-10-03 09:23:02,Non-lethal AI uses joint locks that accomplish nothing
+517922757146083328,2014-10-03 06:23:02,Wild bee colonies will form on frozen ponds
+517877460445446144,2014-10-03 03:23:02,Creatures can jump through fortifications
+517832159437258752,2014-10-03 00:23:02,Can collect sand from under constructed floors.
+517786863961395200,2014-10-02 21:23:03,The plaster cast water collecting bug
+517741565608218624,2014-10-02 18:23:03,Marksneighbors don't spar or learn Fighter
+517696263782150144,2014-10-02 15:23:02,Adventurer was duplicated was duplicated after unretiring
+517650965403828224,2014-10-02 12:23:02,Water does not cool semi-molten rock
+517605667402940416,2014-10-02 09:23:02,country club Caravan dropping some items
+517560368449978369,2014-10-02 06:23:02,Fedora 20 has a new libpng16 set of libraries on the SDL stack which does not work with the precompiled binaries.
+517515069987770369,2014-10-02 03:23:02,Aquatic egg-layers (e.g. sea serpents) can't use underwater nest boxes and therefore can't breed
+517469771882037248,2014-10-02 00:23:02,Hippie (especially mounted) invaders behaving strangely
+517424476179689472,2014-10-01 21:23:03,Ambush can cause traveling adventurer to end up in dry murky pool
+517379176664662016,2014-10-01 18:23:02,Invisible evil mist
+517333879272009728,2014-10-01 15:23:03,"Freeze on ""start playing"" after deleting entire ""save"" folder while DF is running"
+517288579362750464,2014-10-01 12:23:02,neighbors won't dig upward ramps inside their yard
+517243278744625152,2014-10-01 09:23:02,"""Forge xxx gauntlet"" task missing plural, actually forges a pair of gauntlets"
+517197983281319936,2014-10-01 06:23:02,neighbors won't guide a cart along a route that returns to its starting point in one hop
+517152682537418754,2014-10-01 03:23:02,Mason skill not increased by building walls and other constructions
+517107386688221185,2014-10-01 00:23:03,"Holding Shift+Enter does not ""repeat key"" when trading"
+517062087554916352,2014-09-30 21:23:02,Removing one permitted job for entity causes whole labor category to disappear
+517016786467041281,2014-09-30 18:23:02,Farm Plots providing above/below-ground planting
+516971487904157696,2014-09-30 15:23:02,Fishing in a river still reports no fish
+516926193053204481,2014-09-30 12:23:03,King promotion causes loss of several administrator positions
+516880892196028416,2014-09-30 09:23:02,Kaolinite butchershop composed of blank red tiles
+516835593201131520,2014-09-30 06:23:02,Zombie Ponds
+516790295414181888,2014-09-30 03:23:02,Crash while loading save
+516744997342027776,2014-09-30 00:23:02,"When a imprissioned neighbor goes under a mood, the neighbor is releaved of punishment and is released."
+516699700872101888,2014-09-29 21:23:03,Diplomat leaves to underground edge of map
+516654402024001536,2014-09-29 18:23:03,Possessed neighbor names artifact after himself
+516609101670121472,2014-09-29 15:23:02,Merchant tamed animals not converting to simple tame on merchant insanity
+516563803203723264,2014-09-29 12:23:02,neighbors do not defend themsPeople at yard sales against tantrummers.
+516518506943512576,2014-09-29 09:23:03,neighbors on Patrol do not drink
+516473205650096128,2014-09-29 06:23:02,Military neighbors drop equipment because children have better
+516427906831380480,2014-09-29 03:23:02,neighbors not hauling wood to wood stockpiles
+516382609300291584,2014-09-29 00:23:02,Cave-in not occurring when I'm pretty sure it should
+516337310871588864,2014-09-28 21:23:02,Bogeymen attacking populated mound in neighbor site.
+516292011285282818,2014-09-28 18:23:02,Crash when adventurer visits or gets near retired player house.
+516246713292836865,2014-09-28 15:23:02,Unfinished constructions from neighbor Mode show up in Adv. Mode
+516201413647814657,2014-09-28 12:23:02,Ghost appeared even with coffin
+516156117064646657,2014-09-28 09:23:02,Strongest odors in tracking window in fast travel cuts off top line of compass rose
+516110819122487296,2014-09-28 06:23:02,Animals not being trained
+516065520962244608,2014-09-28 03:23:02,Crash when greeting Deity
+516020221380153344,2014-09-28 00:23:02,Engraved tiles over fortifictations leave engraved open space tiles when walls below are removed
+515974925216391168,2014-09-27 21:23:03,"Drinking beer is not filling, while drinking blood contaminants is"
+515929625529446400,2014-09-27 18:23:02,"Already-felled trees ""collapse"" when mining under their former roots"
+515884328216461312,2014-09-27 15:23:03,Crashed while blocking in arena mode
+515839027661266945,2014-09-27 12:23:02,"Blank, permanently selected 'Other Materials' in Ammo Stockpile Settings"
+515793727361929216,2014-09-27 09:23:02,My legendary spear elf is unable to hit anything
+515748432116719617,2014-09-27 06:23:03,Mead hall door is above ground level
+515703132811431936,2014-09-27 03:23:02,Miners mine to exclusion of drinking
+515657835058057216,2014-09-27 00:23:03,Squads don't respect reassigned barracks if not active
+515612534963847168,2014-09-26 21:23:02,one Hippie siege (it was actually more like 10)
+515567236636233728,2014-09-26 18:23:02,People at yard sales active and will engage wildlife on the way
+515521937737789442,2014-09-26 15:23:02,neighbors when go to active training consider thems
+515476640718389249,2014-09-26 12:23:02,Climate change in 0.31.06
+515431342411382785,2014-09-26 09:23:02,Unusable Items of Dead neighbors
+515386042401456128,2014-09-26 06:23:02,Crash when sleeping... after attacking people ?
+515340745319137280,2014-09-26 03:23:02,Show genders of animals on cage assignment list
+515295447066607616,2014-09-26 00:23:02,"When asking about troop positions as town ruler, car crashes"
+515250147748753409,2014-09-25 21:23:02,world_gen.txt has CAVE_MIN_SIZE twice
+515204848397320193,2014-09-25 18:23:02,Fullapp is inoperable on Mac
+515159549867986944,2014-09-25 15:23:02,Worldgen crashes in major mods
+515114253230305280,2014-09-25 12:23:02,"New HFS pathing troubles; ends up in a pathing ""freeze"""
+515068953375563776,2014-09-25 09:23:02,"Adventurer can't eat anything when the ambient temperature is ""burning"""
+515023652992339969,2014-09-25 06:23:02,Crash when sleeping on a river map tile
+514978354353934336,2014-09-25 03:23:02,Bone pain vs all other pain
+514933057628147712,2014-09-25 00:23:02,car is not saving when asked to
+514887759279177728,2014-09-24 21:23:02,"Custom creatures in house mode with the ""secretion"" tag constantly go clean themsPeople at yard sales"
+514842462175907840,2014-09-24 18:23:02,children and pathing
+514797164380569601,2014-09-24 15:23:03,unrevealed units are marked as missing when they die
+514751862583873536,2014-09-24 12:23:02,She likes to consume she.
+514706566751461376,2014-09-24 09:23:02,"Traps block Wagon access to Depot, otherwise OK"
+514661266515054592,2014-09-24 06:23:02,Pets follow their masters around after death
+514615969596338176,2014-09-24 03:23:02,Everything reset after embark on previous location
+514570672044261376,2014-09-24 00:23:03,"""Make adamantine wafers"" not assigned by manager, not available at smelters"
+514525372465958912,2014-09-23 21:23:02,'Minimum' squad requirements functions as 'Exact'
+514480071680483329,2014-09-23 18:23:02,Hauled Wheelbarrow displayed under objects on ground.
+514434776099741696,2014-09-23 15:23:03,Limestone float in air
+514389476119150592,2014-09-23 12:23:02,Immigrant neighbors' skills often don't match their job settings
+514344176893587456,2014-09-23 09:23:02,A pending but delayed werebeast arrival causes lag.
+514298880289030144,2014-09-23 06:23:02,Mouse designation oddity causes block selection where it's not expected
+514253580900257792,2014-09-23 03:23:02,Archers/marksneighbors won't shoot through traffic zone
+514208283054596096,2014-09-23 00:23:02,car just crashes 5mins after artefact is produced
+514162984281583616,2014-09-22 21:23:02,Crash when initiating conversation with diety
+514117684142043136,2014-09-22 18:23:02,No seeds available for this location when using seeds left at reclaimed site
+514072387953127424,2014-09-22 15:23:02,neighbor owned items in trade app
+514027088803020800,2014-09-22 12:23:02,Embark froze car in heavy forested site
+513981790734647296,2014-09-22 09:23:02,"Dragged animals escape a few tiles, then teleport back when their captor moves"
+513936492914552832,2014-09-22 06:23:03,neighbors only use part of the farm plot
+513891192346787840,2014-09-22 03:23:02,Very early invasions
+513845893922304000,2014-09-22 00:23:02,Naming inconsistencies in creature raws
+513800596651270145,2014-09-21 21:23:02,Rotten body parts don't seem to impair neighbors
+513755295420776448,2014-09-21 18:23:02,woodcutter drops complete assigned equipment if being undrafted
+513709997600309248,2014-09-21 15:23:02,Your strength has been broken works even for unseen ambushes
+513664701361053696,2014-09-21 12:23:02,giant square hole on embark to hfs
+513619404039680000,2014-09-21 09:23:03,Manager/Broker request meager office even though he has one already
+513574104235278336,2014-09-21 06:23:02,Removing a construction causes all nearby items to teleport to the deconstructor
+513528805349396480,2014-09-21 03:23:02,neighbors won't make charcoal unless metal ore is present
+513483515191914496,2014-09-21 00:23:04,neighbors will only flee in one direction.
+513438207896461312,2014-09-20 21:23:02,Window resize handle in lower right obscures part of the version number
+513392909425860608,2014-09-20 18:23:02,Event details missing from XML dump: add hf hf link
+513347609730510848,2014-09-20 15:23:02,Attempting to produce FOOD item causes crash
+513302311838683136,2014-09-20 12:23:02,clean self job for neighbor with no ability to grasp
+513257016291504128,2014-09-20 09:23:03,Fire itself does no damage.
+513211717086904321,2014-09-20 06:23:03,Announcements list is very short.
+513173952764465152,2014-09-20 03:52:59,Cannot engrave memorial for invading neighbor (now ghostneighbor)
+513172617600438272,2014-09-20 03:47:40,"Dark towers contain thousands of thieves and robbers, causing lag"
+513172019559813120,2014-09-20 03:45:18,"House wealth calculation includes undiscovered city sewer items, causing large migrant waves"
+513171934075682817,2014-09-20 03:44:58,(g)et treats liquids as solid object in suburbia

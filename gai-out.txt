@@ -1,0 +1,4 @@
+screen_name,id,location,expanded_url,created_at,client,client_url
+tullyhansen,12341222,tully at tullyhansen dot com,http://tullyhansen.com,Thu Jan 17 01:34:37 +0000 2008,Tweetbot for Mac,http://tapbots.com/software/tweetbot/mac
+negatendo,619383,Denver CO USA Earth Cyberspace,http://negatendo.net/,Tue Jan 09 19:26:46 +0000 2007,Twitter for iPhone,http://twitter.com/download/iphone
+fanta,3292821,Super Mario Wold,**null**,Tue Apr 03 06:21:40 +0000 2007,Twitter for iPhone,http://twitter.com/download/iphone

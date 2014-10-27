@@ -1,0 +1,53 @@
+id,created_at,text
+525411547758485504,2014-10-23 22:20:49,"@InscrutableTed Whatever amount you would like to give, please donate that to https://t.co/OYq1BnCa8C. They need it more! Thanks -@j4cob"
+523978912112857088,2014-10-19 23:28:02,"@die_sel_cat @BlockYaccyaUYO yes, I will probably do this in the future. Right now subscriptions are top priority, though."
+523854312339165184,2014-10-19 15:12:55,@blocktogether The slowness should be fixed. Let me know if it is slow for you! - @j4cob
+523853930040930305,2014-10-19 15:11:24,"@die_sel_cat @BlockYaccyaUYO You can visit the Actions page and see if any are still 'pending,' but that can be hard with long lists."
+522364380122710016,2014-10-15 12:32:27,"@J_Arcane @infinite_ammo @Lekonish BTW, please do report bugs. I'm actively working on improving it. -@j4cob"
+521786164064555008,2014-10-13 22:14:50,"Block Together is running slow today. @j4cob needs to tune the database. Sorry for the inconvenience, will fix."
+521640951086088192,2014-10-13 12:37:49,"@POPOP654 You're welcome, I am glad to help."
+521275266380099585,2014-10-12 12:24:42,"@HenkPoley Right: that's spam (or SEO), not harassment. Block Together is intended to help with harassment."
+521274685745811457,2014-10-12 12:22:24,@HenkPoley Probably not on the horizon since that's more of an anti-spam than anti-harassment feature. But you are welcome to fork the code!
+521141688337981440,2014-10-12 03:33:55,"Also in https://t.co/B13BFrk4Uw v0.5: If you have a long Actions page, it's broken into multiple pages, thanks to @BooDooPerson."
+521140349830705152,2014-10-12 03:28:36,Also in https://t.co/B13BFrk4Uw v0.5: My Unblocks has been merged into Actions.
+521140219572391936,2014-10-12 03:28:05,https://t.co/B13BFrk4Uw v0.5 released: more reliable egg blocking; Block All works right for long lists; Lists include follow counts &amp; age.
+521079771401551872,2014-10-11 23:27:53,"@mgpcoe @GlennF @oolon @adriarichards @travelingheidi @iroc Would love your help, lots of work to do. https://t.co/ERP6Vkxq79"
+521077472407076864,2014-10-11 23:18:45,@oolon @adriarichards @mgpcoe @GlennF @travelingheidi Subscriptions are coming soon: https://t.co/hu32BWKhui. More details on C.o.Trust?
+520988141508112385,2014-10-11 17:23:47,@JLSigman the idea being that you can more easily report abuse from the desktop UI?
+520976291911442432,2014-10-11 16:36:41,"When clicking screen names in Block Together, do you want to link to Twitter Desktop or Twitter Mobile? Mobile = faster, but fewer features."
+519216467766968320,2014-10-06 20:03:47,"On Android, to get Notifications only from 'People you follow' visit Settings -&gt; @ account_name -&gt; Notifications timeline. @blocktogether"
+519214686534131712,2014-10-06 19:56:42,"@mike3k Thanks for the feedback! I chose mobile because it loads faster if you're clicking lots of links, but will consider changing."
+519213629061996544,2014-10-06 19:52:30,Remember: Sometimes during a bad harassment campaign it can help to set Notifications to only 'People you follow.' http://t.co/rQSTLfD9Er
+517769729080324096,2014-10-02 20:14:57,"Also coming soon to Block Together: Block lists will include account age, number of tweets, following, followers, and maybe more!"
+517709085081616386,2014-10-02 16:13:59,Coming soon to Block Together: ongoing block list subscriptions. Please review the design doc and give feedback! https://t.co/hu32BWKhui
+517663408028925952,2014-10-02 13:12:28,"@Spacekatgal @10rdBen The My Blocks page does show your total from the Twitter API, not just blocks made by Block Together."
+516001595524648960,2014-09-27 23:09:01,Version 0.3 released today includes: paged blocks by @BooDooPerson; UTF8 support; Ability to unblock. https://t.co/B13BFrk4Uw
+513023024543842304,2014-09-19 17:53:15,"Version 0.2 of https://t.co/m89L5vn9AW, released just now, includes ""Block accounts w/ &lt;15 followers,"" thanks to @BooDooPerson."
+511965552970309632,2014-09-16 19:51:14,"@brandonnn @coleott @ADAMATOMIC Yep, that makes a lot of sense."
+511965066489757696,2014-09-16 19:49:18,@coleott @ADAMATOMIC @brandonnn Yep! Gotta do a deploy later today for that feature to be live. Glad to hear you're looking out for it!
+509901226172243968,2014-09-11 03:08:20,New release today: Easier first-time signup; display user names on Actions page; handle deactivation; more robust new account blocking.
+507984822795763712,2014-09-05 20:13:14,Previous technical difficulties with 'block new accounts (&lt; 7 days)' are fixed  (tweeting 2nd time because self-reply hidden from timeline).
+504130564212137984,2014-08-26 04:57:47,@blocktogether This is now fixed.
+504119110381608962,2014-08-26 04:12:16,Having some technical difficulties with the 'block new accounts (&lt; 7 days)' feature. Some may go unblocked until I fix it; apologies.
+502529897865445376,2014-08-21 18:57:18,@AngryBlackLady But later visits to Notifications tab should be purged. And I'm particularly interested in fixing missed new accounts.
+502529677995810816,2014-08-21 18:56:26,"@AngryBlackLady In my testing I found that even w/ instant blocks, notifications happen (unless I turn on 'replies from people I follow')."
+502529400223838208,2014-08-21 18:55:20,@AngryBlackLady Sorry about the ones that slip through! Please do send examples when they happen and I'll see what I can improve.
+502527765351243777,2014-08-21 18:48:50,"@NoRedditBots @blauralum Yep, that's what it looks like from here."
+502324699217793024,2014-08-21 05:21:55,"@gewt Thanks again for the report, this is exactly what a beta is for! :-)"
+502324387476148224,2014-08-21 05:20:41,"@gewt Gonna do a quick-fix that just increases the cycle time, and go to bed."
+502324324322541568,2014-08-21 05:20:26,@gewt So it pulls in blocks that still look like they are pending even though a different callback is about to block them.
+502324215610347520,2014-08-21 05:20:00,"@gewt Aha, I think I've found the source of the problem. The next queue-processing chunk happens before the previous completes."
+502321566060126208,2014-08-21 05:09:28,@gewt Is this making your client unusable? Considering short-term remedies that would still leave new account auto-blocks functioning.
+502321118800543744,2014-08-21 05:07:42,"@gewt Interesting. I think the bug was latent, this release tickled it by unblocking the queue."
+502318593695318016,2014-08-21 04:57:40,"@gewt Thanks for the report! Just rolled back the latest release, which introduced this. Let me know if fixed?"
+502316149531770880,2014-08-21 04:47:57,@gewt what's up?
+501832005546303488,2014-08-19 20:44:08,"Block faster with shortcuts in Twitter for web: Type 'j' or 'k' to select a tweet, 'b' for block dialog, ⏎ to block. http://t.co/Qls7IIEnS4"
+501566764162244608,2014-08-19 03:10:09,@blauralum Check out @NoRedditBots' list on @blocktogether: https://t.co/bvJ0sPFkkq
+501201987862798336,2014-08-18 03:00:40,"@RBraceySherman It looks like that account dates from 2012. Sorry about that! Future features could filter eggs, low followers, etc."
+499345630264057858,2014-08-13 00:04:10,"RT @TheBlockBot: You can block level1 blocks using http://t.co/CuwiRnJsV0 now. Here is the URL -&gt;
+https://t.co/kJAhQR5SvV
+h/t @j4cob"
+498321236393754624,2014-08-10 04:13:35,"Pushed a release today. Now if a new user @-replies you and you unblock, Block Together will not re-block. https://t.co/B13BFr31Sw"
+497055379076182017,2014-08-06 16:23:31,"RT @nrrrdcore: I made you a t-shirt, Internet 💘 http://t.co/bRD21OJyj7 http://t.co/Zkjm64WBVe"
+497055207722074112,2014-08-06 16:22:51,"RT @j4cob: If https://t.co/DNYyho1StB was giving you rate limited errors yesterday, should be fixed today. No longer hits Twitter on each r…"
+496727022283280384,2014-08-05 18:38:45,Now in beta! https://t.co/B13BFr31Sw

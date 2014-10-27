@@ -1,0 +1,132 @@
+id,created_at,text
+525437167179665408,2014-10-24 00:02:37,It's Raining interactions will no longer continue to occur after a Sim has seen the weather several times.
+525317480840196096,2014-10-23 16:07:02,"Werewolf, Vampire, and normal Sim skin types are now updating correctly at proper times."
+525074663396081664,2014-10-23 00:02:09,Children will no longer levitate when they watch a birth.
+524954751285624833,2014-10-22 16:05:40,Pets now receive their pension upon retirement.
+524712251069317120,2014-10-22 00:02:04,[MAC ONLY] Swimming in a pool inside a high rise building will no longer cause a Sim’s plumbob to become invisible.
+524592514649841665,2014-10-21 16:06:16,Sims will now much more rarely route through swimming pools when trying to reach locations.
+524349813333458944,2014-10-21 00:01:52,Sims will now not run indoors.
+524229336283758594,2014-10-20 16:03:08,Mermaid Children can now take showers.
+523987242155769856,2014-10-20 00:01:08,"Toddler's body no longer deforms when ""Watching TV"" after ""Learning to Talk."""
+523870268150673408,2014-10-19 16:16:19,Neighbors will no longer gather to watch a burglar that hasn't yet stolen anything.
+523262725544509441,2014-10-18 00:02:10,Only one Grim Reaper will appear on a lot where more than one death has occurred.
+523142275887796225,2014-10-17 16:03:32,Grim Reaper relationship will only appear once in Relationship Panel if there is more than one death occurring on a lot.
+522900254669414400,2014-10-17 00:01:50,Teens will no longer leave a Business lot with unpaid goods at the time of curfew.
+522781056274272256,2014-10-16 16:08:11,Dorm Cooks will no longer duplicate on previously played lots after installing Nightlife.
+522537880829571074,2014-10-16 00:01:53,Asking fifth person to join water wiggler no longer affects gameplay.
+522417606603833344,2014-10-15 16:03:58,Sim animations will no longer break when the 'Offer Tattoo to…' interaction is used.
+522175466778939393,2014-10-15 00:01:47,Torch sound effects are now being emitted from the proper position.
+522055139805638656,2014-10-14 16:03:39,Birds and Womrats now require less feeding to survive.
+521813041156210691,2014-10-14 00:01:38,"Wish to ""See Child Become a Genius"" now auto cancels once it is no longer possible to fulfill."
+521692653977874432,2014-10-13 16:03:15,Fixed a crash that occurred when moving through the installer very quickly.
+521450568184004609,2014-10-13 00:01:18,Gnomes can now be live dragged on community lots.
+521330003485917184,2014-10-12 16:02:13,The “Sniff” interaction can now be performed on Celebrity Sims when The Sims 3 Late Night is installed.
+521088139885293568,2014-10-12 00:01:08,Snow angels now work properly.
+520967699363790848,2014-10-11 16:02:33,The plumbbob will no longer appear in an NPCs chest when they marry into a Sim's family.
+520725826351153152,2014-10-11 00:01:26,Karaoke Machine wishes will appear much less frequently.
+520605356104617984,2014-10-10 16:02:43,Sims' lifespans are no longer altered when using the Change Appearance or Plan Outfit interactions.
+520363572656754689,2014-10-10 00:01:58,Tourist NPCs can now be impregnated.
+520242930309931008,2014-10-09 16:02:34,Fixed an issue where ghosts could become stuck in vehicles. Ghosts will now properly exit vehicles after arriving at their destination.
+520001063873970176,2014-10-09 00:01:29,Sims will now correctly perform the Hula dance when asked to.
+519880635805368320,2014-10-08 16:02:57,"Send or receive a surprise gift box to and from your friends! It could contain anything from  Simoleons to a painting, or even a car!"
+519638689186455554,2014-10-08 00:01:32,Pets will no longer sink into the ground when Sims interact with Water Wiggler.
+519518209251479553,2014-10-07 16:02:47,Addressed an issue where Sims could get stuck in the Sarcophagus if other Sims were lined up to use it.
+519276300574683136,2014-10-07 00:01:32,Replaced a duplicate hat style for elder females.
+519155717610414080,2014-10-06 16:02:23,The Grim Reaper will no longer be prevented from reaping souls due to band affiliation.
+518914329186680832,2014-10-06 00:03:11,"When in use, the shuffleboard will no longer lose its functionality when a Sim attempts to detonate the object."
+518793083870134272,2014-10-05 16:01:24,New Pagoda style roofs.
+518551383830982656,2014-10-05 00:00:58,Zits are now removed from any Sim that enters university.
+518430809913851905,2014-10-04 16:01:51,Elder canes now work properly.
+518189038751449088,2014-10-04 00:01:08,Sims can no longer hang out with Celebrity Sims on swing sets before properly impressing them.
+518068659206750208,2014-10-03 16:02:48,Sims no longer get crushes from playing handhelds together.
+517827070257549312,2014-10-03 00:02:48,"When adopting a dog, you will now be shown whether the dog is a Little Dog or a Large Dog."
+517706159500058625,2014-10-02 16:02:21,Pets will no longer visit Downtown alone.
+517464422106009600,2014-10-02 00:01:46,Ghosts can now float into rooms with no doors.
+517344098593021952,2014-10-01 16:03:39,Sims that catch on fire from the Invention Workstation can now have the fire put out when the firefighters are called.
+517101955672727552,2014-10-01 00:01:28,"When using the Fire Pit, Sims can no longer roast and eat horse fertilizer."
+516981638967087104,2014-09-30 16:03:22,Sims can now ask other Sims out on dates!
+516739647020761088,2014-09-30 00:01:47,Players can now adjust a Sim’s muscle definition and breast size.
+516618983261605888,2014-09-29 16:02:18,Male Sims can now wear up to three earrings on one ear.
+516377099796766721,2014-09-29 00:01:09,"Fixed a very slow memory leak triggered by the ""Fertilize"" interaction."
+516256512545927168,2014-09-28 16:01:58,Families are now able to go to work when owning multiple cars.
+516014716414853120,2014-09-28 00:01:10,Hair no longer separates from Sims' head when werewolf teens turn into adults.
+515894187695542272,2014-09-27 16:02:13,Sims will no longer die as easily by being struck by lightning.
+515652406311649280,2014-09-27 00:01:28,Children can now drink served juice.
+515532135156170752,2014-09-26 16:03:33,Primp interaction is no longer missing from the game.
+515290034959044608,2014-09-26 00:01:32,"""SuperTower"", ""Hey Hey It's the Monkey Bars"" and ""SlidenFraude"" (from Go Play!) can now be repossessed by the Repo man."
+515169854522150912,2014-09-25 16:03:59,Fix for babysitter routing off lots with babies.
+514927662562025473,2014-09-25 00:01:36,"Child Sims no longer deform after ""Watching a Concert."""
+514807277690564608,2014-09-24 16:03:14,[PC ONLY] Addressed an issue where a user was unable to uninstall The Sims™ 3 if the 1.3 update was interrupted.
+514565265976479747,2014-09-24 00:01:34,A faint line is no longer visible on the heads of babies.
+514444736468627456,2014-09-23 16:02:37,Sims living together will now automatically know each other from the start.
+514202834171342849,2014-09-23 00:01:23,“Jog Here” Interaction will not appear when selecting a pool.
+514082398578167809,2014-09-22 16:02:49,Child and Teen Sims will not autonomously sit down in the street to do homework.
+513840349383778305,2014-09-22 00:01:00,"The ""Veggies…Now"" Adventure now specifically requires lettuce for completion."
+513719685784023040,2014-09-21 16:01:32,Sims may now walk and stand on bridges
+513477905012523008,2014-09-21 00:00:47,"Body hair can now be applied on male Sims, from head to toe!"
+513357343846068224,2014-09-20 16:01:43,The wish to “Attend Prom” will no longer appear while a Sim is attending Prom.
+513115587049181184,2014-09-20 00:01:03,Zombies will no longer continue to spawn after a Full Moon ends when the game has been saved during a Full Moon.
+512995163170668544,2014-09-19 16:02:32,The Murphy Bed has been made less lethal.
+512753244196446209,2014-09-19 00:01:14,Sims without dogs will no longer receive the “Your Dog wants to go to the park” wish.
+512633430438576128,2014-09-18 16:05:08,Fixed an issue that caused Sims to leave their Toddler inside a bar at closing time.
+512390837251366912,2014-09-18 00:01:10,"[MAC ONLY] After exiting the game, desktop icons appear in same location as at game start."
+512270262738628608,2014-09-17 16:02:02,Roofing is now visible on low end Intel video cards.
+512028493505650688,2014-09-17 00:01:20,Children will no longer pop when drinking Hot Chocolate.
+511998308601303040,2014-09-16 22:01:23,"Sims performing the ""Join Freestyle"" interaction should no longer pop."
+511953284605935616,2014-09-16 19:02:29,Sims will no longer pop while fishing.
+511907812981891072,2014-09-16 16:01:48,"Child Sims will no longer pop when asked to ""Clean Up"" the juice tray."
+511666150024155136,2014-09-16 00:01:31,Ghost Sims will now remain floating when returning from Boarding School.
+511545449258704896,2014-09-15 16:01:53,Service NPCs that have died will now be replaced correctly.
+511303592033394688,2014-09-15 00:00:50,Popular Sims' facial animations no longer ceases to play when talking to other Sims.
+511182837106872320,2014-09-14 16:01:00,[UNDOCUMENTED] Causes a severe bug with the Create a World tool which makes the tool unuseable.
+510941152342986753,2014-09-14 00:00:38,"Life Time Want ""Reached Golden Anniversary"" is now achievable."
+510820421386919936,2014-09-13 16:00:53,Fixed an unlikely error that could occur if the player's Sim was far from home when a foreign visitor arrived.
+510578880953217025,2014-09-13 00:01:05,Fences no longer occlude sound.
+510535941287444480,2014-09-12 21:10:28,RT @TheStrangeLog: Sims will no longer have Grand Vampire's hairstyle after being bitten by the Grand Vampire.
+510473265958379521,2014-09-12 17:01:25,Child Sims will no longer “Play in Sand” indoors where there is no sand.
+510216591293022208,2014-09-12 00:01:29,There are now stricter relationship requirements for Woohooing with Sims in the Sarcophagus.
+510110985248866305,2014-09-11 17:01:50,Flaming Bags of Poo should not be delivered indefinitely after a bad date.
+509854083155771392,2014-09-11 00:01:00,Owned businesses now properly generate income again.
+509748544992182272,2014-09-10 17:01:38,Influencing Sims to fight another Sim will no longer cause non-werewolf Sims to turn into a werewolf.
+509491714252632064,2014-09-10 00:01:05,Improvements were made to car preference.
+509386512589664256,2014-09-09 17:03:03,Stairs can be above and below each other.
+509129307869184000,2014-09-09 00:01:00,Swimming Sims no longer walk on water after The Sims™ 3 is updated.
+509023663820390400,2014-09-08 17:01:13,Sims can no longer travel with Sims who are in jail.
+508766949883772928,2014-09-08 00:01:07,Social Groups now generate significantly less NPCs
+508661277011767296,2014-09-07 17:01:13,The Heckle interaction is no longer available in Sims swimming in the ocean.
+508404547984060416,2014-09-07 00:01:04,"""Become Enemies with Child"" wish no longer appears."
+508298900189761537,2014-09-06 17:01:16,"Sims can no longer ""Try for Baby"" with the Grim Reaper."
+508042272748077056,2014-09-06 00:01:31,Closet WooHoo animation will now fail properly if one partner is occupied with another activity such as reading a book
+507936733795983361,2014-09-05 17:02:09,Puppies and Kittens can no longer be taken to work.
+507679859628576768,2014-09-05 00:01:25,The Sims 3 now supports more than 2000 concurrent save games.
+507574385944043521,2014-09-04 17:02:18,Sims will no longer occasionally fail to walk a path involving four or more flights of stairs.
+507317456952885249,2014-09-04 00:01:21,The Mad Scientist career track will no longer have a conflicting message about missing a day of work and having the day off.
+507212119696474112,2014-09-03 17:02:47,Vampires do not keep vampire abilities after Nightlife is uninstalled
+506955017866452993,2014-09-03 00:01:09,Fish no longer appear on dry ground of lots that have been coverted to residential lots .
+506919575682703360,2014-09-02 21:40:19,Fixed a crash in Build Mode by preventing the game from thinking fences were rooms.
+506849486992601088,2014-09-02 17:01:49,A Sim whose fiance dies can now become engaged again.
+506818538112552960,2014-09-02 14:58:50,RT @Kotaku_UK: Proud Sims 4 parents put on a brave face as they spawn horrendous demon-babies http://t.co/9o2Teothp1 http://t.co/udo0bigmJm
+506592553815523329,2014-09-02 00:00:51,Magical gnomes from Ambitions will now behavior appropriately.
+506561996507316224,2014-09-01 21:59:26,You can now exit Build Mode when not on your home lot if a baby was incorrectly left in the home lot inventory.
+506487239711653888,2014-09-01 17:02:22,"Placing ""Myne Door"" dorm doors diagonally no longer causes entire rooms to turn invisible."
+506230132726857728,2014-09-01 00:00:43,The wish to “Skinny Dip with Simbot” will no longer occur.
+506124555774337026,2014-08-31 17:01:12,The Food Truck will now always stay at a location for at least a reasonable amount of time before leaving for the next location.
+505867732227608577,2014-08-31 00:00:40,Patched an issue where the headmaster could get stuck indefinitely in a hot tub under certain motive conditions.
+505762163412439040,2014-08-30 17:01:11,Housekeeper now fills holes and fixes broken objects.
+505505559102357505,2014-08-30 00:01:31,Sim Babies no longer cry excessively.
+505400044296863744,2014-08-29 17:02:15,[UNDOCUMENTED] Magicians re-enabled.
+505143068660891649,2014-08-29 00:01:07,Bigfoot can no longer change appearance on the vanity table.
+505037740166381568,2014-08-28 17:02:35,Sheet music can no longer be chosen from the bookshelf. This prevents a situation in which Sims could no longer learn particular songs.
+504809385013829632,2014-08-28 01:55:10,"""Befriend All Co-workers"" wish is no longer fulfilled by switching to a job with no coworkers."
+504702496477294592,2014-08-27 18:50:26,Kleptomaniac Sims are no longer able to steal the holes created by the Miner invention.
+504415589277134848,2014-08-26 23:50:22,Sims no longer have the rare chance of getting permanently stuck while socializing.
+504316206493736960,2014-08-26 17:15:28,Fixed an issue where pointed-ear dogs would become corrupt when moved into a lot.
+504051944223432705,2014-08-25 23:45:22,The Sims 3 is now properly categorized as a game in the Windows Vista Games Explorer.
+503970143844986883,2014-08-25 18:20:20,Pregnant Sims can no longer “Brawl.”
+503693632009166849,2014-08-25 00:01:34,Sim now cannot move mailboxes when cutting gems or mounting fish.
+503588892571090944,2014-08-24 17:05:22,Fixes an issue where Sims would be unintentionally removed from Boarding School when the Prom of another Sim began.
+503323388262514688,2014-08-23 23:30:21,Sims can no longer perform mean socials to children.
+503234016116756481,2014-08-23 17:35:13,"Parents will no longer wish to ""See Sim Get Married"" for their already married children."
+502947212901756928,2014-08-22 22:35:34,"Woo Woo Fire Engines will now maintain all functionality after Sims drive them in Egypt, China, or France."
+502889304725925889,2014-08-22 18:45:28,Teens sent to University can now successfully complete their first Semester.
+502621215392280578,2014-08-22 01:00:10,The Old Prude will now appear on all the lots.

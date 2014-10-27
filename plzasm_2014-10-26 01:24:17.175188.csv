@@ -1,0 +1,116 @@
+id,created_at,text
+512131473642504192,2014-09-17 06:50:32,RT @RedragonX: Please help my group fund a wheelchair lacrosse game! http://t.co/mLmw1x2Uro via @gofundme
+507379087669616640,2014-09-04 04:06:15,RT @DefuseSec: We're looking for judges (crypto / appsec / usability people) to judge entries. More: https://t.co/2nfsBmotOG
+506980903914975232,2014-09-03 01:44:01,RT @kaepora: There seems to be a global issue right now with the Apple App Store. Downloading almost any app gives an error.
+506538404905906176,2014-09-01 20:25:41,RT @ioerror: @matthew_d_green @JoeBeOne @ln4711 RC4 is broken in real time by the #NSA - stop using it.
+503318109994749952,2014-08-23 23:09:23,"RT @BoingBoing: Portrait of slain war photographer #JamesFoley, by @MollyCrabapple. http://t.co/l7BDMpZuWb http://t.co/lTFyu5nrRn"
+501870326515376128,2014-08-19 23:16:24,RT @BiellaColeman: The biggest Anonymous twitter account @youranonnews was suspended! Please refer to @YANBackUp and RT
+487123263244746752,2014-07-10 06:36:50,"@kl3pt01d ""jmp esp"" assembles to ""FFE4"""
+486520532553441280,2014-07-08 14:41:48,"@k4rliky Sorry, ""mov ax,4c00h int 21h"" could not be assembled."
+483341056662982657,2014-06-29 20:07:42,RT @Swati_THN: #Tails Operating System Website Has Beed Hacked http://t.co/fheVhM2fO9 #Security http://t.co/HfdpJ0YJls @ErrataRob @thegrugq…
+481559740624166912,2014-06-24 22:09:23,"@NoxOner Sorry, ""alguien_tw Creo que el  se bugeo porque tomó ""NoxOner"" como mnemonic :P. ""FFE0"" = JMP EAX"" could not be assembled."
+481558846713131008,2014-06-24 22:05:50,"@alguien_tw Sorry, ""NoxOner  JMP EAX"" could not be assembled."
+481005588395331585,2014-06-23 09:27:23,"@shel3over ""MOV AX,BX"" assembles to ""6689D8"""
+480988233653035009,2014-06-23 08:18:25,"@Manawyrm ""rol eax, 4"" assembles to ""C1C004"""
+480987895017504768,2014-06-23 08:17:05,"@RedragonX ""xor eax, eax"" assembles to ""31C0"""
+474867286135021568,2014-06-06 10:55:58,"@voodooKobra Sorry, ""FF RedragonX"" could not be assembled."
+474659650571603968,2014-06-05 21:10:54,"RT @EFF: 38,000 Canadians are battling warrantless access to telecom company data. Let's make it 40,000 for June 5th. https://t.co/WUleSJ2H…"
+468727075051159552,2014-05-20 12:16:57,"@01101O10 ""rol eax, 3"" assembles to ""C1C003"""
+466112681473110016,2014-05-13 07:08:17,RT @RedragonX: Here is a new post about the process on making Apothem OS. https://t.co/ApbIsgGuAh
+455191714240954368,2014-04-13 03:52:16,"@DefuseSec Sorry, ""jcxz 0"" could not be assembled."
+455191609710489600,2014-04-13 03:51:51,"@DefuseSec Sorry, ""jecxz 0"" could not be assembled."
+448259246656729088,2014-03-25 00:45:07,RT @gcluley: Just previewing an Outlook email could infect your computer. Microsoft warns of zero-day flaw http://t.co/1Abo8tFq7Y
+444725909979791360,2014-03-15 06:44:54,RT @RedragonX: Internet revolution will happen on June 5th! https://t.co/PayDO0W810
+433056362550288384,2014-02-11 01:54:17,"@tsumaranai_risu ""xor eax, eax"" assembles to ""31C0"""
+428551515620777984,2014-01-29 15:33:38,"@DefuseSec ""rol eax, 3"" assembles to ""C1C003"""
+428551471408619520,2014-01-29 15:33:27,"@DefuseSec Sorry, ""rol eax 3"" could not be assembled."
+428391750852681728,2014-01-29 04:58:47,"@RedragonX Sorry, "".test"" could not be assembled."
+425887477845749760,2014-01-22 07:07:41,"@nico911 Sorry, ""lea ecx, DWORD PTR:[0x12345678]"" could not be assembled."
+425887173418975232,2014-01-22 07:06:29,"@nico911 ""xor ebx, ebx"" assembles to ""31DB"""
+425662741534507008,2014-01-21 16:14:40,"@nico911 Sorry, ""lea ecx, 0x12345678"" could not be assembled."
+425662434658250754,2014-01-21 16:13:27,"@nico911 Sorry, ""lea ecx, 0x12345678
+mov eax, 0x12345678
+jmp eax
+push 0x12345678
+ret"" could not be assembled."
+424743728197435392,2014-01-19 03:22:50,"@JoeAbbey ""jmp esp"" assembles to ""FFE4"""
+424743384289644544,2014-01-19 03:21:28,"@JoeAbbey Sorry, """"jmp esp"""" could not be assembled."
+424733064863174656,2014-01-19 02:40:28,"@nico911 Sorry, ""mov eax, [ecx]
+mov eax, [eax + 10]
+push 0B8
+call eax"" could not be assembled."
+424667754256678912,2014-01-18 22:20:57,"@trufae ""fclex"" assembles to ""9BDBE2"""
+424667591228276736,2014-01-18 22:20:18,"@trufae ""fnclex"" assembles to ""DBE2"""
+424653939296837632,2014-01-18 21:26:03,@SurprisingEdge Try it again :P
+424652686299258881,2014-01-18 21:21:04,"@RedragonX ""jmp eax"" assembles to ""FFE0"""
+424642032116973569,2014-01-18 20:38:44,"@DefuseSec Sorry, ""lauri__nomme LMAO."" could not be assembled."
+424636830353731584,2014-01-18 20:18:04,"@SurprisingEdge Sorry, ""LOCK CMPXCHG8B EAX"" could not be assembled."
+424633253694570496,2014-01-18 20:03:51,"@lauri__nomme Sorry, ""Dave"". I'm afraid I can't do that. My ""ass"" could not be assembled."
+424631770576076800,2014-01-18 19:57:58,"@drymangobird Sorry, ""cmpxchg8b eax"" could not be assembled."
+424631549699850240,2014-01-18 19:57:05,"@drymangobird Sorry, ""lock cmpxchg8b eax"" could not be assembled."
+424625827318620160,2014-01-18 19:34:21,"@ddossot Sorry, ""Meet , the Intel x86 assembly tweet bot."" could not be assembled."
+424625637358571520,2014-01-18 19:33:35,"@main____ Sorry, ""inc rax
+nop
+call dword ptr [1337]
+xor rax,rax
+ret"" could not be assembled."
+424625252216635393,2014-01-18 19:32:03,"@main____ ""jmp 0xabad1dea
+jmp 0"" assembles to ""E9E61DADABE9FCFFFFFF"""
+424623967392256001,2014-01-18 19:26:57,"@DefuseSec ""xor eax, eax
+inc eax
+mov ebx, eax
+int 0x80"" assembles to ""31C04089C3CD80"""
+424618443019943936,2014-01-18 19:05:00,"@filcab Sorry, ""i0n1c why not «mov al, 11»?"" could not be assembled."
+424548686442819584,2014-01-18 14:27:49,"@k4rliky Sorry, ""fstp"" could not be assembled."
+424548600421814272,2014-01-18 14:27:28,"@k4rliky Sorry, ""fstp dword ptr [esi+18FCh]"" could not be assembled."
+424548552321544193,2014-01-18 14:27:17,"@k4rliky Sorry, ""fstp dword ptr"" could not be assembled."
+424548373598060544,2014-01-18 14:26:34,"@k4rliky Sorry, ""fstp    dword ptr [esi+18FCh]"" could not be assembled."
+424546318816923648,2014-01-18 14:18:24,"@__gbg__ ""xchg eax, eax"" assembles to ""90"""
+424542689603096576,2014-01-18 14:03:59,"@TDKPS ""pshufd xmm2, xmm2, 0xff 
+ vpslldq xmm3, xmm1, 0x4 
+ pxor xmm1, xmm3"" assembles to ""660F70D2FFC5E173F904660FEFCB"""
+424542127738351616,2014-01-18 14:01:45,"@TDKPS Sorry, ""aesenc xmm15, xmm1"" could not be assembled."
+424539421422391296,2014-01-18 13:51:00,"@TBong91 ""sub eax, eax"" assembles to ""29C0"""
+424530140560101376,2014-01-18 13:14:07,"@seecurity Sorry, ""Tweet  an Intel x86 instruction and it'll assemble it for you! Put  in your tweet for 64-bit ..."" could not be assembled."
+424529940998942720,2014-01-18 13:13:19,"@thomaskerin Sorry, ""nop nop nop"" could not be assembled."
+424528186442280960,2014-01-18 13:06:21,"@a_z_e_t ""pxor xmm15, xmm0
+aesenc xmm15, xmm1 
+aes..."" assembles to ""66440FEFF866440F38DCF966440F38DCFA66440F38DCFB66440F38DCFC66440F38DDFD"""
+424527341424238592,2014-01-18 13:03:00,"@a_z_e_t ""pxor xmm15, xmm0
+aesenc xmm0, xmm1"" assembles to ""66440FEFF8660F38DCC1"""
+424514351127867392,2014-01-18 12:11:23,"@zbrdge Sorry, ""swi 0x0"" could not be assembled."
+424513177708417024,2014-01-18 12:06:43,"@zbrdge ""int 0x80"" assembles to ""CD80"""
+424511707994914816,2014-01-18 12:00:52,"@zbrdge ""syscall"" assembles to ""0F05"""
+424508698862841856,2014-01-18 11:48:55,"@raimue ""pause"" assembles to ""F390"""
+424508643791618048,2014-01-18 11:48:42,"@raimue Sorry, ""rep nop"" could not be assembled."
+424504382454267904,2014-01-18 11:31:46,"@send9 Sorry, ""MASKMOVDQU"" could not be assembled."
+424503614715875328,2014-01-18 11:28:43,"@send9 ""MONITOR"" assembles to ""0F01C8"""
+424497302162915328,2014-01-18 11:03:38,"@vespasfera ""HLT"" assembles to ""F4"""
+424496803762171904,2014-01-18 11:01:39,"@vespasfera Sorry, ""HALT"" could not be assembled."
+424493226972958720,2014-01-18 10:47:26,"@send9 ""mov eax, 0x5b00"" assembles to ""B8005B0000"""
+424489391277748224,2014-01-18 10:32:12,"@k4rliky Sorry, ""fstp dword [0x09705890]"" could not be assembled."
+424489334914682880,2014-01-18 10:31:58,"@FilippoBiga ""xor eax,eax"" assembles to ""31C0"""
+424489228463267840,2014-01-18 10:31:33,"@FilippoBiga ""jmp esp"" assembles to ""FFE4"""
+424489075157258240,2014-01-18 10:30:56,"@egeektronic ""RETF 0xFB"" assembles to ""CAFB00"""
+424488963123216384,2014-01-18 10:30:30,"@andreasdotorg ""repnz movsb"" assembles to ""F2A4"""
+424488922262278144,2014-01-18 10:30:20,"@i0n1c_b0t ""MOV EAX, 0x73507350"" assembles to ""B850735073"""
+424488061528195072,2014-01-18 10:26:55,"@defendtheworld ""lahf"" assembles to ""9F"""
+424487702474813440,2014-01-18 10:25:29,"@defendtheworld Sorry, ""lahf lahf lahf"" could not be assembled."
+424486553709445120,2014-01-18 10:20:55,"@i0n1c ""MOV EAX, 0x73507350"" assembles to ""B850735073"""
+424485521822597120,2014-01-18 10:16:49,"@seecurity ""NOP"" assembles to ""90"""
+424473208331722752,2014-01-18 09:27:53,"@wucht Sorry, ""lock repne scas al,cs:[edi]"" could not be assembled."
+424472145247621120,2014-01-18 09:23:40,"@awhitehatter Sorry, ""RT mruef RT RedragonX: My twitter bot is up! Tweet an x86 instruction like ""JMP EAX"" to  a..."" could not be assembled."
+424468120187965440,2014-01-18 09:07:40,"@lstat_ ""xchg eax, eax"" assembles to ""90"""
+424459446400872448,2014-01-18 08:33:12,"@RedragonX ""JMP EAX"" assembles to ""FFE0"""
+424439938835558400,2014-01-18 07:15:41,"@larstr ""xor eax, eax"" assembles to ""31C0"""
+424432434856607744,2014-01-18 06:45:52,"@SimonZerafa Sorry, ""SGgrc Tweet an x86 instruction like ""JMP EAX"" to  and it will assemble it for you ;-)"""" could not be assembled."
+424431861553954816,2014-01-18 06:43:36,"@KutixuiW Sorry, ""http://t.co/D6iTkWP4JV"" could not be assembled."
+424431604191477760,2014-01-18 06:42:34,"@mruef Sorry, ""RT RedragonX: My twitter bot is up! Tweet an x86 instruction like ""JMP EAX"" to  and it will assem..."" could not be assembled."
+424431447236444160,2014-01-18 06:41:57,"@SimonZerafa Sorry, ""SGgrc Tweet an x86 instruction like ""JMP EAX"" to  and it will assemble it for you ;-)"" could not be assembled."
+424429825013870592,2014-01-18 06:35:30,"@MegOnWheels Sorry, ""RedragonX  DefuseSec cryptopathe The  6809 was way better :)"" could not be assembled."
+424425778974298113,2014-01-18 06:19:25,"@lyrradarryl ""mov eax, [edx+esi*4]"" assembles to ""8B04B2"""
+424410154445316096,2014-01-18 05:17:20,"@frkbmb ""nop"" assembles to ""90"""
+424403894123642880,2014-01-18 04:52:28,"@drymangobird ""int 0x80"" assembles to ""CD80"""
+424403864033697792,2014-01-18 04:52:20,"@DefuseSec ""jmp esp"" assembles to ""FFE4"""
+424403320896507904,2014-01-18 04:50:11,"@DefuseSec ""add al, bl"" assembles to ""00D8"""
+424391250838843392,2014-01-18 04:02:13,"@DefuseSec ""jmp eax"" assembles to ""FFE0"""
